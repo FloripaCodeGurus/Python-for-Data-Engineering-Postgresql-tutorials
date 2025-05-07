@@ -4,17 +4,17 @@ conn = connect_to_university_db()
 if conn:
     cur = conn.cursor()
     cur.execute("""
-    CREATE TABLE people (
+    CREATE TABLE IF NOT EXISTS people (
         id SERIAL PRIMARY KEY,
         first_name VARCHAR(50),
         last_name VARCHAR(50),
         role VARCHAR(50),
         age INTEGER,
-        phone_number VARCHAR(15),
+        phone_number VARCHAR(30),
         email VARCHAR(100),
         gender VARCHAR(10)
     );
-    CREATE TABLE courses (
+    CREATE TABLE IF NOT EXISTS courses (
         id SERIAL PRIMARY KEY,
         course_name VARCHAR(100),
         teacher_id INTEGER REFERENCES people(id),
@@ -22,21 +22,21 @@ if conn:
         start_date DATE,
         end_date DATE
     );
-    CREATE TABLE grades (
+    CREATE TABLE IF NOT EXISTS grades (
         PRIMARY KEY (student_id, course_id),
         student_id INTEGER REFERENCES people(id),
         course_id INTEGER REFERENCES courses(id),
         grade FLOAT,
         date DATE
     );
-    CREATE TABLE classes (
+    CREATE TABLE IF NOT EXISTS classes (
         id SERIAL PRIMARY KEY,
         course_id INTEGER REFERENCES courses(id),
         start_time TIME,
         end_time TIME,
         day_of_week VARCHAR(10)
     );
-""")
+    """)
     cur.close()
     conn.close()
 else:
