@@ -21,11 +21,21 @@ def create_fake_people(num_people, role=None):
 def create_fake_courses(num_disciplines):
     fake = Faker('pt_BR') # Brazilian Portuguese locale
     disciplines = []
+    cursos = ['matecmatica', 
+              'lingua portuguesa', 
+              'historia do brasil 1', 
+              'historia do brasil 2', 
+              'economia', 
+              'geografia',
+              'geo-politica-1',
+              'geo-politica2']
     for _ in range(num_disciplines):
         discipline = {
-            "name": fake.word(),
+            'course_name':random.choice(cursos),  # Nao usei Faker aqui... 
+            'teacher_id':random.randint(1, 512),
             "description": fake.sentence(),
-            "credits": random.randint(1, 5)
+            'start_date':fake.date(), 
+            'end_date':fake.date()
         }
         disciplines.append(discipline)
     return disciplines

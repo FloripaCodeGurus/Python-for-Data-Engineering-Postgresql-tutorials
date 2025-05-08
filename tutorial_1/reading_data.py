@@ -14,4 +14,6 @@ def reading_tables_data(database_name, table_name):
         print("Failed to connect to PostgreSQL.")
 
 
-reading_tables_data('university', 'people')
+# reading_tables_data('university', 'people')
+
+reading_tables_data('university', 'courses')
