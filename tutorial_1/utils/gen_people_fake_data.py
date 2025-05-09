@@ -52,6 +52,19 @@ def create_fake_grades(num_grades, num_students, num_disciplines):
     return grades
 
 
+# def create_tests_result():
+#     fake = Faker('pt_BR') # Brazilian Portuguese locale
+#     tests = []
+#     for _ in range(100):
+#         test = {
+#             "student_id": random.randint(1, 5000),
+#             "discipline_id": random.randint(1, 100),
+#             "test_date": fake.date(),
+#             "grade": round(random.uniform(0, 10), 2)
+#         }
+#         tests.append(test)
+#     return tests
+
 if __name__ == "__main__":
     # Example usage
     # Generate fake data for 10 people
