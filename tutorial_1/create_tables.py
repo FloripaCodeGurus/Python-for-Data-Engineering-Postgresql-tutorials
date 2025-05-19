@@ -36,6 +36,17 @@ if conn:
         end_time TIME,
         day_of_week VARCHAR(10)
     );
+                
+    CREATE TABLE IF NOT EXISTS evaluation_test (
+        id SERIAL PRIMARY KEY,
+        discipline VARCHAR(100),
+        teacher_id INTEGER REFERENCES people(id),
+        teacher_first_name VARCHAR(50),
+        teacher_last_name VARCHAR(50),
+        student JSONB,
+        grade FLOAT,
+        test_date DATE
+    );
     """)
     cur.close()
     conn.close()
