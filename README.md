@@ -14,6 +14,7 @@ tutorial_1/
 ├── alter_table.py
 ├── insert_people_data.py
 ├── insert_courses_data.py
+├── insert_evaluation_results.py
 ├── list_objects.py
 ├── reading_data.py
 └── utils/
