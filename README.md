@@ -17,9 +17,54 @@ tutorial_1/
 ├── insert_evaluation_results.py
 ├── list_objects.py
 ├── reading_data.py
+├── reading_data_as_dataframe.py
 └── utils/
     └── gen_people_fake_data.py
 ```
+
+---
+
+## About `tutorial_1` 
+
+The `tutorial_1` folder contains all the scripts and utilities needed to demonstrate a typical data engineering workflow with PostgreSQL and Python. Below is a description of each main file:
+
+- **`postgres_connector.py`**  
+  Handles the low-level connection to PostgreSQL using `psycopg2`. Allows flexible database selection via parameters.
+
+- **`database_conn.py`**  
+  Provides a higher-level function to connect specifically to the `university` database, often returning a SQLAlchemy engine for use with pandas.
+
+- **`create_database.py`**  
+  Script to create the `university` database if it does not exist.
+
+- **`create_tables.py`**  
+  Creates the main tables (`people`, `courses`, `grades`, `classes`) in the `university` database. Uses `CREATE TABLE IF NOT EXISTS` to avoid errors.
+
+- **`alter_table.py`**  
+  Alters existing tables, such as increasing the size of the `phone_number` column in the `people` table.
+
+- **`insert_people_data.py`**  
+  Generates and inserts fake people data into the `people` table using the `Faker` library.
+
+- **`insert_courses_data.py`**  
+  Generates and inserts fake course data into the `courses` table.
+
+- **`insert_evaluation_results.py`**  
+  Inserts fake evaluation/test results, linking students, teachers, and courses.
+
+- **`list_objects.py`**  
+  Lists all databases and tables, useful for verifying your schema and data.
+
+- **`reading_data.py`**  
+  Reads and prints all rows from a specified table in the database.
+
+- **`reading_data_as_dataframe.py`**  
+  Reads a table from the database and loads it into a pandas DataFrame for analysis and exploration.
+
+- **`utils/gen_people_fake_data.py`**  
+  Contains utility functions for generating fake data for people, courses, and grades using `Faker`.
+
+---
 
 ## Steps Covered
 
@@ -70,6 +115,13 @@ tutorial_1/
 - **File:** `reading_data.py`
 - Reads and prints all rows from a specified table in a specified database.
 
+### 9. Reading Data as DataFrame
+
+- **File:** `reading_data_as_dataframe.py`
+- Loads table data directly into a pandas DataFrame for further analysis, statistics, and data exploration.
+
+---
+
 ## Common Issues & Fixes
 
 - **UndefinedTable / UndefinedColumn:** Make sure you are connecting to the correct database and using the correct column names.
@@ -109,11 +161,18 @@ tutorial_1/
     python tutorial_1/reading_data.py
     ```
 
+7. **Read data as pandas DataFrame:**
+    ```bash
+    python tutorial_1/reading_data_as_dataframe.py
+    ```
+
 ## Requirements
 
 - Python 3.x
 - `psycopg2`
 - `Faker`
+- `pandas`
+- `SQLAlchemy`
 
 Install requirements:
 ```bash
