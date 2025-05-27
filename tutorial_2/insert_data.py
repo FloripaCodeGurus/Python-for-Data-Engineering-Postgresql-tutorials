@@ -4,9 +4,6 @@ logging.basicConfig(level=logging.INFO)
 from mydb_connection import connect_to_db
 from gen_people_fake_data import create_fake_people, create_cities
 
-
-
-
 def insert_records(database_name, query, values):
     conn = connect_to_db(database_name)
     if conn:
@@ -18,9 +15,9 @@ def insert_records(database_name, query, values):
     else:
         print("Failed to connect to PostgreSQL.")
 
-def insert_cities_data():
+def insert_cities_data(num_cities):
     try:
-        cities = create_cities(1248)
+        cities = create_cities(num_cities)
         for city in cities:
             # print(city)
             query = "INSERT INTO cities (id, city_name, UF) VALUES (%s, %s, %s)"
@@ -30,11 +27,11 @@ def insert_cities_data():
     except Exception as e:
         logging.error(f"Error inserting data: {e}")
 
-def insert_people_data():
+def insert_people_data(num_people):
     try:
-        people = create_fake_people(5248)
+        people = create_fake_people(num_people)
         for p in people:
-            # print(city)
+            # print(people)
             query = "INSERT INTO people (id, first_name, last_name, age, city_id) VALUES (%s, %s, %s, %s, %s)"
             values = (p["id"], p["first_name"], p["last_name"], p["age"], p["city_id"])
             insert_records("tutorial2_db", query, values)
@@ -44,5 +41,5 @@ def insert_people_data():
 
 
 if __name__ == "__main__":
-    # cities = create_cities(1248)
-    insert_people = insert_people_data()
+    cities = insert_cities_data(num_cities=1248)
+    insert_people = insert_people_data(num_people=5248)
