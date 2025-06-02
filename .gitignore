@@ -9,3 +9,7 @@ __pycache__/
 *.log
 *.csv
 *.json
+
+#erick
+sabado/
+genesys_evaluation.py
