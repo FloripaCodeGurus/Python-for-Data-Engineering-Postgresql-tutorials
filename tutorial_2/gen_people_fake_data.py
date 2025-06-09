@@ -3,7 +3,7 @@ import random
 
 
 # Generate fake data for people
-def create_fake_people(num_people, role=None, start_id=11):
+def create_fake_people(num_people, role=None, start_id=1):
     fake = Faker('pt_BR') # Brazilian Portuguese locale
     people = []
     for i in range(num_people):
@@ -12,7 +12,7 @@ def create_fake_people(num_people, role=None, start_id=11):
             "first_name": fake.first_name(),
             "last_name": fake.last_name(),
             "age": role,
-            "city_id": random.randint(1, 512),
+            "city_id": random.randint(1, 512),  
         }
         people.append(person)
     return people
@@ -25,6 +25,7 @@ def create_cities(num_cities):
             "id": i + 1,
             "city_name": fake.city(),
             "UF": fake.estado_sigla(),
+            "state_id": random.randint(1, 512),
         }
         cities.append(city)
     return cities
