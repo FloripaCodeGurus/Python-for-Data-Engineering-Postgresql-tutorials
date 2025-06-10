@@ -24,8 +24,15 @@ if __name__ == "__main__":
     people_1 = create_fake_people(1000, start_id=1)
     people_2 = create_fake_people(250, start_id=1001)
 
-    cities = create_cities(10)
+    countries = create_countries(1)
+    states = create_states(28)
+    cities = create_cities(1120)
+    addresses = create_addresses(4120)
 
-    write_csv_file('tutorial_2/files/people_1.csv', people_1)
-    write_csv_file('tutorial_2/files/people_2.csv', people_2)
-    write_csv_file('tutorial_2/files/cities.csv', cities)
+    # write_csv_file('tutorial_2/files/people_1.csv', people_1)
+    # write_csv_file('tutorial_2/files/people_2.csv', people_2)
+
+    # write_csv_file('tutorial_2/files/countries.csv', countries)
+    # write_csv_file('tutorial_2/files/states.csv', states)
+    # write_csv_file('tutorial_2/files/cities.csv', cities)
+    write_csv_file('tutorial_2/files/addresses.csv', addresses)

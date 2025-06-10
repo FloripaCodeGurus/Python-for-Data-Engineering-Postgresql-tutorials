@@ -13,9 +13,9 @@ if conn:
     );
                 
     CREATE TABLE IF NOT EXISTS cities (
-        id SERIAL PRIMARY KEY,
-        city_name VARCHAR(50),
-        UF VARCHAR(2)
+    id SERIAL PRIMARY KEY,
+    city_name TEXT NOT NULL,
+    state_id INT NOT NULL REFERENCES states(id)
     );
     """)
     cur.close()

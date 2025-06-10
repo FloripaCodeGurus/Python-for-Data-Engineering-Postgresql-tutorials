@@ -1,0 +1,4121 @@
+id,street,number,city_id
+1,Pátio de Farias, 37,284051,40009
+2,Morro de da Mota, 813,237258,39905
+3,Avenida Raul Vasconcelos, 8,122739,12673
+4,Chácara Cardoso, 47,436933,29914
+5,Travessa Souza, 614,113420,48544
+6,Aeroporto de Machado, 262,143988,45190
+7,Quadra Alexandre Mendonça, 23,448536,20908
+8,Esplanada Lima, 96,402713,7453
+9,Vale Luana Andrade, 5,416036,19890
+10,Passarela Cavalcanti, 864,362253,13186
+11,Conjunto Ribeiro, 80,464073,44709
+12,Viaduto da Cruz, 30,148501,8588
+13,Fazenda de Campos, 38,359155,13950
+14,Passarela Maria Eduarda Nunes, 2,47452,27746
+15,Vereda Costa, 1,99491,15960
+16,Passarela Camargo, 50,413178,15054
+17,Condomínio de Vieira, 225,332395,40782
+18,Distrito Vasconcelos,417035,3239
+19,Lago de da Rocha, 37,423371,25978
+20,Pátio Alice Garcia, 7,362232,40967
+21,Lago de da Paz, 82,44548,10802
+22,Vereda de Cavalcante, 382,131602,5544
+23,Parque Campos, 287,165734,2683
+24,Vale Vicente da Paz, 3,215951,8731
+25,Morro de Fonseca, 72,205789,18753
+26,Favela de das Neves, 54,405713,33788
+27,Aeroporto das Neves, 61,52479,37926
+28,Núcleo Eduardo Casa Grande, 490,460992,29993
+29,Morro Isaac Porto,386422,23535
+30,Conjunto Carvalho, 180,285897,47645
+31,Travessa de Barros, 41,329444,5411
+32,Esplanada Cauê Campos, 79,11130,7162
+33,Quadra Mariane Pimenta, 84,261282,22072
+34,Vereda Leão, 17,59878,9115
+35,Trecho João Felipe Pires, 81,260718,29466
+36,Recanto Marques, 4,129650,41265
+37,Vale João Gonçalves, 5,186930,878
+38,Vereda Nascimento,424639,30305
+39,Lago de Montenegro, 38,300473,6183
+40,Vale Montenegro, 28,324588,9099
+41,Sítio de da Rosa, 57,380788,24798
+42,Chácara de Rodrigues, 7,389818,23393
+43,Vereda Nogueira,94748,26837
+44,Campo de Pimenta, 47,75849,51189
+45,Estação Pacheco, 7,207577,33693
+46,Residencial Almeida, 1,371294,22245
+47,Viaduto Luiz Henrique Farias,287465,14707
+48,Recanto de Cunha,417100,9075
+49,Rua de Novaes, 4,178258,30265
+50,Núcleo Vargas, 99,346912,43875
+51,Morro Marina Marques,264727,37600
+52,Campo de Barros,14442,24514
+53,Praça Ramos, 85,455720,47233
+54,Trevo Aragão, 29,394427,36171
+55,Morro Sales, 4,377485,30121
+56,Morro Ana Julia Carvalho, 311,491681,12631
+57,Viaduto de Aragão, 74,323556,48677
+58,Vila Guilherme Vargas, 24,392034,48926
+59,Distrito de Castro, 88,499320,46381
+60,Área de Machado, 4,353126,18076
+61,Via de Rios, 13,349478,24360
+62,Rodovia Vasconcelos, 4,303561,15066
+63,Aeroporto Macedo, 554,97322,31148
+64,Largo Rodrigo Marques, 8,217058,35601
+65,Lagoa Novais, 719,408977,37672
+66,Aeroporto de Gomes, 9,311202,19112
+67,Conjunto de Cirino, 640,35910,27221
+68,Trevo Heloísa da Mota, 54,250855,21631
+69,Travessa Isabel Teixeira,82152,28359
+70,Fazenda de Costela,260844,32440
+71,Fazenda Ana Luiza da Cruz, 84,272155,22252
+72,Colônia de Nunes, 19,267557,30540
+73,Recanto Jesus, 7,284185,38199
+74,Loteamento Freitas, 33,498043,49965
+75,Praia de Cardoso, 70,274003,29238
+76,Rodovia de da Rocha, 2,89058,42436
+77,Favela Liz Farias, 25,189835,23949
+78,Praça Almeida, 94,299867,38221
+79,Distrito Luna Leão, 73,344225,46039
+80,Travessa de Fogaça, 638,310495,21962
+81,Esplanada de da Cruz, 77,257017,2408
+82,Favela Ana Julia Almeida, 6,164972,17330
+83,Estação Moura, 71,145449,44980
+84,Trevo Pereira, 33,151419,35167
+85,Rodovia Vitor Gabriel da Luz, 3,126392,10559
+86,Largo Fonseca, 752,339928,37043
+87,Lago Luiz Henrique Machado, 794,49600,49171
+88,Quadra Cavalcante, 89,473004,25702
+89,Sítio de Rezende, 54,77596,20919
+90,Campo Cardoso, 23,460508,48341
+91,Travessa Heloisa Câmara, 71,465136,6378
+92,Favela de Caldeira, 534,375877,28466
+93,Núcleo Anthony Gabriel da Cruz, 1,76320,34134
+94,Via Julia Borges, 28,390469,12824
+95,Parque Montenegro, 19,346696,25502
+96,Viela Castro, 702,148302,16623
+97,Favela Araújo, 283,393099,6694
+98,Alameda Raquel Teixeira, 3,5190,29417
+99,Trevo de Pereira, 63,423637,818
+100,Via de Teixeira, 312,364519,28734
+101,Conjunto Pires,181196,5997
+102,Morro Yuri da Mata, 9,37903,15949
+103,Alameda Silva, 37,348396,40752
+104,Campo da Cruz, 30,72822,32841
+105,Largo Milena Vargas, 40,99568,8659
+106,Via Ana Sophia da Paz, 1,246073,4516
+107,Chácara Santos, 84,12497,2986
+108,Fazenda Isabella Albuquerque, 419,177237,36763
+109,Colônia de Ramos, 85,366823,1011
+110,Rodovia de Farias,123078,8246
+111,Alameda de Souza, 729,406004,48388
+112,Colônia Stella Moura, 77,500121,44663
+113,Estrada Fernanda Caldeira, 370,198966,18066
+114,Viela Julia Gonçalves, 798,216156,958
+115,Via Ana Clara Cirino, 64,44083,15801
+116,Lago Lucas Gabriel Nascimento,429970,10985
+117,Esplanada de Santos, 842,383140,46362
+118,Quadra Caleb Guerra, 63,413287,48566
+119,Morro Ravy Ramos, 478,220502,40703
+120,Viela da Rosa,253535,12380
+121,Rua Davi Miguel Caldeira, 77,166635,31781
+122,Colônia Nogueira, 215,261273,38581
+123,Avenida Guilherme Viana, 605,277793,21860
+124,Vereda de da Paz,65914,33737
+125,Travessa de Garcia, 32,393142,12840
+126,Chácara Danilo Melo, 8,125221,33440
+127,Jardim de Lima, 938,322468,48384
+128,Setor Carvalho, 56,261944,48326
+129,Rua Ana Beatriz Guerra, 34,369410,37804
+130,Setor de Fonseca, 61,56454,9660
+131,Favela de Macedo, 3,472929,10250
+132,Vila Olivia Aparecida, 36,316937,33505
+133,Feira Isaac Freitas, 9,261511,47880
+134,Setor de Novaes, 97,45799,40897
+135,Campo Amanda Peixoto, 67,265933,38758
+136,Largo Moura, 183,370679,5837
+137,Praça Matheus Rios, 42,242684,37045
+138,Setor Vinícius Pastor, 83,392636,28043
+139,Largo de Fogaça, 3,470287,5003
+140,Ladeira de Duarte, 657,61354,23531
+141,Setor Allana Guerra, 67,93993,43759
+142,Alameda Amanda Almeida, 99,343139,33769
+143,Praça de Freitas, 80,263167,13884
+144,Avenida Cavalcanti, 82,247784,27302
+145,Colônia de Carvalho, 750,185923,44382
+146,Sítio de Azevedo, 72,498604,16223
+147,Praça Emilly Fonseca, 62,38024,750
+148,Largo de Sampaio, 453,320296,41633
+149,Morro Maria Vitória Ferreira, 81,375315,30683
+150,Área Farias, 82,135192,43867
+151,Colônia Maria Liz Sales, 44,191335,33048
+152,Trevo Catarina Ramos, 14,491815,35579
+153,Rua Abreu, 34,215398,3613
+154,Setor Clarice Moraes, 11,118223,50642
+155,Vale de Sousa, 44,323067,45538
+156,Viaduto Macedo, 92,471890,11809
+157,Largo Campos,253786,17443
+158,Favela Aparecida, 3,176516,82
+159,Condomínio de Campos, 87,127572,13206
+160,Aeroporto de Fogaça, 74,443214,35493
+161,Viaduto de Brito,383157,32654
+162,Estação Luna Andrade, 41,346688,23611
+163,Trevo Valentina Moreira, 84,109415,40814
+164,Chácara Oliveira, 566,329207,27673
+165,Avenida Rodrigues, 711,234086,49384
+166,Largo da Rocha, 27,377195,25204
+167,Residencial de da Rosa, 11,315918,17658
+168,Área da Cunha, 691,82270,18833
+169,Colônia Luna Vargas, 27,471822,34930
+170,Pátio da Mata,370139,8053
+171,Estrada de Fonseca, 65,9209,49498
+172,Núcleo Pedro Cavalcante, 24,368801,50667
+173,Setor de Cardoso, 11,385477,16788
+174,Estação Sampaio, 25,97475,27131
+175,Viela de Nogueira, 167,472514,7635
+176,Estrada Sara Machado, 50,483891,46631
+177,Rodovia Gael Henrique Lima, 494,292263,37689
+178,Favela Dias,470822,13885
+179,Estrada Araújo, 7,63453,40107
+180,Esplanada Elisa Melo,454385,32638
+181,Vila Arthur Gabriel Gomes,331763,26980
+182,Esplanada Montenegro, 128,282297,48887
+183,Trevo Borges,474597,6907
+184,Praia de Moura, 59,331503,31619
+185,Morro Cavalcanti, 3,9584,41254
+186,Sítio Mendes, 12,247615,10858
+187,Aeroporto José Pedro Sales,41377,41152
+188,Ladeira de Jesus, 50,293298,15149
+189,Praia Marina Pacheco, 802,484149,19268
+190,Alameda de Ferreira, 85,445492,16906
+191,Núcleo Oliver Pinto, 8,219103,29727
+192,Via Macedo, 19,394492,37160
+193,Vereda Valentim Sampaio, 54,84861,17460
+194,Lago de Casa Grande, 78,229508,16565
+195,Praia Araújo, 9,425536,31428
+196,Aeroporto de Novaes, 713,388578,9402
+197,Via Cavalcante, 231,458822,8012
+198,Praça Peixoto,120076,46841
+199,Viela Mathias Jesus, 75,189648,30469
+200,Condomínio de das Neves, 76,176810,23016
+201,Quadra Ana Clara Abreu, 1,251976,45874
+202,Campo Ferreira, 853,230146,18019
+203,Trecho Larissa Montenegro, 83,104340,9403
+204,Chácara Ribeiro, 57,46371,2018
+205,Via Carolina Sá, 48,337697,45404
+206,Estrada Fonseca, 634,236930,44693
+207,Núcleo de Moreira, 35,38997,15636
+208,Fazenda Enrico Costa, 54,75132,4656
+209,Praia Pacheco,109605,49912
+210,Ladeira de da Rosa, 15,75520,18617
+211,Sítio Garcia, 74,438402,12157
+212,Estrada Júlia Rodrigues, 82,458895,2315
+213,Trecho Benício Souza, 25,136430,43860
+214,Estação Marques, 38,242200,22342
+215,Chácara de Santos, 805,312423,49489
+216,Chácara de Sá, 298,40296,32249
+217,Vereda Machado, 29,11633,9221
+218,Trevo da Mata, 63,384212,15670
+219,Via Henry Gonçalves, 25,131524,15845
+220,Avenida Farias, 50,163475,47902
+221,Estrada Gustavo Henrique Farias,166758,23913
+222,Vale Moraes, 19,419101,44918
+223,Núcleo de Sousa, 483,118720,1093
+224,Passarela Castro, 4,31133,11486
+225,Viela Pedro Novais, 32,377933,14038
+226,Estrada de da Cunha,7490,29558
+227,Aeroporto de da Mota, 53,385270,8305
+228,Recanto Guerra, 608,51393,29897
+229,Aeroporto Pires, 77,127750,45260
+230,Alameda de Caldeira, 45,172622,9435
+231,Vale de Guerra, 635,15444,9116
+232,Área de Castro, 96,203063,14718
+233,Via Duarte, 72,375413,23239
+234,Aeroporto de Mendes, 912,357579,33951
+235,Feira de Nogueira,204281,5088
+236,Recanto da Rosa, 14,290722,35226
+237,Distrito Novaes, 43,224475,28566
+238,Lagoa de Sales,118574,18535
+239,Largo Maria Alice Teixeira, 908,101308,9323
+240,Viela Correia,444278,5332
+241,Colônia de Freitas, 3,160074,2905
+242,Viela Renan Moreira, 54,202263,38500
+243,Vereda de Albuquerque, 74,136069,44918
+244,Vila Henrique Pinto, 758,157555,6254
+245,Vereda Renan Barros, 121,233830,28861
+246,Parque Oliveira, 56,163370,6782
+247,Rodovia de Ribeiro,492832,18259
+248,Colônia Gomes, 43,9873,323
+249,Via de Vasconcelos, 9,195812,17637
+250,Residencial Sampaio, 733,486549,4161
+251,Travessa de Aparecida, 6,191780,39208
+252,Avenida Hadassa Gonçalves,235934,2530
+253,Quadra Davi Miguel Cardoso, 47,462048,12934
+254,Lago Yan Siqueira, 14,488717,44454
+255,Pátio de Aparecida,97981,8177
+256,Loteamento Pereira, 37,90290,25987
+257,Viaduto Fernanda Novais, 61,43596,43813
+258,Favela Cavalcante, 8,253346,5595
+259,Praia de Novais, 54,405567,49994
+260,Largo Maria Clara Ferreira, 48,268627,18191
+261,Estrada de Correia, 222,357681,3514
+262,Largo Jesus, 84,29731,4029
+263,Conjunto Ravy Borges, 75,270324,28005
+264,Conjunto da Cruz, 9,239021,50726
+265,Trecho Peixoto, 9,400117,46723
+266,Área Bianca Câmara,436175,34546
+267,Travessa de Costa, 984,371352,33486
+268,Trecho de Duarte, 13,389247,18871
+269,Lago de Alves, 263,280603,41272
+270,Setor Nogueira, 79,215816,47546
+271,Largo Fonseca, 13,24849,38561
+272,Setor de da Conceição,395254,47206
+273,Favela de das Neves, 69,296482,20654
+274,Campo Breno Nogueira,179967,28439
+275,Condomínio Nunes, 2,38380,23763
+276,Morro Pires, 54,164352,50189
+277,Praia Silva, 71,410293,50058
+278,Residencial Guerra,278126,17631
+279,Viaduto Luna Pereira, 69,485704,24204
+280,Setor Isaac Leão, 99,491176,29901
+281,Vila de Jesus,171684,40004
+282,Sítio Cecilia Garcia, 84,39114,41325
+283,Praça de Vargas, 63,431199,12493
+284,Campo Diogo da Luz, 1,286490,7544
+285,Esplanada de Ribeiro,60030,1349
+286,Trevo Gabriel da Rocha, 917,410871,22263
+287,Rua Isadora Sá, 30,94926,50362
+288,Vereda de Cassiano, 38,170478,9865
+289,Sítio Fernandes, 48,297506,35312
+290,Estrada Thales Gonçalves, 4,321861,19765
+291,Distrito Ana Júlia Pires, 48,331860,38049
+292,Travessa Renan Nogueira, 305,70811,32479
+293,Distrito Cecília Camargo, 1,85830,37263
+294,Estrada Raquel Duarte, 75,195458,651
+295,Vila de das Neves, 7,343759,28276
+296,Avenida de Pimenta,252157,45764
+297,Passarela Vargas, 74,182724,23241
+298,Loteamento de Pimenta, 99,449511,26971
+299,Colônia de Nunes,401681,32590
+300,Fazenda Brito, 15,139783,41197
+301,Campo da Rosa, 74,308501,46955
+302,Alameda Correia, 74,218912,38802
+303,Pátio Nascimento, 14,352335,29283
+304,Rodovia Dias, 10,53135,32986
+305,Parque Joaquim Martins,330189,34884
+306,Estação Teixeira, 91,271596,18651
+307,Trecho Bella Porto, 27,328986,23317
+308,Morro Teixeira, 69,406842,11913
+309,Passarela de Mendes,495271,8972
+310,Largo da Mata, 27,66303,10335
+311,Jardim Aragão, 89,330853,7777
+312,Chácara Pimenta, 92,312220,31624
+313,Estação de da Mota,140292,50690
+314,Esplanada Mariana Souza, 65,180209,6607
+315,Avenida Oliver Barbosa, 762,455308,42779
+316,Núcleo Aparecida, 3,38270,17732
+317,Chácara de Silveira, 39,319447,31173
+318,Vale Aurora Farias, 1,487736,30865
+319,Vale Bryan Sá, 45,476195,27523
+320,Largo de Caldeira, 873,126958,39918
+321,Passarela de Siqueira, 97,442406,13121
+322,Avenida Maria Sophia Souza, 6,13005,37878
+323,Vila Gustavo Henrique Farias, 97,152818,8433
+324,Praça de Leão, 195,83702,50342
+325,Feira Pimenta, 5,22482,27692
+326,Colônia Benjamin Souza, 72,237380,29736
+327,Jardim João Guilherme Cassiano, 4,415254,5783
+328,Fazenda João Miguel Oliveira,49876,41459
+329,Vila Alícia das Neves, 98,316867,42794
+330,Passarela de Machado,288137,23732
+331,Estrada de Farias, 3,130390,22876
+332,Favela de Andrade, 37,256014,3721
+333,Quadra Otávio Lima,396066,3931
+334,Área de Cavalcante, 8,268921,48296
+335,Colônia Carlos Eduardo Campos, 337,58953,9432
+336,Vila de Albuquerque, 87,217979,44658
+337,Viaduto de da Costa, 13,377085,21348
+338,Distrito de Aparecida, 710,264994,9607
+339,Praia Olívia Costa, 413,405844,47019
+340,Travessa Rios,115550,38899
+341,Feira de Nunes, 488,434206,4760
+342,Loteamento Maysa da Conceição, 366,254825,4143
+343,Campo Silveira, 61,442724,25931
+344,Largo Freitas,80324,14397
+345,Área de Barbosa, 9,55333,30059
+346,Largo Mariana Barbosa, 15,167428,30018
+347,Praia de Pires,301613,33176
+348,Rua Rodrigues, 4,45132,13710
+349,Lago Alves, 1,405095,23590
+350,Área Luiz Otávio Moreira, 2,212263,26405
+351,Jardim Campos, 13,74882,15407
+352,Distrito Yasmin Rocha, 955,270642,48676
+353,Esplanada Pereira, 80,339228,14942
+354,Alameda José Leão, 658,255975,47434
+355,Núcleo Gomes, 87,31004,4353
+356,Rua Henrique Castro, 41,14524,27991
+357,Estrada de Garcia, 26,86533,28478
+358,Residencial Cunha,472676,12291
+359,Trevo Maria Julia Cavalcante, 192,70731,27960
+360,Largo de Rocha, 62,308798,41949
+361,Favela de Porto, 48,453347,47357
+362,Jardim Miguel das Neves, 4,232935,45421
+363,Praia de Montenegro,300757,30120
+364,Aeroporto de Machado, 18,141533,1284
+365,Condomínio Bruno Nunes, 564,380447,43938
+366,Núcleo Alves, 57,47566,8485
+367,Recanto Sá, 10,233957,7891
+368,Condomínio Joana Cavalcanti,267555,44132
+369,Travessa de da Paz, 76,269598,24107
+370,Vereda de Pinto, 4,220484,48283
+371,Vereda de Pinto,372888,48858
+372,Largo de das Neves, 30,54073,32340
+373,Travessa de Nascimento, 72,13690,31014
+374,Lago Arthur Miguel Lima, 70,406633,26073
+375,Estrada Andrade, 88,171218,27041
+376,Praia de Campos, 65,106715,35887
+377,Esplanada de Fonseca, 99,135106,4584
+378,Distrito de da Costa, 51,323116,17136
+379,Recanto da Costa, 7,419543,30737
+380,Viaduto Castro, 2,141167,17261
+381,Largo Sofia Monteiro, 2,114644,27720
+382,Largo de Casa Grande, 31,10134,44516
+383,Alameda Vieira, 5,234465,31287
+384,Favela de Ribeiro, 7,267901,17068
+385,Praça Costa,443563,14683
+386,Via de da Luz,289069,23513
+387,Trecho Mendonça, 3,299150,9140
+388,Ladeira Marina Cavalcanti, 32,492081,8451
+389,Estação Luiz Gustavo Moura, 28,169978,15833
+390,Praia Vicente Novais, 734,145737,37366
+391,Pátio Nina Nogueira, 235,45792,1942
+392,Loteamento Gael Vieira, 84,11118,25366
+393,Residencial da Luz, 89,691,8277
+394,Lagoa de Câmara, 65,472788,18133
+395,Favela de Rezende, 35,420732,16801
+396,Avenida de Castro,390226,36940
+397,Jardim Nascimento, 5,80745,46669
+398,Aeroporto Pacheco,239282,28983
+399,Aeroporto Luan Pires, 2,40950,34727
+400,Chácara Maria Alice da Cruz, 60,306715,44565
+401,Rodovia de Cardoso, 410,138963,1903
+402,Travessa Rocha, 695,27405,48347
+403,Sítio de Campos, 26,345437,11418
+404,Sítio da Cunha,16405,42811
+405,Distrito Lara Marques, 222,426866,32211
+406,Estação de Sá, 80,172273,12569
+407,Loteamento Emanuel Dias, 18,475094,22121
+408,Jardim de Santos, 11,7388,5969
+409,Passarela de Cavalcanti, 76,322428,24718
+410,Jardim de Peixoto, 99,242004,1727
+411,Esplanada Abreu, 71,461028,18417
+412,Residencial de Camargo, 30,274522,41267
+413,Feira Pimenta, 94,234617,5839
+414,Passarela Otto da Mota, 32,468176,29385
+415,Trevo de Rocha, 932,402434,5898
+416,Rua Lopes, 72,156868,7136
+417,Vila de Araújo, 9,76448,37601
+418,Trevo Maria Isis Caldeira, 465,100225,36841
+419,Fazenda Pedro Sousa, 66,87199,5179
+420,Morro Nunes, 316,241723,10123
+421,Estrada Cunha, 47,35983,7512
+422,Feira Maria Júlia Fonseca, 9,254652,40861
+423,Campo de Freitas, 64,284113,3644
+424,Travessa Yuri Fogaça, 812,40869,50328
+425,Alameda Ferreira, 9,23648,41081
+426,Rodovia João Guilherme Vieira, 8,48140,32511
+427,Chácara Laura Jesus, 241,69067,41866
+428,Travessa de da Luz, 12,205958,31086
+429,Vila Juliana Guerra, 42,64936,44331
+430,Largo de Alves, 95,83080,44167
+431,Lago de Santos, 69,251374,3533
+432,Conjunto Caldeira, 76,229691,2011
+433,Vale João Vitor Sampaio,116964,42681
+434,Chácara Brayan Pinto,68883,22954
+435,Aeroporto Emanuella Azevedo, 52,263007,11241
+436,Conjunto de Garcia, 27,52210,27447
+437,Favela de Rocha, 419,69612,22988
+438,Jardim Yago Caldeira, 50,392934,6017
+439,Sítio Campos, 36,484294,36789
+440,Estrada de Pacheco, 57,202763,47058
+441,Conjunto Nicolas Rios, 56,4811,19713
+442,Pátio Martins, 37,14771,38545
+443,Vereda de da Costa, 82,390845,25370
+444,Área de Teixeira, 48,403794,46378
+445,Rodovia de Mendes, 23,296446,26067
+446,Fazenda de Porto, 89,105967,6844
+447,Estação de Camargo, 82,458810,25433
+448,Passarela Rodrigues, 96,159890,35965
+449,Conjunto Ana Albuquerque,84595,7997
+450,Loteamento Maria Vitória da Luz, 23,355571,29335
+451,Parque Jade Cardoso, 49,383152,9661
+452,Colônia de da Mata,266949,15911
+453,Lago Almeida,229441,16441
+454,Chácara Marques, 90,466982,36901
+455,Avenida Otávio Rios, 5,229033,41394
+456,Rodovia Cunha, 746,495887,35950
+457,Condomínio Gustavo Barros, 30,323388,32525
+458,Rua Silva, 53,268608,39174
+459,Rodovia de da Rocha, 78,388991,13250
+460,Praça Maria Helena Pastor,393050,45843
+461,Ladeira Abreu, 2,483420,28672
+462,Estação Arthur Miguel Andrade, 5,164474,49546
+463,Alameda Santos, 92,314266,13260
+464,Distrito de Cunha, 24,127500,7944
+465,Morro de Casa Grande, 640,430568,44409
+466,Viela Arthur Miguel da Paz, 11,351387,45650
+467,Núcleo Bryan Nunes, 4,28638,9203
+468,Largo Stephany Pereira,500196,44882
+469,Via de Camargo, 47,201683,27497
+470,Rua das Neves, 484,480472,12505
+471,Esplanada de Fonseca, 84,463361,40194
+472,Condomínio de Cassiano, 496,294836,47128
+473,Praia Bárbara da Paz, 65,51386,6753
+474,Residencial de Pereira, 21,441271,19240
+475,Vila Moreira,323768,4179
+476,Quadra Gonçalves, 514,445689,20562
+477,Trecho Benjamim Casa Grande,40896,44556
+478,Lagoa de da Costa, 1,312042,40539
+479,Núcleo de Casa Grande, 982,38687,10875
+480,Alameda Brito, 82,429662,34599
+481,Distrito de Barbosa, 10,212734,751
+482,Avenida Ferreira, 656,287116,6487
+483,Parque Rios,290361,38216
+484,Lago Daniela Gonçalves, 513,274388,3397
+485,Colônia Davi Marques, 564,154878,35077
+486,Conjunto Léo Machado,277505,28354
+487,Viela Rocha, 42,262636,31294
+488,Avenida Maria Clara Pinto, 6,320924,34219
+489,Via Pedro Miguel da Cruz, 8,403451,25080
+490,Praia de Moraes, 28,474957,19564
+491,Parque Borges, 19,1069,17339
+492,Chácara Almeida, 77,438019,32909
+493,Residencial de Ferreira, 671,238737,22347
+494,Viela Campos,123303,20709
+495,Esplanada da Costa, 43,259957,31971
+496,Campo Natália Moura, 92,461627,24935
+497,Trevo Borges,363582,40091
+498,Fazenda Moura, 815,43038,1835
+499,Praça Manuela Martins, 26,253102,2682
+500,Sítio Lucca Cavalcante, 6,458699,20593
+501,Loteamento de da Mata, 49,372217,43305
+502,Loteamento Noah Campos,363548,34194
+503,Conjunto Mendes, 16,75718,366
+504,Colônia Maria Julia Barros, 90,252255,37562
+505,Esplanada de Lima, 6,309429,4225
+506,Fazenda de Costa, 380,258100,49470
+507,Largo Jade Azevedo, 72,338517,28533
+508,Largo de Sousa, 34,79774,42965
+509,Esplanada Monteiro,353716,4815
+510,Quadra Lorenzo Vieira, 37,274085,11162
+511,Jardim de da Paz, 470,237198,46474
+512,Lago Fernandes,204436,40123
+513,Condomínio de Montenegro, 52,392466,8364
+514,Residencial Vasconcelos, 85,4035,37083
+515,Viaduto de Gomes, 40,466826,30684
+516,Esplanada Aragão, 9,203726,8684
+517,Avenida Maria Eduarda Borges, 638,410306,25362
+518,Parque Heloisa Novaes, 15,456854,45819
+519,Loteamento de da Rosa, 76,135145,49201
+520,Vila de Novaes, 65,49913,14760
+521,Campo Isadora da Rosa, 4,245856,31231
+522,Setor de Cirino, 150,64912,15529
+523,Trecho de das Neves, 56,81922,40801
+524,Estrada de da Mota,383754,46304
+525,Ladeira Sophia Pinto, 371,382697,37319
+526,Vale Pereira, 210,332789,23264
+527,Condomínio Juan Novaes, 59,349473,7949
+528,Ladeira Ísis Vieira, 86,23347,9989
+529,Morro Maria Vitória Fernandes, 79,131960,15544
+530,Campo de Mendonça, 824,10292,48547
+531,Ladeira da Cruz, 2,253557,12362
+532,Vereda Maria Clara da Mota, 6,469421,11337
+533,Via Barbosa, 805,329538,49322
+534,Viela Amanda Cardoso, 48,247607,8772
+535,Esplanada Davi Castro, 65,459127,23437
+536,Feira Maria Liz Santos, 957,225714,12955
+537,Residencial Barros, 4,488635,15389
+538,Praça Vieira, 56,72427,1605
+539,Loteamento de Correia, 92,320962,43642
+540,Condomínio de Pinto, 4,384362,47261
+541,Esplanada Vitor Hugo Campos, 82,10633,24396
+542,Pátio Pastor, 21,398615,26366
+543,Viaduto de Peixoto, 60,437116,18587
+544,Setor Cassiano, 355,111565,43353
+545,Loteamento Luana Fonseca, 16,387407,16938
+546,Vila Ribeiro,162872,22153
+547,Aeroporto de Peixoto, 6,182290,48936
+548,Favela Benjamim Aparecida, 386,197024,10497
+549,Trecho Azevedo, 928,96607,49669
+550,Lagoa de Fernandes, 54,100767,33710
+551,Vila Allana Ribeiro, 97,299554,10968
+552,Viaduto Liam das Neves,442894,25235
+553,Colônia de Gonçalves,41769,6577
+554,Residencial Gabrielly Santos, 25,149740,8824
+555,Via Renan Ribeiro, 97,325500,38504
+556,Largo Costa, 5,300608,13200
+557,Parque de Pacheco, 92,207198,7769
+558,Núcleo Teixeira, 19,428059,47471
+559,Estrada Pinto, 18,218143,12710
+560,Setor Abreu, 71,347138,33561
+561,Setor de Barros, 241,186877,8586
+562,Parque Leão, 99,449743,27816
+563,Alameda Siqueira, 12,159136,24989
+564,Estação de Novais, 9,142610,43075
+565,Avenida Nogueira, 93,425780,9933
+566,Praça José Miguel Barbosa,302652,33073
+567,Parque Nogueira,57430,1806
+568,Travessa de das Neves, 729,195107,31796
+569,Esplanada Moraes, 24,68496,43251
+570,Sítio Novais,387387,11111
+571,Passarela Pereira, 26,148335,8748
+572,Viaduto Macedo, 924,227461,33666
+573,Colônia Clara Costa,147079,39317
+574,Aeroporto Rafaela Sá,344575,40088
+575,Feira Aurora Rezende, 976,51142,42082
+576,Vale Souza, 58,154923,35375
+577,Trecho Freitas, 4,387849,24348
+578,Conjunto Fogaça, 40,215911,11783
+579,Área de Gomes, 582,378881,15712
+580,Área Costela, 6,461684,198
+581,Lagoa Cecilia Costela, 9,85619,37184
+582,Quadra Carvalho, 6,377410,46267
+583,Condomínio Nunes, 251,3774,21906
+584,Pátio Albuquerque, 57,321413,627
+585,Estrada de Pimenta, 25,49408,13198
+586,Recanto Marcela Almeida, 17,399708,32188
+587,Loteamento Costa, 34,279099,41377
+588,Loteamento Luísa Cavalcante, 79,149628,27924
+589,Aeroporto da Costa, 54,75475,22650
+590,Colônia Luna Almeida, 90,450666,2000
+591,Rua Theodoro Marques,11321,40812
+592,Feira de Abreu, 56,495972,4177
+593,Alameda de Albuquerque, 7,137507,12752
+594,Alameda Henry Costa, 2,462099,44458
+595,Via Leandro Ribeiro, 955,180081,17385
+596,Trevo Ana Júlia da Cruz, 53,493427,18223
+597,Campo Cardoso, 545,301185,31956
+598,Ladeira de Farias, 47,228426,26417
+599,Jardim Sales, 18,401597,30645
+600,Passarela Costela, 99,434391,25821
+601,Área da Mota, 812,116347,35918
+602,Alameda de das Neves, 11,310847,42971
+603,Estação de Sá,17390,215
+604,Lagoa da Mota, 26,470514,28370
+605,Recanto de Costa, 76,136738,30112
+606,Parque Novais, 1,57054,11912
+607,Residencial Bella Sampaio, 29,354545,44638
+608,Largo da Paz, 910,55412,12514
+609,Área de Peixoto, 91,418890,42917
+610,Favela Dias, 24,351563,14839
+611,Trevo Danilo Andrade, 829,97315,6806
+612,Favela de Leão, 99,73140,13233
+613,Lago Pinto, 1,197361,44521
+614,Vereda Josué Costela, 50,55875,46418
+615,Esplanada de das Neves, 5,457163,37376
+616,Distrito Brito, 78,417434,41717
+617,Travessa de Cavalcanti, 3,200595,19461
+618,Viaduto de Macedo,38284,9619
+619,Via de Souza, 61,81064,43637
+620,Jardim Lívia Pacheco, 740,170724,48161
+621,Estrada Maysa Silveira, 8,115385,26320
+622,Vereda de da Conceição,472211,49879
+623,Morro Lima, 56,75839,24279
+624,Parque de Dias, 5,74914,6446
+625,Lagoa de Araújo, 390,332775,10329
+626,Chácara Benicio Leão, 572,132645,21230
+627,Chácara Maria Alice Lima,16715,19595
+628,Trecho Cecilia Oliveira,338447,9321
+629,Aeroporto Sampaio, 73,233317,21963
+630,Chácara Vinicius Moreira, 6,309784,47763
+631,Condomínio Stella da Mata, 7,145017,19433
+632,Condomínio Maysa Albuquerque,331323,41232
+633,Largo Martins, 87,430498,12678
+634,Sítio Camargo, 70,373995,47225
+635,Residencial Albuquerque, 46,306309,23072
+636,Estação Brayan Abreu, 73,300289,50289
+637,Alameda da Cruz, 13,112495,21805
+638,Passarela Caroline da Mata, 69,367810,45877
+639,Lagoa da Luz,402325,48703
+640,Aeroporto Cunha, 389,99022,11535
+641,Trecho Pimenta, 3,111195,50604
+642,Viela de Freitas, 19,132724,30942
+643,Esplanada Barros, 92,425589,4178
+644,Travessa Pires, 2,249861,46877
+645,Ladeira Albuquerque, 55,473773,2303
+646,Distrito Maria Flor Leão, 371,455689,50368
+647,Residencial de Fonseca,489028,28027
+648,Setor de Peixoto, 68,316325,40584
+649,Aeroporto Luiz Henrique Caldeira, 6,385637,3706
+650,Ladeira Maria Luísa Pastor, 21,327914,27165
+651,Núcleo Albuquerque, 6,216443,19747
+652,Estrada Daniela Rocha, 46,81508,22234
+653,Colônia Andrade, 92,208841,10814
+654,Vereda Melo, 21,137583,21447
+655,Rua de Abreu, 141,463177,25222
+656,Vila Mendonça,372959,24810
+657,Parque de Rezende, 95,385667,27422
+658,Estrada Pereira, 59,310627,7603
+659,Estrada de Porto, 1,96579,9961
+660,Vale Levi Martins, 8,246377,38869
+661,Aeroporto da Conceição, 41,468650,26483
+662,Vale Ryan Cirino, 54,263973,3606
+663,Conjunto Maria Luiza Albuquerque, 283,320053,16329
+664,Sítio Anthony Freitas, 43,319192,47782
+665,Colônia Camargo, 38,500104,8205
+666,Rodovia Nascimento, 60,493931,26350
+667,Residencial Isaac Sales,451118,23612
+668,Pátio Barros, 73,148738,44842
+669,Fazenda Alana Azevedo, 9,276671,30353
+670,Morro Kaique Pereira,396234,47816
+671,Recanto Stella Jesus, 39,235447,51171
+672,Pátio Sophie da Luz, 66,409029,42470
+673,Lagoa Cavalcanti,126581,45751
+674,Distrito Pastor, 810,394376,3600
+675,Pátio Montenegro,150335,38647
+676,Chácara Rafaela da Luz, 89,205782,9167
+677,Lago de Carvalho, 1,484597,25047
+678,Residencial Vasconcelos, 5,135375,45146
+679,Conjunto de Souza,81700,44413
+680,Feira de da Luz, 55,436637,20697
+681,Alameda Silveira, 81,148548,30677
+682,Travessa Luara Castro, 718,307566,26366
+683,Vila da Cruz, 82,131411,18767
+684,Estrada Isabel Nogueira, 92,42785,33996
+685,Pátio de Santos, 106,484938,10831
+686,Quadra Isaque Nogueira,360388,42310
+687,Pátio Lucca Aragão, 29,324602,11235
+688,Área Rafaela Moura,150946,25290
+689,Estação de Sales,165382,9139
+690,Loteamento de da Paz, 98,266972,32145
+691,Feira Emanuel Borges, 700,305446,1761
+692,Rodovia de Almeida, 3,46079,47228
+693,Vale Maya Cassiano, 43,498759,33028
+694,Vereda de Pereira, 957,348718,25492
+695,Pátio Oliver Sampaio, 58,265688,902
+696,Estrada Davi Luiz Ferreira, 320,418044,49220
+697,Distrito Marcela Machado, 70,462241,10799
+698,Vila de Moreira,149593,49838
+699,Distrito Enzo Ribeiro, 597,369550,33057
+700,Viaduto Gonçalves,154627,13935
+701,Lagoa Marcelo da Paz, 6,288338,11444
+702,Vereda Olivia Jesus, 42,139461,13189
+703,Esplanada Rezende,100584,17655
+704,Passarela de Cavalcanti, 95,89197,19617
+705,Estação de da Rocha, 69,454929,37632
+706,Via Aragão, 982,498344,22345
+707,Campo de Lopes, 160,271104,40555
+708,Quadra Gonçalves, 91,346243,5355
+709,Esplanada de Lima, 398,388571,36856
+710,Lago Pires, 7,129206,45650
+711,Sítio de Cassiano, 27,470886,23661
+712,Sítio de Câmara, 33,419132,11904
+713,Feira de Barbosa, 11,22266,36734
+714,Condomínio Borges, 92,56140,37155
+715,Quadra Eloah Rocha, 59,166508,44940
+716,Feira Cardoso, 763,460491,24134
+717,Aeroporto de Sampaio, 1,370760,10632
+718,Favela Peixoto, 62,138920,39700
+719,Campo de Fogaça, 748,368753,22832
+720,Área Albuquerque, 99,277783,22629
+721,Loteamento de Teixeira, 274,218239,18547
+722,Rua Moreira,294955,36761
+723,Pátio de Novaes, 8,181550,47291
+724,Campo de Moreira, 13,165392,31977
+725,Via Oliveira, 242,196378,29834
+726,Vale Manuela Peixoto, 31,24886,41901
+727,Passarela de Sampaio, 96,377952,14921
+728,Condomínio de Santos, 631,437171,45801
+729,Praia Cirino, 245,74100,11834
+730,Residencial Maria Flor Nascimento,340744,42870
+731,Feira João Vitor Cirino, 280,224407,27136
+732,Parque Nogueira, 5,371906,21433
+733,Parque Alexia da Cruz, 767,323418,41960
+734,Sítio Daniela Sá, 929,133898,20606
+735,Chácara Pereira, 59,356974,12268
+736,Esplanada Brayan Gomes, 69,315391,6995
+737,Praia Santos, 43,36274,10906
+738,Condomínio Pinto, 49,252184,22331
+739,Conjunto Nascimento, 6,405103,3782
+740,Rua Costela, 81,222553,28046
+741,Área Caldeira,141171,4048
+742,Jardim da Costa, 1,349862,25594
+743,Sítio de Monteiro, 92,216885,30771
+744,Recanto de Garcia, 43,16547,2682
+745,Fazenda Leão, 3,385536,20251
+746,Estrada de Cassiano, 59,83167,33461
+747,Morro Esther Silva, 32,274718,7683
+748,Rodovia Gael Fernandes, 71,287766,40373
+749,Viela de Moraes, 439,84962,46056
+750,Sítio Rodrigo Carvalho, 84,380617,18838
+751,Rodovia Lorenzo Pires, 46,213334,15137
+752,Praia Manuella Guerra, 30,376042,31864
+753,Recanto de Moreira, 7,491956,47077
+754,Estação Cunha, 12,184373,16952
+755,Esplanada Marcelo Nunes,86779,2035
+756,Fazenda de Rocha, 94,196979,24839
+757,Fazenda Leão, 314,447766,2918
+758,Loteamento Renan Silva, 28,335818,32738
+759,Largo Barros, 341,461697,36122
+760,Praça da Conceição, 81,365661,33270
+761,Ladeira Leandro Borges, 85,389736,35377
+762,Chácara Mendonça, 57,229207,4811
+763,Fazenda Fernanda da Mata,307780,42698
+764,Lagoa Rodrigues, 53,491591,6510
+765,Praça Rocha, 97,157777,15797
+766,Avenida Vitor Gabriel da Paz, 75,373876,35966
+767,Via Manuella Viana, 91,281992,34573
+768,Aeroporto Lucas Gabriel Carvalho, 10,194780,46452
+769,Campo Brenda Barbosa, 128,164626,4705
+770,Estação Rodrigues, 8,207401,14715
+771,Área Nina Cavalcanti, 753,469232,2487
+772,Vila Casa Grande, 3,73834,42641
+773,Alameda de Fonseca,306981,5204
+774,Passarela de Lopes, 51,38862,47324
+775,Residencial Oliveira, 5,375428,46334
+776,Estação de Oliveira, 79,62090,14774
+777,Praça de Ferreira, 6,338311,2393
+778,Vale de Cavalcante, 642,112604,31359
+779,Setor de Fernandes, 60,190182,5778
+780,Campo das Neves, 96,164809,18325
+781,Travessa de Novaes, 63,12258,10760
+782,Aeroporto Dias, 34,396234,41642
+783,Área de Sá, 83,309944,26974
+784,Residencial Stephany Pacheco, 54,321884,22518
+785,Praça Ester da Luz, 35,402273,45295
+786,Vereda de Albuquerque, 99,393844,8230
+787,Trecho Juan Sá, 29,164627,46123
+788,Rua José Miguel da Paz, 82,333003,46546
+789,Condomínio Isis Gomes,152877,12050
+790,Travessa da Mota, 34,111642,9582
+791,Vale Ravy Costa, 86,100208,641
+792,Trevo Daniel Melo, 17,325990,4212
+793,Ladeira de Fernandes, 45,377528,33814
+794,Distrito de Cardoso, 93,307922,49598
+795,Via de Campos, 51,275605,44463
+796,Chácara Farias, 36,486473,32627
+797,Praça Brito, 84,345910,46253
+798,Condomínio de Nogueira, 661,182663,16701
+799,Chácara Borges, 2,444518,37655
+800,Estação de Costa, 8,370804,43623
+801,Via de Pimenta,1981,41345
+802,Via Freitas, 437,358004,41399
+803,Via Luna Guerra, 13,27143,31339
+804,Chácara de Farias,52574,39484
+805,Trevo Cauê Costela, 80,82222,44841
+806,Travessa Farias,274128,22082
+807,Estação José Carvalho, 152,118854,27508
+808,Estação de Moraes, 70,150743,14155
+809,Rodovia Garcia, 65,284353,1350
+810,Morro Yan Vasconcelos, 2,424436,31309
+811,Alameda Daniela Silva, 5,367344,44668
+812,Estação de Viana,500489,25959
+813,Rua Vasconcelos, 17,60047,36420
+814,Esplanada de Cavalcanti, 526,180416,36597
+815,Pátio Anthony Gabriel Viana, 9,444810,45176
+816,Lagoa Letícia Guerra, 41,274561,43837
+817,Praça de Moura, 5,472262,46943
+818,Chácara Duarte, 3,155151,49158
+819,Loteamento Rios, 99,457431,41724
+820,Jardim Davi Lucas Andrade,480122,29443
+821,Estação Luiz Felipe Pastor,261371,19423
+822,Conjunto de Pacheco, 53,485880,1155
+823,Estação Leão,37825,41968
+824,Morro de Cavalcanti, 45,476547,34149
+825,Vereda Sales, 80,261112,50317
+826,Recanto Farias, 46,210843,215
+827,Esplanada de Fogaça, 81,467088,1134
+828,Largo Miguel Martins, 22,328327,14740
+829,Morro Maria Laura Cardoso, 34,144206,24910
+830,Alameda Ribeiro, 42,191712,41313
+831,Área Júlia Mendonça, 871,487783,12112
+832,Loteamento Rafael Rios, 23,260409,17484
+833,Vereda Luiz Henrique Teixeira, 51,306213,29170
+834,Setor de Pinto, 79,497624,51116
+835,Aeroporto Otávio Carvalho, 4,466809,33177
+836,Estrada de Ferreira, 76,402288,4182
+837,Largo de Pinto, 6,266887,38042
+838,Colônia Rodrigues,172584,37315
+839,Lagoa de Martins, 46,269934,42627
+840,Sítio Fernandes, 37,175613,12677
+841,Praça Ana Vitória Martins,89393,47782
+842,Recanto Maria Vitória Ferreira, 43,465249,35881
+843,Trecho Garcia, 97,99666,15517
+844,Ladeira Henry Vargas, 96,356245,49843
+845,Praça Ana Sophia Machado, 63,120383,44424
+846,Residencial Cassiano, 75,121114,41739
+847,Ladeira Thiago Mendes, 40,180459,45996
+848,Jardim Valentim Cardoso,7607,26853
+849,Estação Nicolas Cardoso, 41,230010,24980
+850,Lagoa de Novais, 84,31466,49957
+851,Passarela Amanda Souza,10533,7320
+852,Área de Ferreira, 198,173471,9542
+853,Sítio Moreira, 903,457352,4279
+854,Feira da Rosa,399799,48789
+855,Sítio de Barros, 525,353974,47251
+856,Avenida da Mata, 79,368276,14823
+857,Trecho Yuri Pinto, 276,62882,8156
+858,Área Luiz Felipe Câmara, 93,316474,3623
+859,Conjunto Aragão, 1,117676,15102
+860,Vila de Mendonça, 59,72686,19995
+861,Viela de Viana, 51,13848,10995
+862,Via Cardoso, 104,222124,16773
+863,Viaduto Brito, 66,235606,17250
+864,Esplanada Eduarda Porto, 48,285254,35942
+865,Jardim de Lima, 667,485916,17909
+866,Vale Luana Mendes, 555,12143,1942
+867,Vereda Ravy Nascimento, 5,464270,27607
+868,Esplanada de Caldeira,198267,18274
+869,Recanto de Freitas, 9,131300,38725
+870,Rua Rafael Aragão, 8,293958,7938
+871,Vila da Mata, 66,72302,7886
+872,Aeroporto de da Conceição, 92,331004,40269
+873,Largo Duarte,209610,45901
+874,Aeroporto Vieira, 33,287969,28317
+875,Avenida de Pires, 82,368030,22524
+876,Núcleo Pacheco, 67,270081,42842
+877,Pátio de Moraes, 51,418636,32127
+878,Rodovia Vargas, 93,394276,43188
+879,Condomínio de Costa, 73,171482,20143
+880,Vale de Macedo, 853,60513,40973
+881,Viaduto de Pimenta, 93,69842,28904
+882,Largo Borges,473850,6718
+883,Alameda Maria Laura da Rocha, 33,331332,23497
+884,Praia Castro,140674,47565
+885,Campo Brito, 57,422239,14763
+886,Viela Carvalho, 709,42246,13088
+887,Campo de da Costa, 39,470811,913
+888,Avenida de Melo, 26,487310,6628
+889,Avenida de Costela, 19,128270,34163
+890,Setor Lopes, 2,242258,47760
+891,Aeroporto Renan Câmara,322464,42486
+892,Quadra Novaes, 3,390913,29312
+893,Colônia José Lopes, 1,92004,37663
+894,Condomínio Pacheco, 534,385359,50382
+895,Rua Luan Vieira,339928,6988
+896,Viaduto Asafe Martins, 70,220352,34059
+897,Trevo Cauê Caldeira, 38,4950,7018
+898,Vila Bernardo Fogaça, 16,58564,12613
+899,Conjunto de Rodrigues,136650,22474
+900,Estrada de Aparecida, 58,186586,42976
+901,Favela Lorena da Luz, 12,490611,24784
+902,Trevo Pastor,427292,42335
+903,Lagoa Bento Albuquerque, 6,464649,16256
+904,Via de da Mata, 48,261121,41074
+905,Ladeira Monteiro, 13,264660,27329
+906,Aeroporto de Freitas, 74,297107,12617
+907,Distrito Pedro Lucas da Paz,166874,47766
+908,Vale de Fogaça, 11,215046,17492
+909,Área Benjamim Casa Grande, 98,53184,34900
+910,Vila Luiz Henrique Cunha, 477,389056,19359
+911,Fazenda de Moraes, 14,479359,46127
+912,Passarela Pastor, 21,170068,10951
+913,Morro de Mendonça, 19,304170,48813
+914,Sítio de Sampaio, 23,369839,46075
+915,Favela Ana Beatriz Sousa, 72,236515,38673
+916,Estrada Silva, 11,239711,15001
+917,Condomínio de Borges, 21,351094,838
+918,Colônia Cavalcante, 8,169330,33430
+919,Chácara da Costa, 68,457263,37205
+920,Viela Zoe Rocha, 18,463486,15962
+921,Rua de Souza, 521,3013,34402
+922,Esplanada Samuel Novaes, 68,190543,18340
+923,Praça Silveira,301779,1587
+924,Lagoa de Melo,453537,4971
+925,Vila de Nunes, 99,43336,34161
+926,Via de das Neves, 825,30785,26058
+927,Recanto Pacheco, 530,335285,20040
+928,Praça de Marques, 12,366368,42263
+929,Aeroporto de Leão, 45,473209,6605
+930,Residencial Pereira, 15,194064,19373
+931,Núcleo Camargo, 77,164034,50801
+932,Área Cauê Sá, 27,467792,35303
+933,Parque Rocha, 6,151920,35795
+934,Avenida Cirino, 76,89897,22970
+935,Recanto Leandro Garcia, 279,149079,6316
+936,Núcleo da Cunha, 4,330765,13742
+937,Viaduto Alves,219384,14585
+938,Vila de Monteiro, 56,193987,7483
+939,Distrito de Macedo, 171,95175,6392
+940,Via Moraes, 30,168216,8142
+941,Largo Garcia, 61,190583,13860
+942,Pátio Lima, 86,368698,43233
+943,Praia Antônio Pacheco, 68,493230,16294
+944,Largo Alves, 8,133911,44852
+945,Feira Maria Fernanda Aragão, 586,330842,6198
+946,Fazenda de Campos, 5,458816,43466
+947,Pátio Fonseca, 90,174705,21568
+948,Rua de Alves, 2,3684,41315
+949,Trecho Montenegro, 25,283624,25035
+950,Avenida da Rocha, 2,73204,28635
+951,Quadra de Pacheco, 44,124077,28912
+952,Ladeira de da Mota, 147,136162,45575
+953,Pátio de Sales, 17,462453,42515
+954,Via Casa Grande, 45,237582,26987
+955,Aeroporto Ferreira, 618,265923,41319
+956,Vila Moreira, 92,134372,4173
+957,Favela Ana Carolina da Cruz, 47,257447,17818
+958,Esplanada de Jesus, 88,401574,47332
+959,Quadra Milena Rezende,272306,47895
+960,Loteamento de Nunes, 648,438180,16825
+961,Praça Freitas, 5,196487,31258
+962,Pátio Bárbara Borges, 27,147065,49084
+963,Campo de Macedo, 2,478188,17484
+964,Vale de Vargas, 43,402875,16179
+965,Viaduto de Viana, 66,202491,8575
+966,Feira Benjamim Freitas, 98,260048,18456
+967,Ladeira Montenegro, 51,301936,27324
+968,Lago Sophie da Rosa, 33,390084,30384
+969,Área de Pacheco, 4,218330,47635
+970,Viela Mariana Sales, 3,365833,46217
+971,Viela Henry Gabriel Silva, 814,225415,21362
+972,Lagoa Murilo Cavalcanti, 57,284523,32298
+973,Distrito Maria Sophia Brito, 18,454836,6184
+974,Praia de Andrade, 68,330176,36295
+975,Quadra Maria Julia Melo, 20,176942,26896
+976,Largo Alícia Teixeira, 36,367364,46672
+977,Morro de Jesus, 94,44598,29401
+978,Vereda Vasconcelos, 8,287440,48015
+979,Vale Isis Câmara, 995,283950,20605
+980,Área de Borges, 4,16645,14872
+981,Vale Theo Martins,117270,35429
+982,Lagoa Luana da Conceição, 71,407735,37195
+983,Residencial de Marques, 782,456071,23281
+984,Sítio de Fogaça, 34,463832,26164
+985,Loteamento de Freitas, 81,359329,33810
+986,Rua de Leão, 247,141674,19619
+987,Ladeira de Ribeiro,37219,40833
+988,Campo João Andrade, 4,116002,6486
+989,Avenida Correia, 980,47363,34614
+990,Sítio de Garcia, 59,166422,300
+991,Via de Correia,166593,11870
+992,Quadra Macedo, 410,5120,44075
+993,Sítio Cardoso, 24,111484,6398
+994,Largo Carvalho, 9,37443,28257
+995,Estação Alexandre Camargo,338220,33101
+996,Lago Cirino, 816,442136,5379
+997,Recanto Moraes,61799,26667
+998,Núcleo Cardoso, 23,38001,34222
+999,Lagoa Pedro Miguel Pinto, 51,254458,38119
+1000,Vale Pires, 175,217503,20745
+1001,Setor Sales, 977,226342,24475
+1002,Lago Davi Santos, 38,51907,19587
+1003,Esplanada Barros, 3,246274,48628
+1004,Sítio de Lopes, 44,247949,27328
+1005,Favela Vargas, 7,410175,4521
+1006,Lago de Silveira, 1,483641,3084
+1007,Sítio de Gonçalves, 68,393027,32098
+1008,Lagoa Marques, 32,131033,49049
+1009,Campo Juliana Marques, 780,371619,3091
+1010,Distrito Maria Eduarda Fonseca, 496,60994,30865
+1011,Setor Abreu, 30,263634,33941
+1012,Estação de Porto, 44,354952,29203
+1013,Distrito de Guerra,252256,40908
+1014,Sítio Stephany Montenegro,65398,19977
+1015,Trecho Silveira, 14,298948,36032
+1016,Parque Vitória Fernandes,129886,45847
+1017,Praia de Porto,10463,29878
+1018,Passarela Benicio Sales, 771,90671,33341
+1019,Favela Vinícius Leão,24149,3929
+1020,Chácara Monteiro, 197,70556,19922
+1021,Passarela Arthur Gabriel Nascimento, 90,493833,29464
+1022,Feira José Pedro Macedo, 45,28369,227
+1023,Residencial Antony da Mota, 75,364724,25081
+1024,Vila de Porto, 30,457226,31567
+1025,Viaduto Eduarda Mendes, 778,285496,36914
+1026,Condomínio Lavínia Fernandes, 199,176254,34960
+1027,Largo Ana Clara Campos, 24,266954,31754
+1028,Viela Sampaio, 51,105167,7576
+1029,Vereda de Sá, 51,10630,16215
+1030,Trecho Pereira,231063,31524
+1031,Setor Hadassa Dias,215547,51196
+1032,Aeroporto Manuela Sales,85532,50334
+1033,Fazenda Clarice Moreira, 361,240180,20629
+1034,Viela de Monteiro, 83,398630,28569
+1035,Quadra Nunes, 22,441625,19145
+1036,Via de Andrade, 25,231963,45006
+1037,Distrito Cecilia Albuquerque, 84,172732,31844
+1038,Avenida Ramos, 12,387375,2015
+1039,Via Laís Pacheco,468288,29696
+1040,Feira Aragão, 5,270471,28426
+1041,Colônia Nicolas da Mota, 25,231038,29511
+1042,Campo Thiago Monteiro, 92,37633,24408
+1043,Jardim da Luz, 44,61182,2777
+1044,Residencial Novaes, 69,44103,47864
+1045,Estrada de Mendonça, 9,365812,3787
+1046,Praia Arthur Miguel Moreira, 125,131572,9871
+1047,Via Abreu, 9,86418,14821
+1048,Chácara Alexia Andrade, 127,115827,6974
+1049,Vereda Rafaela Almeida, 87,173647,7111
+1050,Vereda Novaes, 56,341797,42722
+1051,Largo Emilly Moura, 588,436491,4221
+1052,Avenida das Neves, 51,459988,19067
+1053,Residencial Ravi Teixeira, 3,21979,43491
+1054,Favela Vinicius Câmara, 10,22807,31687
+1055,Trecho de Lopes, 3,344598,44972
+1056,Loteamento Pimenta, 7,214776,30846
+1057,Condomínio Correia, 11,414049,49090
+1058,Condomínio de da Mota, 49,457058,4741
+1059,Largo de Pires, 304,10483,35921
+1060,Quadra de Albuquerque, 804,418048,41219
+1061,Loteamento de Costela, 48,264624,19719
+1062,Núcleo Maria Laura Pereira, 115,34724,16399
+1063,Sítio Rios, 74,280364,11609
+1064,Lagoa Nascimento, 7,149525,45109
+1065,Aeroporto Brito, 18,146049,47701
+1066,Lagoa Theodoro Pinto, 25,174203,40725
+1067,Estrada Anthony da Mata, 94,163079,17796
+1068,Campo Samuel Cunha, 61,323242,15411
+1069,Lagoa Albuquerque, 665,67344,37676
+1070,Fazenda Pastor, 6,269713,47868
+1071,Sítio de Fogaça, 87,345602,12564
+1072,Vila de Monteiro, 12,400306,47614
+1073,Pátio Abreu, 19,305273,27371
+1074,Quadra de Garcia, 53,456754,41898
+1075,Distrito Pedro Lucas Aragão, 68,133719,50559
+1076,Morro de Rodrigues, 581,52847,1300
+1077,Avenida Santos, 168,356993,34804
+1078,Passarela Barbosa, 664,256717,43072
+1079,Vale Vicente Martins, 24,341832,7275
+1080,Jardim Aparecida,264506,19661
+1081,Pátio Sá, 32,193036,48418
+1082,Aeroporto de da Rocha, 903,299626,30607
+1083,Setor Campos, 1,86115,9104
+1084,Vale Sara Câmara, 30,460847,8658
+1085,Ladeira Liz Rocha, 1,145298,33204
+1086,Passarela Camila Costa,299877,18128
+1087,Largo Caleb Borges, 95,391930,48303
+1088,Loteamento Oliveira, 713,322752,48397
+1089,Núcleo Fernando Silva, 796,77250,2613
+1090,Alameda de Abreu, 12,457173,38145
+1091,Fazenda de Azevedo, 756,167867,14735
+1092,Via Anthony Gabriel Fogaça, 28,47588,1659
+1093,Chácara Levi Cunha, 92,33228,34771
+1094,Lago de Ribeiro, 87,263253,19339
+1095,Conjunto Luiz Fernando Cardoso, 48,235519,20347
+1096,Condomínio de Pinto, 71,218391,18610
+1097,Condomínio Pacheco, 82,433467,38687
+1098,Núcleo Cecilia Rocha, 97,207635,37035
+1099,Lago Esther Abreu, 67,28794,10442
+1100,Sítio Sarah Castro, 28,244525,46304
+1101,Rodovia Viana, 811,116187,16239
+1102,Viela Nunes, 7,193706,9559
+1103,Largo Pereira, 181,23250,12498
+1104,Avenida Bryan da Costa, 80,481316,14145
+1105,Vale Laura Pires, 66,268627,46498
+1106,Avenida de Aparecida, 842,88051,21488
+1107,Rua Pimenta, 1,95969,20104
+1108,Esplanada de Brito,320895,938
+1109,Trecho Carolina Carvalho, 26,3640,38973
+1110,Lagoa de Moraes, 679,277886,44311
+1111,Quadra Maria Laura Rios, 72,377992,38331
+1112,Viaduto Rhavi Pereira, 73,328136,3776
+1113,Aeroporto Antony Macedo, 60,21539,44650
+1114,Loteamento Ana Dias, 6,212125,49430
+1115,Residencial Vieira, 33,330573,45457
+1116,Condomínio Moraes, 19,294904,2800
+1117,Rodovia Pedro Lucas Araújo, 77,86599,508
+1118,Vereda Albuquerque, 378,388977,20650
+1119,Favela Ana Lívia Azevedo, 807,255192,28868
+1120,Rodovia Léo Fogaça, 16,277312,31598
+1121,Parque Costa, 9,9274,3283
+1122,Campo Nogueira, 65,227513,49204
+1123,Jardim Henry Gabriel da Mata, 50,307784,45930
+1124,Feira Pedro Henrique Silveira, 8,37448,15745
+1125,Núcleo de Albuquerque, 86,132769,34516
+1126,Trecho de Abreu, 77,204343,47901
+1127,Setor Arthur Cavalcante, 80,341409,32955
+1128,Sítio Rezende,183558,11976
+1129,Jardim de Oliveira, 99,218666,6370
+1130,Residencial Maria Júlia Albuquerque, 11,424331,38963
+1131,Favela Sofia Sá, 61,75671,7437
+1132,Travessa de da Cunha, 7,158403,826
+1133,Praça Stephany Ribeiro, 4,200310,19362
+1134,Trevo Guerra, 96,447440,47602
+1135,Trecho de da Cunha, 898,77624,50909
+1136,Avenida de Porto, 368,368666,20408
+1137,Praça de das Neves, 16,378649,23499
+1138,Trevo de Melo, 26,149847,3159
+1139,Lagoa de da Conceição, 32,173459,17722
+1140,Alameda de Mendonça,218418,11886
+1141,Rodovia Clarice Duarte, 1,319966,20349
+1142,Praça de Pimenta, 994,54033,19481
+1143,Vereda Ferreira, 70,479840,1993
+1144,Ladeira Vargas, 19,225739,7466
+1145,Aeroporto Dias, 94,42525,25235
+1146,Vale Igor Moraes, 41,412878,39480
+1147,Vale Ramos, 23,473192,48955
+1148,Residencial de Ribeiro, 21,158813,1568
+1149,Trevo Ana Beatriz Pinto, 40,14826,31282
+1150,Estação Peixoto, 888,453150,51030
+1151,Via de Camargo, 820,350537,8601
+1152,Vale de Moraes, 875,213244,10011
+1153,Quadra Juan Borges,168133,32957
+1154,Esplanada de da Luz, 434,280097,14120
+1155,Vereda Nathan Brito, 15,228258,49134
+1156,Condomínio de Abreu, 777,78000,3248
+1157,Distrito Abreu,48851,10014
+1158,Colônia Dante Cavalcante, 11,291811,12506
+1159,Jardim Laís Sampaio, 80,354834,20543
+1160,Residencial de Moreira, 3,325878,47926
+1161,Rua Pacheco, 24,151807,43376
+1162,Feira Cardoso, 269,328211,29002
+1163,Condomínio de Silva, 979,229683,35360
+1164,Avenida Maria Flor Borges, 1,414333,41068
+1165,Chácara Emanuella da Rocha, 10,312144,19234
+1166,Vila Oliveira, 59,702,12642
+1167,Rua Ana Cecília Mendes, 38,244222,20184
+1168,Pátio Melo, 57,472927,12294
+1169,Feira Lunna Siqueira, 99,292167,9581
+1170,Vale da Mata, 773,380378,29235
+1171,Esplanada Gustavo Castro, 7,388454,41202
+1172,Recanto Vitor Gabriel Almeida, 34,195755,18745
+1173,Passarela Yago Marques, 22,299277,51212
+1174,Vale Rhavi Barbosa, 12,48484,15080
+1175,Alameda Vieira, 96,67731,16352
+1176,Ladeira de Cirino, 94,254429,26368
+1177,Viela Borges, 5,306315,6013
+1178,Avenida Vasconcelos, 78,248486,42202
+1179,Setor de Camargo, 67,284967,14538
+1180,Viela Ravy das Neves, 7,312627,39063
+1181,Estrada Sampaio, 23,384281,27207
+1182,Rodovia Maria Laura Machado, 125,318502,3670
+1183,Esplanada de Sá, 47,206050,28438
+1184,Setor Novaes, 52,271722,27126
+1185,Fazenda Montenegro, 56,222705,42377
+1186,Praia de Garcia, 45,404358,34972
+1187,Setor Amanda da Rosa,374772,28346
+1188,Lagoa Danilo Montenegro, 74,432326,35710
+1189,Praça Gustavo Henrique Souza,225212,27144
+1190,Recanto Sousa, 69,111523,22664
+1191,Viaduto Isabella Pinto, 364,260998,18080
+1192,Avenida Pastor, 53,280737,12769
+1193,Estação de Cavalcanti, 12,278635,38015
+1194,Distrito Maysa Oliveira,18205,32095
+1195,Lagoa de Santos, 50,288099,30454
+1196,Trecho Cauã Camargo,59551,5464
+1197,Colônia Aragão, 96,239217,17760
+1198,Passarela de Farias, 35,365657,11767
+1199,Lago Montenegro,189654,29647
+1200,Estrada de Borges, 96,33731,48126
+1201,Rodovia Fernanda Fernandes, 8,95911,47389
+1202,Conjunto Jesus, 60,455538,12060
+1203,Vila Diogo Andrade,438504,10274
+1204,Morro Rodrigo Fonseca, 2,208904,25921
+1205,Vereda Albuquerque, 63,27521,8118
+1206,Passarela Alice Caldeira, 4,485441,50198
+1207,Estrada Clara Monteiro, 19,377510,50693
+1208,Rua Arthur Vieira,461968,12456
+1209,Quadra Cunha, 674,399683,13266
+1210,Campo Fernandes, 70,370045,28695
+1211,Morro de Camargo, 327,224117,4067
+1212,Campo de Pinto, 85,30170,45229
+1213,Colônia Pastor, 51,461837,691
+1214,Favela de da Rosa, 80,29000,4458
+1215,Largo Ana Sophia Fonseca, 69,344312,46972
+1216,Trevo Teixeira, 3,412674,12960
+1217,Ladeira Antônio da Costa, 2,341657,35194
+1218,Distrito de Cassiano, 86,376254,22152
+1219,Vale de Teixeira, 56,107978,44067
+1220,Estação Ana Luiza da Paz, 453,190962,9574
+1221,Distrito Moraes, 8,366125,25449
+1222,Área Laís Cassiano, 15,27180,16407
+1223,Lago Emanuella Vasconcelos, 4,473730,39105
+1224,Campo de Alves, 42,114708,38199
+1225,Passarela Lavínia Porto, 9,235797,4140
+1226,Residencial Heloísa Pinto, 19,157228,13338
+1227,Sítio Pinto, 754,392177,11095
+1228,Morro Silva, 16,485670,23959
+1229,Feira Vitor Vieira, 89,33000,44824
+1230,Trecho Sá, 17,320610,25613
+1231,Passarela Vitor Hugo Vargas, 4,398750,24468
+1232,Quadra João Lopes, 75,182764,24299
+1233,Residencial de Moreira, 5,189541,31005
+1234,Chácara Duarte, 18,134212,42449
+1235,Parque Gabrielly Casa Grande,16974,50321
+1236,Estação Agatha da Conceição, 56,488813,48101
+1237,Condomínio André Lima, 45,260522,6802
+1238,Parque Nascimento, 5,457409,5108
+1239,Fazenda Maria Eduarda da Mata, 22,210691,33760
+1240,Núcleo de Mendes,106648,21387
+1241,Fazenda da Mata, 80,428750,7860
+1242,Vila de Leão, 307,217869,42711
+1243,Parque de Dias, 98,195749,20679
+1244,Via de Machado, 2,351290,30779
+1245,Rodovia de Rezende, 6,64647,3159
+1246,Recanto Clarice Ribeiro, 1,160446,24342
+1247,Vila de Sampaio, 25,440275,7861
+1248,Trevo de da Mata, 10,283457,28422
+1249,Viaduto Ana Clara Nunes, 77,383680,39055
+1250,Pátio de Teixeira, 87,135926,1454
+1251,Passarela de Cunha, 23,168531,32145
+1252,Núcleo de Santos, 8,496888,1138
+1253,Setor Maya da Mota, 19,310859,49542
+1254,Conjunto Costa, 3,44562,44227
+1255,Jardim Machado, 49,76184,28343
+1256,Alameda Barbosa, 39,56443,38620
+1257,Pátio João Guilherme Souza, 30,413369,40067
+1258,Feira Costa, 507,52744,48053
+1259,Colônia Peixoto, 42,229828,12298
+1260,Lagoa Sales, 84,133568,20243
+1261,Avenida Vitor Gabriel Farias, 9,39541,39754
+1262,Travessa Siqueira, 497,347628,22090
+1263,Sítio de das Neves, 78,79961,31625
+1264,Estação André Monteiro, 992,181987,6570
+1265,Passarela Rhavi Pimenta,205032,37690
+1266,Colônia Vieira, 80,88719,43852
+1267,Praia da Rocha, 20,272196,39053
+1268,Chácara da Cunha, 3,388779,17343
+1269,Vereda Vargas, 318,469170,10531
+1270,Travessa de Sales, 944,313398,5902
+1271,Lago Cardoso, 5,417049,30898
+1272,Sítio Evelyn da Mota,228527,20253
+1273,Favela Pedro Miguel Cassiano, 418,235803,22420
+1274,Loteamento Benjamin Aparecida, 84,324157,38569
+1275,Loteamento de Mendonça, 22,168941,4993
+1276,Vale Rhavi Cassiano, 7,5102,21575
+1277,Largo de das Neves, 56,344656,47609
+1278,Travessa de Vieira, 4,276225,40349
+1279,Residencial Daniel Correia, 7,191305,16264
+1280,Viela Monteiro, 11,39079,19339
+1281,Área de da Paz,15340,32207
+1282,Trevo de Moraes,480135,50850
+1283,Estação Apollo Martins, 382,274280,1078
+1284,Viela das Neves, 51,286070,18123
+1285,Lago Carlos Eduardo da Mota,452077,18352
+1286,Conjunto Maria Vitória Cassiano, 1,252577,48651
+1287,Avenida Bárbara da Costa,153403,19424
+1288,Vale de Souza, 1,46954,29445
+1289,Favela de Rodrigues, 1,341478,49691
+1290,Sítio Santos, 77,320903,41054
+1291,Rua Siqueira, 90,369341,16582
+1292,Vereda Oliveira, 2,308213,27351
+1293,Passarela Monteiro, 93,87478,43073
+1294,Estrada de da Rocha, 22,423904,3167
+1295,Favela Marques, 93,492119,37714
+1296,Estação Hadassa Peixoto, 42,450262,48984
+1297,Pátio Alexia Fonseca, 76,174999,8311
+1298,Esplanada Apollo Dias,242296,50024
+1299,Vila Antônio Martins, 34,84372,19631
+1300,Conjunto Maria Ramos, 29,275123,10693
+1301,Largo de da Mata, 95,374073,8174
+1302,Praça Lara Correia, 50,330098,13228
+1303,Vila Luiz Fernando Santos,425551,34651
+1304,Ladeira João Pedro Leão, 10,95738,35164
+1305,Loteamento Alana Rezende, 434,294491,26738
+1306,Colônia de Cunha, 85,199901,43634
+1307,Aeroporto de Farias, 614,474550,14346
+1308,Avenida Manuela Martins, 7,430745,247
+1309,Passarela Moura, 303,885,32517
+1310,Aeroporto da Paz, 20,82533,42091
+1311,Esplanada de da Cruz, 1,177993,11010
+1312,Parque Sofia Monteiro, 12,294405,37578
+1313,Estação Azevedo, 42,399931,17358
+1314,Distrito de Castro, 95,230960,46545
+1315,Fazenda de Nogueira, 71,250408,46589
+1316,Praça Marques, 36,215588,21265
+1317,Chácara Viana, 70,328365,8123
+1318,Feira de Freitas, 41,484784,7949
+1319,Lagoa Peixoto,57005,36254
+1320,Quadra Camila Rodrigues, 59,286365,19139
+1321,Setor de Caldeira, 69,454982,37532
+1322,Núcleo Moreira,59627,39080
+1323,Aeroporto de Correia, 84,377799,23669
+1324,Vale Maria Castro, 2,355770,49594
+1325,Morro Dante da Cunha, 49,59222,10516
+1326,Estação Anna Liz Cassiano, 3,333478,26143
+1327,Praia Alice Pereira, 99,254354,39715
+1328,Favela de Sampaio, 14,421377,31084
+1329,Sítio Cecilia Monteiro,89592,11034
+1330,Estrada Bernardo Fogaça, 20,108777,23129
+1331,Avenida da Rosa, 5,59357,46852
+1332,Travessa Isaque Guerra, 18,386399,50231
+1333,Fazenda Kaique Mendonça, 13,340201,1927
+1334,Vereda de Peixoto, 9,363273,31106
+1335,Passarela Calebe Borges, 27,31051,47161
+1336,Residencial de Siqueira, 845,208806,4950
+1337,Largo Ravy Nogueira, 19,64464,15496
+1338,Setor Amanda Sales, 17,214788,38042
+1339,Trecho Mendes, 97,169517,35740
+1340,Lagoa Guerra, 79,6954,35863
+1341,Rodovia Rios, 75,70857,32909
+1342,Sítio de Vargas, 97,362947,46526
+1343,Esplanada de Guerra, 89,300887,49203
+1344,Trevo Cavalcante, 836,229956,17486
+1345,Avenida de da Mota,138103,3388
+1346,Vila Gabrielly da Mota, 208,252930,44104
+1347,Loteamento Siqueira, 80,51627,9284
+1348,Alameda de Machado, 37,338132,9884
+1349,Setor Aragão, 10,312466,3711
+1350,Esplanada de Câmara, 53,61330,47516
+1351,Praia Esther Carvalho, 158,380900,22184
+1352,Rodovia de Mendonça, 9,123806,35925
+1353,Distrito das Neves, 905,286513,21629
+1354,Viela Pedro Henrique Costa,420497,28394
+1355,Feira Carlos Eduardo Cirino, 264,428606,32400
+1356,Vila Natália Castro, 990,240194,22215
+1357,Estrada de Ramos, 7,332572,22266
+1358,Avenida Clarice Sales, 4,204917,13122
+1359,Loteamento Alexia Silva, 57,495915,39793
+1360,Praça Monteiro, 915,339735,21348
+1361,Avenida Rocha, 45,262888,27035
+1362,Lagoa Isabella Vasconcelos,64000,36428
+1363,Feira Arthur Miguel Rios,285739,1368
+1364,Estação Ana Clara Melo, 93,381588,1478
+1365,Alameda de Fonseca,284566,26824
+1366,Lago Melina da Luz, 51,51292,6921
+1367,Esplanada de Pimenta, 41,117587,3568
+1368,Setor de Andrade, 285,463389,50776
+1369,Viela Moura, 35,395705,8915
+1370,Alameda Porto, 73,205886,3581
+1371,Vila Pietro Pacheco, 37,346159,18448
+1372,Parque Ester Sales, 469,113234,48762
+1373,Setor Sousa, 31,277894,31482
+1374,Alameda da Mata, 6,438260,27390
+1375,Lago de Sales, 824,330783,15595
+1376,Sítio de Sampaio, 7,379114,24789
+1377,Setor Sales,385611,44539
+1378,Favela Brayan Sousa, 65,409497,17136
+1379,Setor de Dias, 958,401089,12915
+1380,Lago de Costela, 68,375023,12358
+1381,Quadra Evelyn Dias, 19,137193,3040
+1382,Estação de Castro, 88,200804,19166
+1383,Rua de Cavalcanti, 72,362037,38421
+1384,Lagoa Garcia,66529,26696
+1385,Morro Ana Sophia Moraes, 51,163709,33884
+1386,Favela Vargas, 505,379313,3707
+1387,Rua Pires, 58,19769,39186
+1388,Setor de Azevedo, 219,113040,21840
+1389,Lago de Caldeira, 5,315388,27593
+1390,Vale Lima,272510,14427
+1391,Trecho Ribeiro, 48,361515,22372
+1392,Chácara Oliveira, 81,240281,49992
+1393,Praia da Rosa, 68,265453,2386
+1394,Travessa de Martins, 25,203778,33785
+1395,Praia de Gomes, 313,441480,46579
+1396,Alameda Cavalcante, 88,453756,3388
+1397,Trevo de da Paz, 91,170811,39590
+1398,Lago Pereira, 938,156573,39403
+1399,Pátio de Lima, 81,55616,10735
+1400,Campo da Conceição,99392,24259
+1401,Vila Duarte, 76,90255,24570
+1402,Condomínio de da Luz, 597,115627,25927
+1403,Estação Viana, 30,152880,9275
+1404,Campo Gabrielly Costa, 8,224586,46161
+1405,Via de Costela, 71,396518,2890
+1406,Ladeira de Vasconcelos,460761,18294
+1407,Via de Vieira, 828,479354,45971
+1408,Recanto de Lopes, 55,239798,27257
+1409,Lago Brenda Leão, 38,244309,16171
+1410,Loteamento Yuri Ferreira, 527,450846,20992
+1411,Praia de Monteiro,157063,23343
+1412,Aeroporto de Azevedo, 91,413690,4151
+1413,Condomínio Dias, 361,285129,25597
+1414,Aeroporto Rocha, 39,215716,27462
+1415,Chácara de Pires,79219,36256
+1416,Aeroporto Nicole Correia, 83,142099,38760
+1417,Estação Benjamin Freitas, 67,350694,24726
+1418,Área das Neves, 3,257858,3989
+1419,Estação Rios, 28,474815,7326
+1420,Vila Pastor, 865,37965,28052
+1421,Morro Isaac Casa Grande, 9,79817,49739
+1422,Passarela Vitor Gabriel Gonçalves, 84,483392,44607
+1423,Via de Aparecida, 3,61085,37026
+1424,Alameda de Brito, 44,396889,43228
+1425,Rua Lorena Dias, 33,182509,12571
+1426,Estação Bianca Araújo, 24,305075,22472
+1427,Residencial Fernandes, 74,382105,34340
+1428,Viela Lopes, 30,360307,1613
+1429,Sítio Ramos, 35,204464,12615
+1430,Estrada de Dias,228629,8691
+1431,Núcleo Ísis Campos, 825,494963,37797
+1432,Fazenda Correia, 8,155309,14747
+1433,Passarela Cecília Santos, 94,275434,1518
+1434,Morro de Moreira, 190,165890,2981
+1435,Trecho Juliana Rocha, 72,483807,3011
+1436,Residencial de Barros, 5,231127,48319
+1437,Praça Evelyn Castro, 78,232499,43259
+1438,Lagoa de da Costa, 311,458270,44490
+1439,Feira de Moura, 40,1200,36589
+1440,Aeroporto Ana Cecília Albuquerque, 333,134567,13130
+1441,Quadra Teixeira, 83,83361,41955
+1442,Quadra Melo, 94,319964,38595
+1443,Residencial de Siqueira,185843,46621
+1444,Rodovia Oliveira, 8,77174,37026
+1445,Setor de Guerra, 4,463854,14278
+1446,Estrada Kaique Albuquerque, 80,224785,49279
+1447,Favela de Mendonça, 21,72724,13041
+1448,Condomínio Gomes,189379,18518
+1449,Praia Abreu, 877,14900,51100
+1450,Parque das Neves, 120,210809,17336
+1451,Ladeira Camargo, 976,46236,42119
+1452,Fazenda Olívia Souza, 526,47289,6240
+1453,Morro Emanuel da Luz,497501,46708
+1454,Parque Pires, 83,22573,21867
+1455,Estação Davi da Paz, 3,389069,41355
+1456,Vale Vinícius Oliveira, 50,348340,29838
+1457,Rua de Siqueira, 94,497731,43792
+1458,Vila Enrico Viana,54465,17725
+1459,Núcleo Lucas Gabriel Santos, 90,35357,30205
+1460,Parque Santos, 74,340995,38064
+1461,Trecho da Cruz, 5,348537,2723
+1462,Aeroporto de Gomes,6084,41260
+1463,Distrito Viana, 56,115957,40134
+1464,Aeroporto Moraes, 7,144124,8927
+1465,Recanto Brito,333600,19467
+1466,Jardim Maria Julia Caldeira, 13,26599,23307
+1467,Distrito de Viana,109363,7725
+1468,Estrada Abreu, 459,326174,17795
+1469,Aeroporto Maria Helena Silveira, 89,24592,17068
+1470,Morro de Cassiano, 67,489601,37670
+1471,Sítio Sá, 36,500935,12860
+1472,Favela Barbosa, 17,462412,6537
+1473,Rua de Pires, 29,34452,36465
+1474,Fazenda Teixeira, 99,413131,45420
+1475,Estação Erick Pereira, 64,126450,34627
+1476,Rua Camargo, 3,54919,12338
+1477,Favela Laís Nunes, 800,345734,7913
+1478,Estação Larissa Cavalcante, 72,145403,544
+1479,Praça Kamilly Aparecida, 663,135744,47698
+1480,Parque Cardoso, 18,46004,8492
+1481,Praia de Pacheco, 40,360153,34055
+1482,Vila de Alves, 34,358602,9446
+1483,Travessa de Ramos, 33,28742,4148
+1484,Travessa Carolina Viana, 48,206823,50709
+1485,Residencial Rodrigo Leão,246363,16126
+1486,Pátio Raquel Rios, 38,62298,3533
+1487,Núcleo Dante Cirino, 36,290256,34919
+1488,Estação de Andrade,60429,21246
+1489,Jardim da Cruz, 90,456143,24409
+1490,Recanto Dante Almeida, 454,490352,13450
+1491,Largo Monteiro, 757,369888,12193
+1492,Via de Teixeira, 1,288802,14335
+1493,Praia Pastor, 51,30769,28568
+1494,Chácara Pedro Henrique Guerra, 87,249701,19275
+1495,Trecho de Brito,140237,32415
+1496,Praia de Novaes, 532,482989,15454
+1497,Largo de Aparecida, 20,331356,44061
+1498,Fazenda Marques, 35,90208,1882
+1499,Distrito Cardoso, 3,450248,9462
+1500,Alameda Carolina Vasconcelos,396041,39680
+1501,Parque Rocha, 66,301044,23586
+1502,Vale Maria Isis Peixoto, 30,345000,25404
+1503,Via da Mota, 88,23169,13737
+1504,Parque Mendes, 12,453164,6852
+1505,Rodovia de Araújo, 5,495621,15864
+1506,Rua de Cassiano, 25,404303,5998
+1507,Sítio Casa Grande,151560,47023
+1508,Viela Novaes,321642,22434
+1509,Conjunto de Camargo, 25,387784,6901
+1510,Chácara Daniela da Cunha,13178,34436
+1511,Loteamento de Porto, 49,127669,46454
+1512,Via de Aragão, 37,392336,2882
+1513,Feira Brito, 91,255376,35058
+1514,Pátio de Mendonça, 708,475886,28391
+1515,Trecho Azevedo, 47,129131,8163
+1516,Área de Fogaça, 999,110152,49784
+1517,Travessa Yuri Leão, 4,362266,14259
+1518,Trevo de Brito, 27,265347,24556
+1519,Trecho de Costa, 55,23959,23223
+1520,Núcleo Rocha, 925,105306,43960
+1521,Viaduto Campos, 13,375335,10437
+1522,Pátio da Luz, 2,353992,6487
+1523,Campo de Novaes, 4,101266,7479
+1524,Distrito de Barros, 42,162186,4237
+1525,Rua Mendes, 346,175020,14439
+1526,Quadra Sampaio,427147,35067
+1527,Esplanada Diego Monteiro, 95,410868,28298
+1528,Setor Porto, 63,298093,42016
+1529,Quadra Nunes, 5,288147,3523
+1530,Viela Mariane Nascimento, 97,426965,9935
+1531,Passarela da Paz, 86,300641,3107
+1532,Praça de Pacheco, 49,331101,14495
+1533,Travessa de Azevedo, 7,291937,31127
+1534,Vereda Arthur Guerra, 53,141359,36403
+1535,Pátio da Costa, 71,219155,49786
+1536,Morro da Luz, 31,279282,46741
+1537,Aeroporto Bárbara Fogaça, 556,236543,16291
+1538,Sítio de Araújo, 92,223752,39942
+1539,Fazenda Almeida, 53,179235,32339
+1540,Conjunto de Sousa, 57,94949,37791
+1541,Jardim de da Luz, 98,95088,31925
+1542,Campo de Cunha, 4,332491,38659
+1543,Conjunto Bruna Fogaça, 54,354540,9714
+1544,Setor Correia, 11,304914,12983
+1545,Sítio de Lima, 514,137145,33176
+1546,Feira Juliana da Cruz, 91,214968,17625
+1547,Vale de Ferreira, 85,474431,40055
+1548,Lagoa Caldeira, 26,416124,7411
+1549,Sítio Daniel Correia, 743,104812,43317
+1550,Avenida de Sá, 4,289579,25784
+1551,Núcleo de Sá, 260,128719,49691
+1552,Alameda Bruna Vieira, 25,15671,36331
+1553,Trecho Stella Brito, 68,124389,31179
+1554,Rodovia Pastor, 342,304676,11554
+1555,Passarela de Albuquerque,277210,9755
+1556,Estrada Laís Freitas, 37,404944,28008
+1557,Rua Sophia Dias, 57,76914,18434
+1558,Alameda de Cunha, 9,42006,42380
+1559,Sítio de Lima, 54,59867,6204
+1560,Aeroporto Bryan Nascimento, 14,32760,25339
+1561,Favela Dias, 75,162356,31493
+1562,Praia Maya Sampaio,90869,29585
+1563,Praça Duarte, 58,89067,12291
+1564,Estrada Gustavo Henrique Cavalcante, 1,234122,5260
+1565,Fazenda de Sales, 88,326484,22959
+1566,Fazenda Isis Correia, 22,3746,35683
+1567,Travessa Barbosa,292320,21238
+1568,Favela Brenda da Mota, 2,202835,10398
+1569,Esplanada Alana Montenegro,74824,30531
+1570,Chácara de da Cunha, 42,234256,36566
+1571,Vale Almeida,129723,31687
+1572,Estação Ramos, 52,436849,7097
+1573,Aeroporto Caleb Martins, 63,211518,15344
+1574,Avenida Renan Andrade, 17,365380,49257
+1575,Aeroporto Marcelo Peixoto, 12,374654,17502
+1576,Chácara de Aparecida, 43,203211,23064
+1577,Viela Rodrigues, 60,24633,29104
+1578,Alameda Maitê Ribeiro, 79,371656,33933
+1579,Estação de Fernandes, 987,376463,33199
+1580,Ladeira de Borges, 51,71808,10940
+1581,Pátio Evelyn Caldeira, 193,244553,37175
+1582,Trecho de Pastor, 35,104040,14084
+1583,Alameda Valentina Carvalho, 928,31251,42729
+1584,Ladeira João Gabriel Nascimento, 32,227123,45961
+1585,Lago Albuquerque, 6,408326,45595
+1586,Núcleo Sousa, 43,489559,43867
+1587,Viela Josué Cunha, 11,474498,3425
+1588,Favela Câmara, 2,193921,9608
+1589,Alameda Sophia da Mota, 82,348576,19446
+1590,Loteamento Júlia Mendonça,251701,10346
+1591,Fazenda de Ramos, 59,355973,21880
+1592,Distrito Ana Laura Alves, 3,353616,33392
+1593,Favela Melo,306681,30052
+1594,Quadra de Vasconcelos,362789,26877
+1595,Viaduto Pastor, 14,497287,2621
+1596,Trecho Danilo Ferreira, 4,175327,19179
+1597,Praça de Ribeiro, 36,206444,29202
+1598,Rodovia Rios, 69,273063,25097
+1599,Trecho Barros, 445,301772,37069
+1600,Favela de Pimenta, 123,183927,30768
+1601,Aeroporto Ester Nunes, 71,479785,43850
+1602,Estação de Pereira, 191,170965,41128
+1603,Estrada Maria Sophia Costa, 7,274348,30628
+1604,Viaduto Castro, 41,55277,27337
+1605,Lago Heloisa da Rocha, 627,179348,1234
+1606,Parque de Macedo,449786,9971
+1607,Área de Jesus, 298,366416,5648
+1608,Lagoa de Sampaio,233820,3049
+1609,Via Alice Alves, 375,255980,33718
+1610,Viaduto Correia, 714,303981,9840
+1611,Estação João Gabriel Machado, 79,105274,30353
+1612,Via Calebe Borges, 91,477111,8149
+1613,Recanto Felipe Cavalcante, 82,108051,3158
+1614,Estrada Casa Grande, 667,329983,9796
+1615,Conjunto de Brito, 381,161802,9490
+1616,Estrada Maria Julia Silva,146409,32026
+1617,Campo Cavalcanti, 69,486548,37583
+1618,Passarela Vitor Hugo Carvalho, 765,283181,46999
+1619,Pátio de Borges, 90,346190,48001
+1620,Jardim Monteiro, 1,136070,45462
+1621,Passarela de Oliveira, 70,413002,2913
+1622,Área Pereira,175550,29492
+1623,Viela Pacheco, 63,306093,8921
+1624,Chácara Maria Flor Silveira, 12,442761,46545
+1625,Viela Clarice Carvalho, 944,125185,45726
+1626,Passarela Correia, 41,470453,17738
+1627,Setor Cauã Pereira, 17,212354,42278
+1628,Viela Maria Isis Moraes, 12,359359,47503
+1629,Rodovia de Pinto,204332,42579
+1630,Chácara da Rosa, 58,25938,35295
+1631,Lagoa de Pires, 73,32897,41435
+1632,Passarela de Moreira, 55,303075,10880
+1633,Ladeira de Jesus, 75,302335,6763
+1634,Parque Pacheco, 12,38787,15535
+1635,Fazenda de da Costa, 31,380043,37511
+1636,Conjunto Marina Silveira, 47,295682,36085
+1637,Área de Abreu,354363,19696
+1638,Morro de Cardoso, 90,186337,34354
+1639,Núcleo de da Conceição, 32,431226,10686
+1640,Avenida de Casa Grande, 98,208484,23830
+1641,Avenida Gael Sá, 272,129612,29570
+1642,Núcleo Brito, 119,289592,15414
+1643,Praia Farias, 2,338579,30941
+1644,Chácara Cecília Souza,355742,14896
+1645,Avenida Rocha, 78,420687,40483
+1646,Chácara Ana Clara Silva, 63,354571,35559
+1647,Conjunto de Gonçalves, 65,3339,14867
+1648,Aeroporto Raul Sousa, 2,407415,7165
+1649,Feira Zoe Sales, 79,348362,50301
+1650,Feira Marques, 9,292983,3215
+1651,Conjunto Fogaça, 34,386239,29033
+1652,Distrito de Freitas, 2,96548,19467
+1653,Vereda de Gonçalves, 13,92531,50983
+1654,Feira de Guerra,478630,46726
+1655,Feira Diego Moraes, 54,290678,20656
+1656,Fazenda Cavalcanti, 87,323424,14500
+1657,Viaduto de Pinto, 35,453472,29862
+1658,Rodovia Santos, 51,386496,25214
+1659,Passarela Felipe Nogueira,378765,16836
+1660,Distrito Joana Cardoso, 29,222315,8637
+1661,Via Josué Pinto, 6,188502,22258
+1662,Pátio Pinto, 39,484472,3929
+1663,Trecho Sabrina Oliveira, 228,387058,1257
+1664,Estrada de Teixeira, 66,335873,927
+1665,Passarela de Machado, 928,277527,46797
+1666,Pátio de da Conceição, 90,137114,13625
+1667,Lago Nunes, 58,37885,21886
+1668,Rodovia de Camargo,147472,45749
+1669,Trevo de Albuquerque, 71,179817,42451
+1670,Avenida Bernardo Albuquerque, 132,270623,50804
+1671,Jardim Yasmin da Conceição,29428,23342
+1672,Fazenda Raquel da Rocha, 4,139061,4966
+1673,Campo Cardoso,180464,28151
+1674,Loteamento de Oliveira, 99,255147,44293
+1675,Residencial Apollo Teixeira, 99,211413,7548
+1676,Conjunto Moreira,216164,36308
+1677,Quadra Leão, 89,343527,17723
+1678,Trecho Maria Liz Alves, 89,501008,10911
+1679,Travessa de da Mata, 66,56046,38879
+1680,Largo de Novais, 2,262130,46363
+1681,Distrito de da Cunha, 50,300495,28254
+1682,Estação Nathan Rodrigues, 80,244401,28748
+1683,Estação de Sá, 61,236697,25433
+1684,Conjunto Eduarda Garcia,151650,5241
+1685,Recanto Daniel Peixoto, 92,27197,45617
+1686,Condomínio João Guilherme Sousa, 216,419732,229
+1687,Estação Barbosa, 9,84202,3149
+1688,Jardim da Paz, 9,258662,49768
+1689,Esplanada de Rezende, 34,402709,21144
+1690,Trecho Sarah Azevedo, 805,404069,49731
+1691,Fazenda Porto, 200,418984,10007
+1692,Lago de Peixoto, 22,334218,48986
+1693,Jardim de Câmara, 7,439425,47392
+1694,Largo Bento da Cruz, 4,210169,35314
+1695,Aeroporto da Conceição, 7,100584,36963
+1696,Recanto Eloah da Costa, 9,41718,48662
+1697,Lagoa Araújo, 99,253588,7085
+1698,Campo Luiz Henrique Siqueira,340937,2422
+1699,Área Asafe Santos, 28,127481,14112
+1700,Condomínio Casa Grande, 32,319128,24243
+1701,Campo Aragão, 83,293671,41683
+1702,Favela Caleb Mendonça, 32,483744,30348
+1703,Esplanada de Fernandes, 1,125900,27071
+1704,Praia Thales Fogaça, 55,290975,29856
+1705,Chácara de Aragão, 49,293647,29390
+1706,Vereda Anthony Gabriel Gonçalves, 993,139512,20005
+1707,Travessa Siqueira, 90,51954,27428
+1708,Distrito Clara da Paz, 13,44073,20426
+1709,Lago Aylla Vieira, 777,276778,39307
+1710,Condomínio Fonseca, 138,225619,108
+1711,Passarela Caldeira, 12,223026,27176
+1712,Passarela Caldeira, 32,26325,760
+1713,Residencial de Nogueira, 121,109789,46418
+1714,Travessa de Brito, 8,290891,44660
+1715,Rua de Vieira, 99,376327,32582
+1716,Residencial de Peixoto, 5,485597,657
+1717,Lago Alexia Costa, 84,58679,45487
+1718,Núcleo de Monteiro, 139,112890,34742
+1719,Núcleo Maysa Gomes, 5,102702,1630
+1720,Estação Moreira, 92,239604,24738
+1721,Vereda da Rosa, 9,183064,34414
+1722,Rodovia de Pimenta, 72,24801,4626
+1723,Rodovia Heitor da Mata, 4,433073,15
+1724,Trecho de Borges, 38,394578,36338
+1725,Lago Helena Fernandes,27980,16326
+1726,Estação das Neves, 57,324339,8370
+1727,Ladeira Montenegro, 33,11050,48680
+1728,Esplanada Novais, 557,387085,27991
+1729,Loteamento de Sampaio, 22,381694,6549
+1730,Fazenda Valentim Vargas,36623,12071
+1731,Vereda de Cunha, 27,254316,27830
+1732,Trevo Sales, 17,126029,820
+1733,Trecho de Cavalcante, 9,356632,28607
+1734,Sítio de Melo, 737,205700,21282
+1735,Viela Mariana Farias, 1,239240,32716
+1736,Quadra de Martins, 784,327804,41325
+1737,Parque Pedro Lucas Vasconcelos, 57,450788,50516
+1738,Residencial Lopes,394792,23231
+1739,Núcleo Bárbara da Cruz, 4,740,13245
+1740,Jardim de Brito, 583,5866,14877
+1741,Via de Cavalcante, 305,376175,46925
+1742,Praia Gonçalves, 203,461813,49156
+1743,Estação de Câmara, 31,99602,4092
+1744,Lagoa Josué da Costa, 5,311887,28821
+1745,Vale Emanuelly Campos, 79,179076,17327
+1746,Pátio de Jesus, 8,285717,38256
+1747,Alameda Ana Vitória da Rosa, 87,41392,25780
+1748,Aeroporto Rocha, 52,197121,18411
+1749,Núcleo de Pacheco, 14,47804,20816
+1750,Viaduto de Campos, 46,95045,44657
+1751,Condomínio de da Conceição, 979,38437,4217
+1752,Estrada Melissa Mendonça, 39,493060,38621
+1753,Praça de Machado, 94,419749,30440
+1754,Setor de Garcia, 4,453378,24735
+1755,Travessa Maria Luiza Farias, 419,157876,16511
+1756,Núcleo Alexia Nunes, 97,238804,43312
+1757,Distrito Heitor Pinto,87504,46169
+1758,Esplanada Barros, 61,231294,47597
+1759,Trevo Yan Oliveira,272872,17394
+1760,Núcleo Nascimento, 502,27531,14568
+1761,Recanto de Moura, 60,52107,42616
+1762,Condomínio João Vitor Vasconcelos, 9,438767,11771
+1763,Lago Diogo Silva, 1,156298,26844
+1764,Trevo de Azevedo, 65,352792,46662
+1765,Condomínio de Nogueira, 47,231600,43976
+1766,Vale Luiza da Luz,164638,32966
+1767,Travessa Correia,41028,43573
+1768,Vila Ana Luiza Gonçalves, 68,165745,31172
+1769,Residencial André Gomes,467078,11641
+1770,Esplanada Ribeiro,441970,39027
+1771,Estrada de Brito, 27,27585,51156
+1772,Parque de Pacheco, 95,80077,23933
+1773,Conjunto das Neves, 50,131212,12658
+1774,Vila Almeida, 4,342134,15441
+1775,Vila Luiz Henrique Correia,468205,18025
+1776,Condomínio Dias, 9,182701,44048
+1777,Estrada de Ribeiro, 83,172106,23997
+1778,Loteamento Garcia, 79,100149,46307
+1779,Via de da Rocha, 6,96847,23414
+1780,Avenida de Machado, 309,346683,49431
+1781,Rodovia de Barros, 40,359750,17983
+1782,Distrito Gonçalves, 39,27478,7750
+1783,Conjunto da Luz, 389,294625,33062
+1784,Residencial Maria Alice Porto, 78,373842,24174
+1785,Parque Felipe Mendonça, 19,474454,34772
+1786,Largo Maysa Rodrigues, 17,64370,35403
+1787,Alameda Aparecida, 743,282048,27521
+1788,Feira de Garcia, 245,190888,28801
+1789,Passarela Oliver Mendes,78477,45579
+1790,Condomínio de Mendonça, 69,470963,37209
+1791,Jardim Pinto, 34,230622,39823
+1792,Área Pedro Henrique Pacheco, 64,488831,25157
+1793,Lago Fernandes, 23,467623,49732
+1794,Estrada Almeida, 70,401484,41473
+1795,Via de Araújo, 2,277239,32706
+1796,Vale Vitor Gabriel Almeida, 43,369482,33382
+1797,Sítio Gonçalves, 988,497016,20994
+1798,Chácara Laís Ribeiro, 86,413556,40371
+1799,Rodovia Lucas Cardoso, 953,195461,49934
+1800,Praça Gonçalves, 630,458990,4528
+1801,Núcleo de Martins, 56,352310,2617
+1802,Trevo Rios, 38,388188,3366
+1803,Largo Sampaio, 49,96610,37262
+1804,Estação de Duarte, 99,49234,1072
+1805,Setor Noah da Luz, 11,382546,38513
+1806,Pátio Sofia Sales, 23,96835,303
+1807,Passarela de Cirino, 68,142573,48325
+1808,Passarela Moreira, 8,24609,45112
+1809,Condomínio Anthony Novaes, 19,138155,5906
+1810,Campo Maya da Costa, 5,178213,4305
+1811,Favela de Borges, 9,63383,35191
+1812,Avenida Hellena Barbosa,197083,13184
+1813,Vereda Carolina Peixoto,432608,36574
+1814,Rua de Santos, 892,408622,47631
+1815,Núcleo Mendonça, 18,324302,18376
+1816,Praça Silveira, 57,262990,18957
+1817,Esplanada Campos, 81,218679,18727
+1818,Condomínio Lima, 458,415702,23466
+1819,Ladeira Sophia Pimenta, 4,356551,5158
+1820,Trevo Laura Carvalho, 24,268169,13136
+1821,Setor de Melo, 573,54972,19026
+1822,Vale Ana Luiza da Mata, 45,84885,45224
+1823,Avenida Caldeira, 91,236321,24786
+1824,Aeroporto Sofia Cavalcanti, 3,176460,2459
+1825,Vale Antônio Nogueira, 97,147631,18161
+1826,Avenida de Aparecida, 46,242958,33714
+1827,Vereda Lucas Andrade,377727,15802
+1828,Loteamento de Silveira, 78,226294,9263
+1829,Rodovia Ravi Camargo, 65,75317,36137
+1830,Loteamento das Neves, 68,192776,27492
+1831,Pátio Oliveira, 150,140936,47972
+1832,Praia Rezende, 43,384485,4184
+1833,Feira de Martins, 148,303347,3123
+1834,Vale Garcia, 53,81382,509
+1835,Largo Maitê Camargo, 55,77585,2066
+1836,Setor Martins, 11,491336,44216
+1837,Campo de Duarte, 6,479998,33108
+1838,Conjunto Alícia Câmara, 70,96404,23812
+1839,Jardim Vieira, 67,67411,10500
+1840,Recanto Sampaio,462402,47090
+1841,Área de Caldeira, 851,209294,41433
+1842,Loteamento Bianca Correia,138370,2289
+1843,Conjunto Barbosa,101121,41615
+1844,Esplanada de Vargas, 28,135606,7670
+1845,Parque de Nunes, 50,136656,45487
+1846,Passarela de Gonçalves, 16,163302,40574
+1847,Setor de Andrade,495567,30415
+1848,Viaduto Moreira, 4,316117,9459
+1849,Rodovia Duarte, 91,360364,3675
+1850,Núcleo Marcela Sales, 43,184848,7118
+1851,Jardim Carvalho, 19,390109,15528
+1852,Conjunto Heloisa Marques, 93,302894,8160
+1853,Trevo de Ramos, 796,9102,27057
+1854,Ladeira de Pinto, 835,62428,34746
+1855,Praça de Vasconcelos,346788,50575
+1856,Trevo Pietra Nogueira,185913,91
+1857,Fazenda Duarte,396331,33017
+1858,Lago de Teixeira, 19,426989,46420
+1859,Esplanada de Araújo, 42,81071,28411
+1860,Travessa Ryan Nascimento,277541,5906
+1861,Condomínio Clarice da Mata,297515,19504
+1862,Vila Novais,480252,31411
+1863,Ladeira de Melo, 23,225305,30569
+1864,Ladeira de Pires, 842,276744,45399
+1865,Aeroporto Daniel Pacheco, 17,27779,5614
+1866,Vereda de Novaes, 45,321519,8167
+1867,Residencial Melina Sales, 39,358196,3961
+1868,Estrada de da Luz, 55,312582,8243
+1869,Favela Bento Carvalho, 4,116409,10091
+1870,Viaduto Manuela Brito, 905,158683,25231
+1871,Via Sampaio, 912,201208,15706
+1872,Favela Emanuel Gonçalves, 97,141421,49502
+1873,Vale Isaac Borges, 3,497712,24433
+1874,Condomínio Lorenzo Correia, 37,280707,32746
+1875,Estrada de Sales,191273,39339
+1876,Via de Cavalcanti, 53,436949,36757
+1877,Largo de Cardoso, 16,416117,14912
+1878,Colônia Sales,400384,2462
+1879,Distrito Enzo Pinto, 1,378689,2279
+1880,Fazenda Rodrigues, 7,53577,41997
+1881,Chácara Mariah Costela,183024,18981
+1882,Vale de Castro, 15,325986,40034
+1883,Loteamento de Monteiro, 46,35981,22672
+1884,Travessa Antonella da Mota,410617,16543
+1885,Campo Rafael Ramos, 5,244485,33671
+1886,Condomínio de da Rosa, 1,72446,10490
+1887,Quadra Bianca da Rosa, 42,43282,27536
+1888,Distrito de Duarte, 1,27999,23644
+1889,Rodovia de Cardoso, 7,214122,24394
+1890,Travessa Marcelo Monteiro, 97,196980,8125
+1891,Vila de Macedo,157355,21042
+1892,Fazenda de da Luz, 48,449936,11885
+1893,Pátio de Casa Grande, 30,372417,36514
+1894,Vale Enrico Ferreira,170057,47552
+1895,Lagoa de Marques, 92,231498,1917
+1896,Largo da Mata,222446,44227
+1897,Favela Ísis Casa Grande, 28,77379,31175
+1898,Rodovia Pietro Correia, 56,82613,4332
+1899,Vila Kamilly Sampaio, 3,140985,44084
+1900,Praia de Souza, 63,172041,10405
+1901,Campo de Rezende,138406,23955
+1902,Vereda Théo Carvalho, 14,245480,17656
+1903,Lagoa de Ferreira, 22,476230,49674
+1904,Residencial de Ramos,233980,11905
+1905,Condomínio Carvalho, 50,467609,39642
+1906,Condomínio João Lucas Rezende, 49,175950,3539
+1907,Quadra Ribeiro, 790,420889,49417
+1908,Condomínio Silveira, 73,210473,25420
+1909,Travessa Barros, 95,351395,48278
+1910,Morro Calebe Cassiano, 43,63144,30541
+1911,Parque Lopes, 75,227075,43066
+1912,Vila Ana Júlia Machado, 85,156001,27768
+1913,Vale de da Conceição, 5,111191,42879
+1914,Lagoa Costa, 68,323139,28534
+1915,Travessa Luiz Felipe Caldeira, 58,232617,51152
+1916,Avenida da Rosa,232855,13940
+1917,Recanto de Costela, 7,198160,26870
+1918,Rua Mendonça,440436,46154
+1919,Área Theo Sales, 47,80623,3713
+1920,Estação Pedro Henrique Macedo, 169,472472,39490
+1921,Ladeira Moraes,200439,33291
+1922,Feira da Rocha, 38,492170,5559
+1923,Ladeira Paulo Viana, 246,397494,27095
+1924,Travessa de Silva, 87,41035,12274
+1925,Conjunto Luiz Miguel Pimenta, 961,130426,13778
+1926,Passarela Ramos, 5,253036,25567
+1927,Aeroporto de da Mota, 76,235545,48045
+1928,Lago Esther Monteiro, 5,101092,32561
+1929,Alameda de Costela, 60,33832,14253
+1930,Setor de Pacheco,152201,5634
+1931,Morro Thales Azevedo,428465,34952
+1932,Vale de Cunha, 53,386919,33651
+1933,Loteamento Barros,412202,21595
+1934,Recanto Ana Julia Pastor,494517,2677
+1935,Pátio Sá, 17,381464,47473
+1936,Viela Pires, 9,387346,42764
+1937,Avenida de Câmara, 20,370523,19394
+1938,Loteamento Ana Santos, 87,174418,48668
+1939,Conjunto da Rocha, 83,85076,40173
+1940,Condomínio de Abreu, 101,57640,14492
+1941,Parque de Pacheco, 59,228908,35912
+1942,Parque Melissa da Rocha, 957,335026,3557
+1943,Praça Augusto Almeida, 82,19216,16438
+1944,Conjunto Cavalcanti, 4,93537,46821
+1945,Viela Novaes,89919,45380
+1946,Praça Cirino, 3,356437,33091
+1947,Trevo Aurora Ferreira,125192,7453
+1948,Lagoa de Pastor,463218,50379
+1949,Estrada Gabriel Vieira, 80,175529,36014
+1950,Viela de Mendonça, 89,47451,47298
+1951,Lago de Andrade,449015,33659
+1952,Esplanada de Nogueira, 849,241168,41729
+1953,Vale de Costela, 2,238701,14406
+1954,Rua de Souza, 69,403394,12615
+1955,Jardim Sales, 8,184082,1949
+1956,Recanto de da Rocha, 7,369557,44777
+1957,Ladeira Zoe Brito, 419,486243,38782
+1958,Vereda Eloah Lopes,122126,20357
+1959,Rodovia de Albuquerque,119132,32012
+1960,Praça Souza, 925,239911,38091
+1961,Distrito de da Paz, 88,341796,18771
+1962,Trevo de Moreira, 80,94676,7200
+1963,Passarela Fernandes,290113,22753
+1964,Vila de Campos,20368,20232
+1965,Área Ana Julia da Mota, 85,45717,21002
+1966,Vila Murilo Brito, 762,420564,21975
+1967,Largo Enzo da Costa, 94,101664,36847
+1968,Travessa Sara Barbosa, 73,395901,35284
+1969,Praça Pimenta, 19,445986,9117
+1970,Esplanada Oliveira, 36,457636,36840
+1971,Via Ana Vitória Ramos, 73,149897,21977
+1972,Distrito Aragão, 1,134320,7718
+1973,Parque Caroline Martins, 8,91186,40706
+1974,Avenida Melo, 34,283617,30510
+1975,Núcleo de Novais, 87,315390,33394
+1976,Ladeira Lucas Silva, 42,231937,17235
+1977,Distrito Caroline da Rosa,454676,47747
+1978,Quadra de Castro, 86,403518,42625
+1979,Trecho de Aragão, 27,85783,22831
+1980,Fazenda de Azevedo, 28,220934,3414
+1981,Vila Joaquim Souza, 546,403816,593
+1982,Conjunto Garcia, 69,31350,38042
+1983,Loteamento de da Mata, 42,32181,41925
+1984,Pátio Castro, 12,426102,5438
+1985,Feira de Almeida, 43,62168,34889
+1986,Viaduto Pacheco, 220,457647,27236
+1987,Travessa de da Mota,289186,49975
+1988,Viela de Cirino, 2,38767,3389
+1989,Distrito de Peixoto, 40,305835,37946
+1990,Lagoa Sá, 33,350919,43741
+1991,Colônia Davi Lucas Marques,424265,11851
+1992,Recanto Albuquerque, 8,421888,13305
+1993,Viaduto de Rocha, 151,12976,3105
+1994,Praia Rezende,255864,21449
+1995,Ladeira de Moreira, 9,148801,17282
+1996,Viaduto Teixeira, 25,353696,14562
+1997,Vereda Rafaela Costela, 635,102354,17321
+1998,Loteamento de Albuquerque, 25,100700,38226
+1999,Jardim de da Paz, 20,208036,6390
+2000,Rua Davi Costa, 24,9872,2684
+2001,Parque de Fogaça,227858,3871
+2002,Rua Giovanna Souza,206731,40785
+2003,Feira Pedro Lucas Ramos, 7,411856,3120
+2004,Estrada Pietro Fogaça, 7,444842,46922
+2005,Residencial Luiz Felipe Gonçalves, 93,48395,44767
+2006,Núcleo da Mota, 53,472904,24410
+2007,Estrada de Cirino, 21,427794,37795
+2008,Lago Leandro Nunes, 44,476349,48001
+2009,Lagoa Benício Montenegro, 432,166576,36205
+2010,Vale Ana Lívia Vieira, 80,318218,22726
+2011,Colônia Silveira, 94,449146,38301
+2012,Rua Rodrigues, 898,42304,22601
+2013,Alameda de Barbosa,242532,44864
+2014,Aeroporto Julia Freitas, 192,153691,24234
+2015,Rodovia da Paz, 895,19533,45107
+2016,Campo de da Cruz, 8,21897,31952
+2017,Jardim Fernando Mendonça, 17,213437,27101
+2018,Colônia Ribeiro, 49,232887,42990
+2019,Condomínio Rios, 8,13342,46199
+2020,Recanto Moreira, 57,457171,39979
+2021,Vale Cunha, 87,262239,16212
+2022,Via Vitor Sá, 2,243118,43040
+2023,Estrada de Pastor, 93,89844,42607
+2024,Avenida Vitória Moura, 611,235901,31196
+2025,Residencial de Gonçalves, 7,170740,33173
+2026,Passarela Guilherme Borges, 39,148305,29180
+2027,Trevo da Luz,347946,2821
+2028,Área de Araújo, 20,328437,15950
+2029,Feira de Vasconcelos, 7,185289,36363
+2030,Recanto Matheus Vargas, 1,335737,25250
+2031,Viela de Pereira, 21,406978,36813
+2032,Área Lucas Gabriel Camargo, 65,146912,17210
+2033,Viaduto Melo, 495,331067,50069
+2034,Travessa Natália da Cunha, 238,482716,7074
+2035,Travessa Caroline Camargo, 394,334824,10986
+2036,Via da Mata, 40,199958,10216
+2037,Estação José Miguel Freitas, 21,375735,28587
+2038,Condomínio de Freitas, 9,435589,9912
+2039,Vila de Castro, 465,358994,22984
+2040,Trevo de Câmara, 11,461052,3694
+2041,Esplanada de Sales, 140,308588,41274
+2042,Conjunto Brayan da Mota, 61,58536,36617
+2043,Viela Francisco Silveira,479810,48253
+2044,Trevo Guerra,150162,2582
+2045,Chácara Novais, 47,369894,27348
+2046,Condomínio Ferreira, 4,486091,47406
+2047,Largo de Silva,446228,7850
+2048,Estrada Arthur Albuquerque, 49,392003,21605
+2049,Condomínio de Melo, 688,369961,11154
+2050,Distrito Bruno Correia, 552,301541,10615
+2051,Pátio de Alves, 43,300585,41527
+2052,Esplanada de Freitas, 15,298385,19601
+2053,Trecho Miguel Gonçalves, 735,366462,2674
+2054,Colônia Joana Nascimento, 90,5098,14634
+2055,Campo Fogaça, 76,47324,26338
+2056,Rodovia de Mendonça, 48,422233,5096
+2057,Área Gomes,279526,47890
+2058,Praça Vargas, 1,206869,838
+2059,Parque Sophia Novais, 30,86027,15826
+2060,Condomínio de Moreira,382858,11553
+2061,Condomínio Oliveira, 933,384295,28790
+2062,Área Luigi Araújo,225608,14061
+2063,Núcleo de Vasconcelos, 692,429140,14160
+2064,Rua Carlos Eduardo Rezende, 344,343252,2371
+2065,Núcleo de Jesus, 89,422629,22625
+2066,Residencial de Aragão,42909,19331
+2067,Recanto Paulo Barros, 144,1550,44340
+2068,Via de Oliveira, 19,178675,22870
+2069,Núcleo Rios, 10,298595,47305
+2070,Ladeira Noah Gonçalves, 5,468057,35445
+2071,Jardim Ribeiro, 333,383952,39658
+2072,Passarela de Pinto, 671,146312,23414
+2073,Loteamento de Guerra, 33,227056,46430
+2074,Rua Rocha,300005,46276
+2075,Esplanada Almeida, 734,409570,4117
+2076,Residencial Macedo, 454,256055,12902
+2077,Trecho Beatriz Cardoso, 67,195189,17419
+2078,Alameda de Melo, 967,128574,8150
+2079,Avenida Marcelo Abreu, 96,389479,41992
+2080,Alameda da Rocha, 846,261041,23074
+2081,Distrito da Mota,466363,30614
+2082,Trevo de Silva, 190,444691,17197
+2083,Travessa Pastor, 528,194245,41171
+2084,Quadra de Pereira, 81,102406,28710
+2085,Área Sales, 96,207564,18607
+2086,Chácara de Almeida, 511,468123,31338
+2087,Praia de Castro,190967,33109
+2088,Via Viana, 3,220756,50173
+2089,Viela de Moraes, 85,198541,41982
+2090,Viela de da Mota, 1,20199,24031
+2091,Rodovia Ester Almeida, 33,107778,26608
+2092,Vereda de Monteiro, 439,361683,22984
+2093,Vereda Fogaça, 82,377055,4150
+2094,Colônia de Sousa, 391,168633,13169
+2095,Morro de Barros, 35,481573,47351
+2096,Loteamento de Fernandes, 23,302960,48120
+2097,Campo Eduardo Barbosa, 6,156766,47546
+2098,Feira de Marques, 4,331117,19951
+2099,Viela Rodrigues, 92,150361,18477
+2100,Lago Fernandes, 79,128756,49564
+2101,Lago da Cunha, 5,232265,5826
+2102,Colônia Borges, 43,420049,39812
+2103,Via Novaes, 568,101337,6347
+2104,Viela de da Cunha, 3,15144,36448
+2105,Recanto Pedro Lucas Cunha, 298,321210,50929
+2106,Estrada Silveira,105486,11862
+2107,Parque Dante Macedo, 14,195038,17903
+2108,Favela de Siqueira, 31,58927,38802
+2109,Largo Sampaio, 51,396680,2064
+2110,Distrito Hadassa Farias, 21,336656,6820
+2111,Trevo Mateus Melo,285852,17220
+2112,Recanto Antony Fonseca, 48,161349,19048
+2113,Parque de Cavalcanti,350146,9464
+2114,Aeroporto Souza, 91,216271,41096
+2115,Travessa Theodoro da Conceição,98239,33679
+2116,Trecho Guerra, 18,8871,19843
+2117,Rua Brito, 34,98427,11450
+2118,Alameda Ana Clara Fogaça, 97,147555,41299
+2119,Sítio Rocha, 96,336410,35757
+2120,Alameda Cardoso, 3,16868,25798
+2121,Área de Fernandes, 31,42375,13377
+2122,Ladeira de Pereira, 30,318419,21618
+2123,Avenida de Nascimento, 88,344055,47126
+2124,Estrada Mateus Correia, 97,444300,13377
+2125,Esplanada Antony Pereira, 14,271537,22620
+2126,Via Garcia, 67,252519,42335
+2127,Trecho Ramos, 8,175624,43083
+2128,Sítio de Sales, 32,96310,121
+2129,Campo Moreira, 79,279745,13396
+2130,Lagoa Yan Marques,298391,39662
+2131,Lagoa Pastor, 33,82380,40586
+2132,Loteamento Emanuel Gonçalves, 37,14043,2931
+2133,Favela Heloísa Oliveira, 79,97508,47080
+2134,Alameda de Rodrigues,285015,18936
+2135,Travessa de Pastor, 53,187585,14962
+2136,Lagoa Marcos Vinicius Oliveira, 35,121450,38883
+2137,Vale de Garcia, 63,203070,30668
+2138,Vila de Machado, 3,329466,37410
+2139,Praia Fernandes, 73,17331,12457
+2140,Favela de Caldeira, 14,266536,25256
+2141,Praça Emanuella Moreira, 42,287686,31119
+2142,Feira Ramos, 55,202319,32208
+2143,Praia Teixeira, 11,61337,35638
+2144,Travessa Oliveira, 980,464883,26709
+2145,Vereda Benicio Machado, 984,361370,9437
+2146,Praça da Mata,319123,37775
+2147,Viaduto de Gomes, 81,372504,12700
+2148,Esplanada de Silveira, 7,473497,36601
+2149,Lago Moreira, 46,252246,11768
+2150,Estação de Correia, 50,122274,21870
+2151,Vale Ferreira, 87,86990,50889
+2152,Estação Vargas, 12,128475,45202
+2153,Morro Rebeca Garcia, 385,110100,16259
+2154,Alameda Rezende, 65,420806,49917
+2155,Parque Calebe Silveira, 96,72367,2313
+2156,Avenida de Ramos, 60,70965,51088
+2157,Morro das Neves, 23,240258,40575
+2158,Largo de Sales, 45,61400,27502
+2159,Via Camargo, 28,443049,23627
+2160,Jardim de Nunes, 11,35780,28192
+2161,Praia Fogaça, 36,257364,752
+2162,Fazenda Ferreira,413348,34423
+2163,Avenida Thiago da Luz, 63,227115,40803
+2164,Condomínio de Cardoso, 6,291308,25043
+2165,Morro Bento Fogaça, 193,220948,18101
+2166,Vila de Macedo, 112,337130,46407
+2167,Estrada Laís da Luz, 24,99075,2067
+2168,Lagoa Aurora Lima, 6,121310,50098
+2169,Aeroporto Rezende, 381,265254,41489
+2170,Esplanada de Marques, 572,477866,45960
+2171,Residencial Olívia Santos, 17,483188,39896
+2172,Campo de Montenegro, 26,222151,165
+2173,Área de Carvalho,10441,23706
+2174,Vereda Rios, 55,491371,23991
+2175,Pátio de Moura,384892,22377
+2176,Viela de da Costa, 344,130789,32499
+2177,Colônia Théo Alves, 45,318473,32773
+2178,Praia Borges, 80,343012,50470
+2179,Setor Maria Helena Guerra, 4,322464,4683
+2180,Estação da Luz, 96,285918,31390
+2181,Alameda Lopes,443805,25717
+2182,Travessa de Cardoso, 78,184342,47439
+2183,Setor de Pereira, 84,85534,40563
+2184,Vila de Lopes, 3,394897,50477
+2185,Viela Moura,57113,27259
+2186,Praça de Cavalcanti, 71,222877,14500
+2187,Conjunto Dom da Rosa, 31,368770,6302
+2188,Rodovia Aylla Pacheco, 89,134352,29927
+2189,Setor de da Luz, 4,25438,17693
+2190,Distrito Anna Liz Câmara, 22,17557,39075
+2191,Área Yuri Pimenta,87437,41218
+2192,Praça de Vieira, 99,428587,33443
+2193,Setor de Câmara, 388,318446,40368
+2194,Rua Arthur Miguel Moreira, 39,28490,5120
+2195,Condomínio Carolina Moura, 801,184278,3771
+2196,Via de Brito, 120,5894,12280
+2197,Sítio Theo Moraes,138986,32359
+2198,Núcleo Bryan da Cunha,312658,36563
+2199,Feira Viana, 9,352465,2330
+2200,Aeroporto das Neves, 92,424135,25153
+2201,Feira de Borges,79587,22486
+2202,Loteamento de da Cruz, 495,20623,21453
+2203,Campo de Castro, 546,419440,43647
+2204,Chácara de Moura, 49,189133,50033
+2205,Distrito de Leão,96008,30692
+2206,Chácara Mathias Silveira, 31,61406,15374
+2207,Distrito Albuquerque, 3,423463,4290
+2208,Estação de Andrade, 64,255362,39313
+2209,Alameda Lavínia Araújo, 96,386197,8484
+2210,Feira Heloisa Monteiro, 400,180431,9099
+2211,Vila Macedo, 54,121185,26774
+2212,Estrada da Costa, 1,169427,46580
+2213,Rua de Nunes,113313,10269
+2214,Passarela Pedro Miguel Rezende, 30,443273,4491
+2215,Viela de Machado, 74,339306,49086
+2216,Loteamento de Ferreira, 3,278593,33394
+2217,Alameda Marques, 494,90285,32147
+2218,Rua de da Cunha, 87,111597,18629
+2219,Praça Bianca da Costa, 34,129015,8442
+2220,Estrada de Alves,39259,33654
+2221,Praça de Souza, 72,364443,41847
+2222,Conjunto Hadassa Leão, 29,292803,50888
+2223,Vale Nicolas Silveira, 41,169293,35136
+2224,Loteamento Pacheco, 6,421515,16252
+2225,Estação de Aragão, 112,391254,9928
+2226,Aeroporto de Correia, 9,2261,29008
+2227,Passarela de Nunes, 333,102529,48074
+2228,Vila Agatha Duarte, 809,416499,28102
+2229,Vale Leão, 27,107771,9738
+2230,Praia Oliveira, 27,188004,5583
+2231,Passarela Gomes, 79,288681,24264
+2232,Viela de Moreira, 650,29687,6050
+2233,Passarela Leonardo da Rosa, 20,443520,15848
+2234,Rua Ramos, 5,55436,17299
+2235,Condomínio Carolina Cirino, 41,380360,7206
+2236,Praia Camargo,74425,7548
+2237,Alameda de da Mota, 68,121813,2939
+2238,Rodovia de Azevedo, 566,483966,45588
+2239,Condomínio de Pastor, 656,305344,41876
+2240,Conjunto de Gonçalves, 27,141255,18834
+2241,Feira Rodrigues, 2,166557,42792
+2242,Rua Vicente Fogaça, 43,320056,12537
+2243,Estação de Abreu, 39,444889,43152
+2244,Lago de Cardoso, 5,495152,48982
+2245,Praça Pacheco, 813,117245,45419
+2246,Condomínio de Jesus, 62,397749,38190
+2247,Distrito de Abreu, 83,174491,33230
+2248,Lago Maria Sophia Costela, 53,294149,40171
+2249,Avenida de Rios, 82,317756,4591
+2250,Passarela Arthur Rodrigues, 541,470496,7751
+2251,Avenida Helena da Cunha, 8,261608,40145
+2252,Rodovia Gabriel Vieira, 28,214934,27030
+2253,Sítio da Cruz, 42,374599,25043
+2254,Campo Cavalcanti, 55,100875,3548
+2255,Vila Olivia Sousa, 34,234150,38101
+2256,Jardim de Silveira, 596,194519,48293
+2257,Distrito de Lopes,115585,14509
+2258,Residencial Maria Isis Vargas,369837,11392
+2259,Morro João Pedro Casa Grande, 4,118103,22994
+2260,Sítio Matteo Sousa, 5,209546,18962
+2261,Vereda Natália Lopes,127488,31111
+2262,Favela das Neves,172950,37402
+2263,Feira Cavalcante, 9,389581,8470
+2264,Praia de Cassiano, 25,96893,42884
+2265,Recanto de Abreu, 9,357767,8263
+2266,Fazenda das Neves, 74,189213,22746
+2267,Condomínio Marcelo Melo, 445,232639,26503
+2268,Lago Arthur Miguel da Cruz, 86,499812,24256
+2269,Praça de Moreira, 80,267870,24968
+2270,Viela Murilo Lopes,149563,43593
+2271,Lago Otávio Melo, 28,26732,45769
+2272,Campo Carvalho,222858,10996
+2273,Trecho de Albuquerque,336806,10060
+2274,Praia Maria Helena Novais, 85,459120,13269
+2275,Ladeira de Albuquerque,205590,10844
+2276,Loteamento Zoe Moraes, 65,303615,30922
+2277,Vale de Casa Grande, 137,45947,30489
+2278,Vila Giovanna Moreira, 8,87127,33609
+2279,Parque de Vargas, 69,257667,29256
+2280,Via Larissa Sá, 78,399254,13779
+2281,Morro Mendes,81070,46567
+2282,Feira de Borges, 15,213871,48604
+2283,Avenida de Novaes, 1,316428,29236
+2284,Parque Ribeiro, 9,422793,46401
+2285,Praça Vieira, 3,394472,21913
+2286,Viaduto Sampaio, 7,47715,24580
+2287,Fazenda Vargas, 37,212993,26063
+2288,Travessa Manuela Rodrigues, 14,448346,2870
+2289,Estação Rebeca da Conceição, 14,330682,42948
+2290,Via de Caldeira, 71,227840,41560
+2291,Alameda Andrade, 87,455113,43393
+2292,Núcleo de Azevedo, 9,116359,14611
+2293,Ladeira Cardoso, 67,404975,2858
+2294,Parque da Rosa, 41,120252,13476
+2295,Jardim Novaes, 3,113273,201
+2296,Lago de Fernandes, 59,500291,48875
+2297,Campo Clara Sales, 51,482129,14470
+2298,Fazenda Araújo, 82,91933,44161
+2299,Rua Correia, 97,488379,18056
+2300,Morro Cavalcante,309417,29831
+2301,Fazenda de Moraes, 876,255287,46428
+2302,Fazenda Guilherme Vasconcelos, 7,409813,42022
+2303,Via Correia, 11,409228,30003
+2304,Jardim de da Cruz, 47,135450,41140
+2305,Vila Dante Almeida, 643,279001,49454
+2306,Trecho Nunes, 21,32774,25413
+2307,Estrada Matheus Machado, 59,304889,40801
+2308,Vila Cirino, 622,359039,16881
+2309,Aeroporto de Garcia, 90,181863,36270
+2310,Loteamento Novaes, 557,392669,45879
+2311,Lagoa Luiz Otávio Pereira, 6,343856,49623
+2312,Loteamento Henrique Costa, 10,56857,35173
+2313,Praia Siqueira, 86,498303,3710
+2314,Parque Castro, 528,309936,29285
+2315,Quadra de Andrade, 65,431258,17859
+2316,Quadra de da Cruz, 96,308003,14042
+2317,Viaduto de Martins, 56,295061,48229
+2318,Trevo Yuri Correia, 562,487021,15060
+2319,Passarela Jade Castro, 41,205345,11671
+2320,Jardim João Miguel Pacheco, 24,121937,22434
+2321,Largo de da Cunha, 567,106556,17229
+2322,Travessa Montenegro, 1,170768,31680
+2323,Distrito de Guerra, 20,292416,22118
+2324,Vereda Fogaça, 9,383804,49927
+2325,Sítio de Montenegro, 45,386823,1854
+2326,Quadra Borges, 17,296004,47340
+2327,Quadra de da Mata, 94,352784,43539
+2328,Vale Andrade, 56,61298,43699
+2329,Rua Monteiro, 9,83850,46277
+2330,Viaduto Samuel Sampaio, 191,57496,6470
+2331,Alameda Jesus, 2,5447,25465
+2332,Vila Asafe Leão, 13,496692,43309
+2333,Rodovia Vargas, 65,123023,37588
+2334,Alameda José Miguel Correia, 4,20674,30805
+2335,Feira Farias, 1,79866,3696
+2336,Chácara Aparecida, 54,439904,50119
+2337,Sítio de Marques, 7,320899,24949
+2338,Lagoa Maria Luísa Fernandes,230297,13453
+2339,Rodovia de Albuquerque, 84,357563,46287
+2340,Chácara de Barros, 9,11268,24657
+2341,Praia de Costela, 6,323404,40352
+2342,Vereda de da Rocha, 85,3616,47714
+2343,Recanto João Guilherme Araújo, 9,7248,1978
+2344,Estrada de Nascimento, 1,87827,4963
+2345,Chácara Oliveira, 98,84733,21598
+2346,Área de Porto, 74,81715,27394
+2347,Colônia Lunna Monteiro, 73,337431,41804
+2348,Lagoa de das Neves, 276,97386,9593
+2349,Colônia Moraes, 59,393815,46998
+2350,Condomínio Esther da Cruz,469860,28469
+2351,Chácara Câmara, 38,72192,30999
+2352,Praia de Pereira, 8,478346,2004
+2353,Colônia Maria Júlia Cassiano, 80,94023,5055
+2354,Feira Eloá Vasconcelos, 37,308498,23068
+2355,Conjunto Benjamin Aragão, 19,133826,9533
+2356,Distrito Aragão, 496,416198,35143
+2357,Recanto Silva, 32,137545,29838
+2358,Residencial Machado, 661,15687,20854
+2359,Quadra Lima, 46,88019,31902
+2360,Praça Rios, 42,480249,10629
+2361,Loteamento Costa, 18,196876,18513
+2362,Vila Alícia Cardoso, 37,372105,38063
+2363,Estrada Mateus Moura, 16,94371,33089
+2364,Loteamento de Pinto, 36,268777,2798
+2365,Largo de Fernandes, 89,166429,12443
+2366,Distrito Heitor da Mota, 4,309481,43888
+2367,Morro de Sá, 6,168147,32047
+2368,Alameda Gabriela Viana, 37,338125,45456
+2369,Colônia de Teixeira, 59,85327,43854
+2370,Conjunto de Oliveira,298286,17493
+2371,Viaduto de da Cunha, 30,222749,36266
+2372,Favela Isadora Machado, 77,204900,5922
+2373,Sítio Mendes, 3,405008,36973
+2374,Trecho Sabrina Silveira,41424,32682
+2375,Avenida Nascimento,330714,24706
+2376,Via Melissa da Cunha, 24,16272,28378
+2377,Colônia de Siqueira, 8,378623,37503
+2378,Passarela Nascimento, 831,121167,435
+2379,Estrada de Barbosa, 7,490274,17787
+2380,Praia de Almeida, 52,18993,9021
+2381,Alameda João Pedro Ramos, 29,40025,45712
+2382,Fazenda Silva, 1,38288,23815
+2383,Feira Fonseca,464492,32498
+2384,Estrada de Pimenta, 59,208539,34515
+2385,Feira Luara Andrade,463945,22290
+2386,Lago Ana Liz Gonçalves, 46,231117,39188
+2387,Morro Martins,386372,7638
+2388,Rodovia de da Luz, 76,336999,15104
+2389,Campo Ana Costela, 784,138453,8505
+2390,Largo Moreira, 256,105530,36624
+2391,Condomínio Allana Freitas, 76,226235,40826
+2392,Residencial de Abreu, 5,107523,23320
+2393,Colônia Emilly Montenegro, 96,111113,12589
+2394,Praça de Santos, 64,384829,49273
+2395,Avenida Sales, 496,127422,6880
+2396,Alameda de Monteiro, 51,412484,50206
+2397,Via Maria Liz Novaes, 83,162531,31418
+2398,Condomínio Lopes, 68,150477,6508
+2399,Chácara Cavalcante,407161,1129
+2400,Lagoa de Camargo, 9,179588,37134
+2401,Praia Vieira, 57,195707,24598
+2402,Favela de Mendes, 564,36256,40496
+2403,Residencial Ferreira, 91,134520,38126
+2404,Núcleo Hellena Viana, 398,424286,40772
+2405,Praça de Peixoto, 963,162478,50055
+2406,Morro Leonardo Borges, 86,239180,5620
+2407,Recanto Danilo Souza, 83,246026,17836
+2408,Favela de Borges, 60,40960,18
+2409,Residencial de Pinto, 77,279459,35402
+2410,Lagoa Pedro Miguel Martins, 45,293009,47509
+2411,Alameda Nogueira, 73,181834,5064
+2412,Campo Maysa Brito, 49,89477,47542
+2413,Área Noah Martins, 605,384811,19208
+2414,Sítio Otávio Pastor, 43,179324,18469
+2415,Chácara Marcela Casa Grande, 70,324245,31533
+2416,Pátio de Novaes, 42,15655,14308
+2417,Via de Azevedo, 27,302418,40058
+2418,Lago Vitor Hugo Monteiro, 845,378548,8942
+2419,Passarela de Mendes, 18,144477,48080
+2420,Estrada Bruno Moreira, 7,297868,16513
+2421,Fazenda Emanuella Cirino, 68,230375,21145
+2422,Chácara Ana Castro, 75,496090,43400
+2423,Praia Otto Duarte, 72,326157,423
+2424,Vila Luiz Felipe Vargas, 7,145015,22368
+2425,Vila de Rodrigues, 73,363526,21703
+2426,Condomínio Lopes,347894,32060
+2427,Condomínio da Rocha, 6,94204,46450
+2428,Travessa Leão, 17,411655,50835
+2429,Largo Abreu,454221,22082
+2430,Estação Vargas, 2,413587,30475
+2431,Residencial Maysa Novais,402562,1993
+2432,Campo de Sá, 75,246399,47153
+2433,Travessa de Fogaça, 22,242307,4880
+2434,Avenida de Azevedo, 91,305115,11011
+2435,Estação Maria Isis Rocha, 55,171322,29022
+2436,Viela Arthur Gabriel Almeida, 67,421787,34202
+2437,Quadra de Oliveira,81980,10521
+2438,Distrito Marcos Vinicius da Cruz, 99,23882,24693
+2439,Largo de Cirino, 89,182991,1191
+2440,Ladeira Ramos, 406,269000,17445
+2441,Colônia Agatha Costa, 3,310333,22778
+2442,Chácara Ester Moura,375346,1321
+2443,Feira de Sales,82698,2977
+2444,Morro Barbosa, 23,90054,49813
+2445,Ladeira Maria Fernanda Moreira, 334,474970,47708
+2446,Sítio Guerra, 40,1186,44769
+2447,Avenida de Alves, 50,11153,48855
+2448,Feira de Abreu, 72,207836,50352
+2449,Avenida Thiago Sales, 51,374583,23452
+2450,Área Samuel Moreira, 59,333219,24946
+2451,Largo de Monteiro, 4,401754,12131
+2452,Sítio Laura Almeida, 6,478388,34462
+2453,Loteamento Lopes, 75,474389,43302
+2454,Rodovia de Pastor, 12,254051,16513
+2455,Passarela Costela, 5,438847,43736
+2456,Campo de Barbosa,374351,20278
+2457,Área de Barbosa, 45,122237,2255
+2458,Esplanada Viana, 13,92933,15098
+2459,Lago Macedo, 14,271616,49225
+2460,Praça de Campos,51354,13229
+2461,Estação de Almeida, 37,434693,44511
+2462,Via de Pacheco, 3,39954,24181
+2463,Residencial Nogueira, 81,255000,9869
+2464,Distrito Carvalho, 4,432025,17128
+2465,Quadra Isabel Gonçalves,353827,40656
+2466,Viela Freitas,345027,38335
+2467,Alameda Nicolas Nunes, 1,52208,38335
+2468,Praia Isabella Rezende,333173,46750
+2469,Trecho Ramos, 81,86712,24643
+2470,Feira Julia Nogueira, 52,106429,41578
+2471,Parque de Costa, 274,486848,17909
+2472,Fazenda de Gonçalves, 57,423228,21498
+2473,Recanto Nogueira, 51,390868,21179
+2474,Rodovia Thiago Souza, 39,293268,3114
+2475,Lagoa Ravy Cunha, 74,208506,2200
+2476,Núcleo de Ramos, 39,100738,2674
+2477,Conjunto de Porto, 46,184092,17177
+2478,Setor de Mendonça, 121,411608,17012
+2479,Rodovia de da Paz,19005,44712
+2480,Travessa Arthur Borges, 876,407374,10542
+2481,Condomínio Otávio Pastor, 2,462385,43528
+2482,Fazenda Leonardo Mendes, 37,334640,10297
+2483,Lago Dias, 35,213967,46706
+2484,Campo de Correia,150977,8795
+2485,Viaduto de Porto, 94,21729,45946
+2486,Residencial Rocha, 944,189521,25573
+2487,Morro de da Mata,291927,11665
+2488,Vereda de Melo, 75,133408,13411
+2489,Praça de Cardoso, 39,342879,13033
+2490,Estação da Mota, 9,315588,41793
+2491,Núcleo Viana, 8,211791,7787
+2492,Recanto de Marques,327551,39653
+2493,Praia de Santos, 51,144177,42164
+2494,Trecho Maria Júlia Porto, 87,323970,41896
+2495,Área Valentim Cirino, 60,118073,31181
+2496,Colônia Isabela da Cruz, 59,374468,38858
+2497,Área de Gomes, 367,313089,17307
+2498,Vila Brito, 278,323491,34808
+2499,Lagoa Lorena Araújo, 984,321666,34543
+2500,Sítio Enzo Moraes,229111,22925
+2501,Campo Farias, 8,12898,17689
+2502,Vale de Montenegro, 7,106870,8692
+2503,Campo de Porto, 71,197834,27451
+2504,Travessa Carolina Carvalho, 80,484930,1083
+2505,Pátio Fogaça, 22,449807,51089
+2506,Chácara Cecilia Macedo,170025,16318
+2507,Estação Vitória Câmara, 33,6037,12239
+2508,Vale Caio Nogueira, 78,96280,27796
+2509,Condomínio Maria Luísa Moreira, 881,255850,12086
+2510,Praça da Luz, 22,182397,9180
+2511,Jardim José Pedro Sales, 6,192103,23979
+2512,Trevo Cunha, 8,322810,20191
+2513,Chácara da Costa, 69,470958,3953
+2514,Lagoa Ana Clara Moreira,367510,49636
+2515,Passarela de da Cruz, 8,383179,46193
+2516,Trecho de Moura, 9,415364,10138
+2517,Jardim Liz Câmara, 25,159724,48966
+2518,Ladeira de Sampaio, 565,284514,45738
+2519,Pátio Catarina da Paz, 46,135106,11870
+2520,Pátio de Ferreira,429694,23618
+2521,Rua de Araújo, 95,69793,15560
+2522,Favela Leão, 30,26952,21682
+2523,Viaduto das Neves,357013,16
+2524,Praça Viana,127179,41066
+2525,Lago Vinicius Ramos, 653,462439,1575
+2526,Vale Martins, 16,125479,46999
+2527,Vereda Caldeira, 35,422186,49708
+2528,Área Stephany Casa Grande, 9,288186,18938
+2529,Quadra Sampaio, 1,200744,4302
+2530,Alameda Duarte, 52,196692,21535
+2531,Esplanada Sophie Souza, 6,238419,46160
+2532,Viaduto de Cirino, 18,82468,10927
+2533,Colônia Pinto, 736,318711,12064
+2534,Vale Marques, 27,197278,39670
+2535,Colônia Gustavo Henrique Pimenta, 89,150489,16614
+2536,Ladeira Valentina da Costa, 2,277361,23264
+2537,Estrada de Silva, 26,102596,2708
+2538,Alameda de Nascimento, 30,245513,43166
+2539,Área Bernardo Mendes, 12,50221,6073
+2540,Recanto Oliveira, 4,105040,35094
+2541,Passarela Daniel Viana, 14,171515,16531
+2542,Parque Nogueira, 248,102464,41436
+2543,Sítio de Castro, 287,80415,5271
+2544,Rua de Oliveira,265630,42920
+2545,Avenida de Câmara, 778,353330,14150
+2546,Esplanada de Costela, 77,37156,37117
+2547,Loteamento Fonseca, 68,139768,7452
+2548,Aeroporto de Viana, 6,30881,2735
+2549,Jardim de Sales, 11,262437,26056
+2550,Via de Pereira, 79,464948,5266
+2551,Loteamento de Castro, 6,308908,46124
+2552,Praça Noah da Rocha, 90,6472,16131
+2553,Passarela Sousa, 93,175079,39748
+2554,Praia de Moreira, 38,50225,33370
+2555,Conjunto Caldeira, 485,316642,31833
+2556,Trevo Pedro Azevedo, 49,363972,36269
+2557,Quadra de da Rocha, 81,203583,46130
+2558,Pátio de Casa Grande, 5,163502,39355
+2559,Rua de Campos, 630,319306,25920
+2560,Trevo de Abreu, 401,97643,48974
+2561,Colônia João Jesus, 130,406568,35107
+2562,Pátio Daniela Santos, 68,125113,3131
+2563,Trevo Viana, 159,289165,6987
+2564,Feira Luan Casa Grande, 24,299348,12028
+2565,Favela de da Cunha, 29,26937,12692
+2566,Pátio Leão, 99,442822,30442
+2567,Alameda de Rodrigues, 901,26772,31594
+2568,Colônia Novaes,403011,5204
+2569,Esplanada João Vitor Ramos, 165,205970,43275
+2570,Estrada Juan Martins,138125,42046
+2571,Parque de Mendonça, 26,419410,47535
+2572,Colônia de Pimenta, 364,403998,27010
+2573,Fazenda de Nunes, 11,197977,25983
+2574,Sítio Viana, 89,446732,8187
+2575,Estação Lívia Freitas,399839,46409
+2576,Rodovia Mendonça, 4,30324,6480
+2577,Setor Ana Júlia Moreira, 82,386693,7855
+2578,Colônia Mendonça, 68,133967,11808
+2579,Jardim Fonseca, 79,332427,41892
+2580,Rua Josué Sá,224968,5526
+2581,Feira Mendes, 1,448628,5084
+2582,Trevo de Correia, 488,327500,300
+2583,Alameda Viana, 57,121157,22769
+2584,Vale de Fernandes, 41,17560,48885
+2585,Avenida de Marques, 42,24139,28080
+2586,Feira Fonseca, 53,164573,27449
+2587,Vereda Camila Cassiano, 26,192852,39754
+2588,Lago da Mata, 407,217876,45549
+2589,Avenida Araújo, 4,140470,28047
+2590,Trecho Nascimento, 44,92935,36270
+2591,Trevo Rocha, 24,148939,36550
+2592,Chácara de Mendonça, 23,337763,6174
+2593,Campo de Vasconcelos, 27,197575,38794
+2594,Trevo Araújo,11921,33085
+2595,Travessa de Casa Grande, 271,393313,4167
+2596,Alameda Amanda das Neves,192246,4895
+2597,Estação de Macedo, 80,437369,47678
+2598,Loteamento da Costa, 7,160677,1119
+2599,Pátio de Camargo, 49,10513,15887
+2600,Feira Gomes,188831,4328
+2601,Área da Rocha, 494,209184,34399
+2602,Núcleo de Câmara, 1,118566,26978
+2603,Praia Emanuel Camargo, 70,109434,36026
+2604,Avenida Abreu, 33,13906,17225
+2605,Trecho Cavalcanti, 94,33725,3898
+2606,Vila de Cavalcante,57485,8919
+2607,Campo de Macedo, 589,289063,44176
+2608,Trecho de Pereira, 1,190843,2596
+2609,Via Pereira, 64,305779,2442
+2610,Núcleo Cunha, 23,28958,32474
+2611,Esplanada Yan Melo, 21,456703,40028
+2612,Parque de Cardoso, 7,282300,13790
+2613,Vila de Rios,229133,3166
+2614,Aeroporto Igor Ferreira,236741,19093
+2615,Esplanada Cunha, 8,31845,13550
+2616,Rua Renan Pereira,346666,31815
+2617,Estrada da Cunha, 16,44269,16484
+2618,Lago de Rodrigues, 45,449986,31090
+2619,Aeroporto de Moraes, 72,274449,40603
+2620,Esplanada Rios, 59,442422,32382
+2621,Feira de Araújo, 344,218743,2557
+2622,Largo Leão, 13,367466,18882
+2623,Rodovia Brenda Jesus, 47,242298,48623
+2624,Largo Moura, 4,249637,36390
+2625,Colônia de Vieira, 69,300180,22699
+2626,Trevo Nunes, 31,77749,27110
+2627,Ladeira Gonçalves, 8,322772,35853
+2628,Lagoa Cavalcanti, 69,161178,36781
+2629,Viela Heloísa Camargo, 96,343005,10907
+2630,Lagoa Zoe da Paz, 2,307028,40930
+2631,Parque de Garcia,410675,25367
+2632,Morro Asafe Pereira, 88,12672,18467
+2633,Passarela da Cunha, 22,105058,38636
+2634,Estação Luna Castro, 915,392717,39537
+2635,Lagoa Maria Cecília Marques, 5,6452,44382
+2636,Estrada Maria Liz Câmara, 1,21849,48369
+2637,Estação Antônio Pacheco, 349,352912,17617
+2638,Fazenda de Campos, 845,453838,5525
+2639,Aeroporto de Teixeira, 926,219265,40675
+2640,Travessa de Mendonça, 84,465706,20414
+2641,Núcleo de Marques, 74,462517,10778
+2642,Feira Alana Gonçalves, 6,232626,27677
+2643,Morro Maria Júlia Teixeira, 174,426292,10066
+2644,Trecho de Vasconcelos, 414,340202,36358
+2645,Travessa Noah Rezende, 12,162982,17455
+2646,Alameda Cunha, 923,50452,25198
+2647,Avenida Danilo Duarte, 5,432251,13188
+2648,Via Vasconcelos, 13,258633,25150
+2649,Condomínio Luigi Camargo,5094,32079
+2650,Lago Mendes, 78,304707,42963
+2651,Avenida Nascimento, 54,313458,32979
+2652,Loteamento das Neves,366504,31168
+2653,Ladeira da Paz, 91,93252,48118
+2654,Chácara Cecília Aparecida, 4,361152,49984
+2655,Estação Luna Camargo, 188,274886,4147
+2656,Estrada Brito, 83,112940,31283
+2657,Favela da Costa, 329,141838,37152
+2658,Estrada Calebe Rocha, 93,29285,36623
+2659,Favela de Albuquerque, 507,196227,10433
+2660,Ladeira Siqueira,24528,33611
+2661,Recanto Duarte, 777,56696,24922
+2662,Pátio Gomes,323445,33227
+2663,Favela de da Mota, 73,494385,24982
+2664,Vale Nicolas Caldeira,227956,12877
+2665,Via Rezende, 93,208748,39908
+2666,Área Julia Cunha,146876,6235
+2667,Avenida de Leão, 171,495571,28218
+2668,Favela Maria Cecília Teixeira, 9,322090,23886
+2669,Travessa Pacheco, 51,81081,42759
+2670,Largo Maria Luísa da Conceição, 2,290383,19750
+2671,Colônia de Azevedo, 77,380301,42915
+2672,Vale de Machado, 17,456543,10143
+2673,Recanto de Silva, 26,200535,49496
+2674,Fazenda Marques,197249,27804
+2675,Setor de Gonçalves, 32,190265,2851
+2676,Recanto de Borges, 25,349332,36534
+2677,Morro Lopes, 461,127878,680
+2678,Fazenda Alice Teixeira, 170,372259,30203
+2679,Estação Maria Vitória Jesus, 51,275263,12275
+2680,Conjunto Ana Cecília da Rocha, 36,182754,18052
+2681,Pátio de Garcia, 966,145941,16627
+2682,Distrito Lopes, 21,38153,35872
+2683,Vale Bernardo Siqueira, 8,331471,49574
+2684,Condomínio Heloísa Alves, 3,278284,25647
+2685,Área de Almeida, 7,187082,4945
+2686,Loteamento João Pedro Costa, 15,477265,14850
+2687,Praça Gonçalves, 897,397450,20538
+2688,Morro de Brito, 84,131874,47986
+2689,Núcleo Diego Barbosa, 86,353871,19705
+2690,Feira de Castro,181852,922
+2691,Favela Ana Júlia Monteiro, 96,100469,42256
+2692,Rodovia Carolina Viana,229980,47368
+2693,Parque Gonçalves, 3,125794,1812
+2694,Área de Araújo, 699,396898,7995
+2695,Estação de Campos, 93,255747,16646
+2696,Rodovia Montenegro,53384,29464
+2697,Feira Vinícius Farias, 768,337251,16540
+2698,Quadra de Camargo, 13,429954,47241
+2699,Condomínio de Garcia, 747,347039,17607
+2700,Morro Barbosa, 9,385950,12507
+2701,Travessa Rios, 82,189514,43836
+2702,Parque de Castro,162228,16156
+2703,Lago Aragão, 52,261844,33049
+2704,Morro Pires,462751,44580
+2705,Morro de Fogaça, 7,34153,36707
+2706,Passarela Benjamim Ramos,487847,3368
+2707,Jardim Mendonça, 2,449893,30878
+2708,Vereda José Sousa, 3,47405,25539
+2709,Condomínio Luiz Fernando Leão, 61,489596,42696
+2710,Recanto Vitória Pacheco, 9,211747,34987
+2711,Jardim Cassiano, 3,11135,9756
+2712,Estação Augusto Pinto, 7,388047,18156
+2713,Rua Gomes,4070,44549
+2714,Viela de Araújo,38549,30644
+2715,Núcleo da Rocha, 64,355616,27967
+2716,Colônia de Brito,133325,10545
+2717,Ladeira Enzo Gabriel Barbosa, 12,261734,28575
+2718,Setor Lucas Jesus, 59,356467,17880
+2719,Estação da Cunha, 868,445909,14024
+2720,Fazenda Rhavi Nunes, 44,302908,7089
+2721,Distrito de Rodrigues,80610,22859
+2722,Esplanada Monteiro, 91,487339,47262
+2723,Alameda Luiz Otávio Barros, 62,280627,6955
+2724,Esplanada de Borges, 12,244608,20374
+2725,Lagoa Pimenta, 85,93295,22052
+2726,Fazenda Lara Porto, 47,419240,39624
+2727,Esplanada de Sousa, 590,89565,43733
+2728,Aeroporto das Neves, 62,20902,1554
+2729,Passarela de Guerra,380080,36450
+2730,Praça Rafaela Correia, 9,86987,3158
+2731,Via Luiza Mendes, 3,192453,11767
+2732,Vereda Maria Cecília Alves, 75,97490,23434
+2733,Rodovia de Duarte, 926,227434,44534
+2734,Passarela Eloah Pastor, 99,358792,2961
+2735,Colônia Albuquerque, 95,301960,8911
+2736,Recanto de Freitas, 2,161425,14559
+2737,Esplanada Vargas, 27,69375,42007
+2738,Favela Eduardo Jesus, 61,442231,48788
+2739,Sítio de Cirino, 214,408820,4888
+2740,Praça de Abreu, 870,448167,36215
+2741,Recanto de da Luz, 89,462587,3678
+2742,Passarela Novaes, 75,195022,24145
+2743,Vila de da Luz, 54,237821,34430
+2744,Esplanada Ryan da Conceição, 3,366060,14280
+2745,Jardim de Correia, 36,428767,30720
+2746,Esplanada Fogaça,138952,24817
+2747,Praça de Araújo, 83,39858,5110
+2748,Condomínio Júlia Lopes,444380,33076
+2749,Vila Emanuelly Montenegro, 520,441928,39747
+2750,Travessa de Pereira, 39,90832,36971
+2751,Alameda João Guilherme da Cruz, 8,371289,14825
+2752,Aeroporto Nina Moraes,108406,42280
+2753,Aeroporto da Mota, 90,154793,43829
+2754,Lago Cavalcante, 29,187912,45645
+2755,Rua Cavalcante, 7,432332,6027
+2756,Vereda Lara Martins, 44,241270,50615
+2757,Viaduto de Moreira,437477,29674
+2758,Recanto Dias, 321,133324,34207
+2759,Vereda Brito, 50,332112,20908
+2760,Largo de Novaes, 53,442161,553
+2761,Núcleo Dias, 41,441134,34522
+2762,Praça Abreu, 459,276014,25743
+2763,Feira de Vieira, 11,248410,22731
+2764,Distrito Marques, 68,406732,28039
+2765,Recanto Aparecida, 44,501137,30522
+2766,Trevo de Melo, 81,357155,20291
+2767,Favela de Rezende,371851,48716
+2768,Via de Carvalho, 18,386026,1211
+2769,Rodovia Pietra Lima, 67,436312,14137
+2770,Ladeira Isabella Rezende, 8,113174,50273
+2771,Residencial Lara Lima, 80,356978,25843
+2772,Campo Antony Monteiro, 39,286,49343
+2773,Rodovia de Nunes, 843,426548,33584
+2774,Jardim de Castro, 892,459925,40947
+2775,Estação Aparecida, 3,491368,40050
+2776,Rodovia José da Mota,264062,35178
+2777,Travessa Augusto Barros,11548,39634
+2778,Rodovia Dom Siqueira, 248,462783,5618
+2779,Travessa Maria Cecília da Conceição, 91,90758,21173
+2780,Estrada Moraes, 43,386415,22537
+2781,Esplanada de da Paz, 17,244469,35140
+2782,Travessa Costa, 88,330134,2247
+2783,Feira de Cunha, 5,207852,1508
+2784,Trevo de Abreu, 6,229638,36764
+2785,Estação Gustavo Henrique Cavalcanti, 713,170646,35489
+2786,Jardim de Novaes, 67,19019,21589
+2787,Rua de Souza, 68,254698,3900
+2788,Morro Ísis Alves, 95,157609,40765
+2789,Morro Machado, 85,359879,31810
+2790,Feira Correia, 67,436981,3792
+2791,Via Heitor Aragão, 54,56160,5467
+2792,Avenida Câmara, 526,120865,38151
+2793,Condomínio Emanuel Moraes, 34,136350,37596
+2794,Lagoa de Castro, 39,470675,30958
+2795,Rua Vieira, 9,62421,40645
+2796,Vila Lucas Cavalcanti, 85,214149,32944
+2797,Fazenda Anthony da Mota, 478,244823,43314
+2798,Morro de da Conceição, 14,264456,30131
+2799,Quadra Nascimento, 87,45801,41695
+2800,Vale de Souza, 39,50518,8018
+2801,Lagoa de Pacheco,444402,29484
+2802,Favela Viana, 9,329149,12180
+2803,Distrito Isaque da Luz, 67,57878,329
+2804,Pátio Rios, 6,269275,23531
+2805,Ladeira Correia, 7,289795,16132
+2806,Residencial Anthony Gabriel Ferreira, 65,117197,2765
+2807,Área Ana Lívia Caldeira, 878,405142,44222
+2808,Estação de Duarte, 321,54586,41530
+2809,Área Anna Liz Caldeira, 48,244953,37051
+2810,Trevo de Rios, 9,369157,50052
+2811,Rua Alves, 66,184448,11275
+2812,Trevo da Cruz, 67,238494,21549
+2813,Vale de Campos, 27,314801,10013
+2814,Via Guerra, 4,227621,31992
+2815,Estrada de Macedo, 5,14455,50219
+2816,Setor Cecilia Pacheco, 83,232750,8119
+2817,Condomínio de Garcia,53486,32337
+2818,Conjunto Kamilly da Rosa,453678,39229
+2819,Campo Antônio Correia, 15,104980,8219
+2820,Fazenda Antonella Viana, 64,106433,8880
+2821,Alameda Souza, 13,143556,7486
+2822,Rodovia de Cirino, 40,359098,49540
+2823,Vila de Fernandes,115273,5996
+2824,Vereda da Paz, 68,324908,5617
+2825,Ladeira Diogo Cavalcante, 25,489370,10210
+2826,Condomínio de Garcia, 50,36115,31188
+2827,Quadra Juan Cirino, 3,447650,49219
+2828,Quadra Ana Carolina Vargas, 78,264299,11907
+2829,Rua Lorenzo da Rocha, 453,411336,14909
+2830,Vereda Moreira,131835,14449
+2831,Esplanada de Ramos, 93,17092,41564
+2832,Ladeira Manuela Machado, 18,462661,10561
+2833,Campo Ribeiro,456064,35800
+2834,Trecho Mendonça, 729,211692,28308
+2835,Residencial de Ramos,367209,14326
+2836,Recanto de da Rosa, 24,79774,30106
+2837,Avenida de Brito, 666,324669,28564
+2838,Vale de Guerra, 82,386773,27739
+2839,Avenida de Duarte, 99,136103,426
+2840,Esplanada Maria Eduarda Mendes, 20,205403,27417
+2841,Área Larissa Sousa,238735,50340
+2842,Rua de Alves, 50,350918,30173
+2843,Vila Campos, 2,403160,26924
+2844,Condomínio Alexandre Caldeira, 20,198219,19067
+2845,Núcleo Diego Câmara, 39,192311,30463
+2846,Recanto Souza, 66,348566,49241
+2847,Estrada Vargas, 1,446970,37651
+2848,Morro de Ribeiro, 9,342485,13381
+2849,Fazenda Nascimento,129175,139
+2850,Praia de Moraes, 4,472276,11318
+2851,Ladeira de Rodrigues,277121,50491
+2852,Ladeira Luana Correia, 792,408201,30178
+2853,Condomínio Martins, 845,261096,24293
+2854,Passarela de Correia, 54,275044,12296
+2855,Lago Alice Dias,37211,19575
+2856,Lagoa Ferreira, 73,43100,45157
+2857,Vereda Maria Helena Souza, 15,181439,35175
+2858,Quadra de Cassiano, 7,160896,36854
+2859,Vale Benjamin Câmara, 34,172339,45654
+2860,Vale de Martins, 913,98130,42952
+2861,Lagoa de Santos,399143,46066
+2862,Conjunto de Peixoto, 1,496767,10393
+2863,Lago Santos, 44,381696,25486
+2864,Estrada Rodrigues, 2,500818,16115
+2865,Colônia Fernanda Cassiano,430197,37658
+2866,Colônia Sales, 269,83484,31243
+2867,Trevo Cecília Pacheco, 20,165314,45868
+2868,Conjunto da Costa, 2,480070,14838
+2869,Recanto Evelyn Pereira, 54,481330,42842
+2870,Residencial Silva, 38,12147,49747
+2871,Esplanada Eloá Castro, 75,326387,27427
+2872,Passarela de Castro, 90,404682,13078
+2873,Praça de Souza,338506,9975
+2874,Pátio de Aragão, 70,347961,20435
+2875,Praia de Aragão, 9,491579,33308
+2876,Travessa Borges, 44,471824,8123
+2877,Trevo Raquel Ribeiro, 79,145521,24147
+2878,Conjunto Garcia, 941,25723,2422
+2879,Setor Luan Moraes, 66,28162,2402
+2880,Chácara Vieira, 51,406421,14091
+2881,Parque Juliana Camargo, 8,332459,45075
+2882,Trevo de Nunes, 17,143616,22578
+2883,Estação Cauê Cardoso, 96,295369,46986
+2884,Rodovia de Pimenta, 62,355705,11799
+2885,Conjunto Milena Almeida, 16,209054,12985
+2886,Avenida de Moraes, 88,388670,13720
+2887,Fazenda Porto, 43,254007,20759
+2888,Aeroporto Sampaio,6135,24957
+2889,Lago de Mendonça, 9,259000,3486
+2890,Estrada de Farias,333520,31824
+2891,Loteamento de Cassiano, 833,197342,17906
+2892,Trecho Rocha, 475,32569,42760
+2893,Sítio Mendes, 47,174913,14623
+2894,Recanto Kaique Carvalho, 15,432268,456
+2895,Pátio da Cruz, 18,72496,43421
+2896,Jardim de Ramos, 28,457454,9363
+2897,Passarela Cardoso, 99,320012,16336
+2898,Feira Antônio das Neves, 21,202905,42771
+2899,Passarela Lunna Peixoto, 94,142802,49639
+2900,Recanto da Conceição, 33,326844,9075
+2901,Feira Camargo, 274,189840,28497
+2902,Rua Machado,259384,27758
+2903,Área de Monteiro, 68,191767,39619
+2904,Estrada Ana Brito, 98,188889,34040
+2905,Feira de Silveira,305617,47432
+2906,Setor Cirino, 31,340904,49757
+2907,Praça Kaique Almeida, 59,282747,12262
+2908,Conjunto de Costela, 39,102474,8827
+2909,Lago Natália Vasconcelos, 314,283804,7573
+2910,Viaduto de Cunha, 562,310816,43708
+2911,Loteamento de Duarte, 923,499738,28046
+2912,Vila José Pedro da Rosa, 30,83636,9793
+2913,Trevo Silva, 245,82212,20080
+2914,Vereda de Castro, 188,36186,20356
+2915,Alameda Aylla Farias, 20,179496,49957
+2916,Residencial Monteiro, 702,230238,39310
+2917,Alameda Abreu, 59,437191,50478
+2918,Praia Gabriela Teixeira,60927,30590
+2919,Distrito Renan Mendes, 244,240174,41174
+2920,Jardim de Fernandes, 33,212427,18392
+2921,Quadra Costa,204250,16256
+2922,Avenida de Montenegro, 97,396747,11705
+2923,Vale Melo, 125,493629,43802
+2924,Via Juliana da Mota, 47,1898,44385
+2925,Viaduto de Gomes, 21,33204,46262
+2926,Parque de Araújo,76009,10412
+2927,Largo de Albuquerque, 33,181881,31254
+2928,Estação de das Neves, 48,240319,11087
+2929,Viela Ana Beatriz Dias, 974,467373,42144
+2930,Vereda de Moura, 1,239233,37338
+2931,Passarela Vargas, 11,50243,16949
+2932,Vila Rodrigues, 5,89842,37038
+2933,Travessa de Nunes, 759,484434,4776
+2934,Setor de Cavalcante, 88,50269,26717
+2935,Trecho Sousa, 26,187092,33860
+2936,Conjunto Rhavi Guerra, 99,34554,35519
+2937,Rodovia Novaes, 924,99874,47699
+2938,Rodovia de Oliveira, 54,444811,35357
+2939,Recanto de Araújo, 633,302285,22320
+2940,Colônia de Almeida, 3,361431,46795
+2941,Praia de Jesus, 1,491150,13276
+2942,Residencial Freitas, 3,147039,25876
+2943,Morro de Santos, 99,220536,3479
+2944,Viela de Caldeira, 38,272412,16784
+2945,Passarela de Rezende, 239,213556,21123
+2946,Favela Caldeira, 1,70207,31000
+2947,Estrada Lima,491530,32023
+2948,Recanto de Câmara, 533,118310,15763
+2949,Vale de da Costa, 963,207548,18159
+2950,Via de Sá,393956,30077
+2951,Passarela Laura Rocha, 87,152111,15735
+2952,Residencial de da Paz,32557,27416
+2953,Rodovia Mariana Castro,446505,44673
+2954,Conjunto de Cavalcante, 40,443331,45654
+2955,Largo Mariane Martins, 18,145307,8809
+2956,Vereda de da Cruz, 52,54238,51152
+2957,Viaduto de Nascimento, 628,377096,9001
+2958,Praia de da Conceição,252165,2516
+2959,Colônia de Macedo, 159,500607,11021
+2960,Largo de Siqueira, 76,181505,3232
+2961,Ladeira de Guerra, 3,53383,5819
+2962,Passarela de Cavalcanti, 83,456487,16361
+2963,Conjunto Rafael Moraes, 62,195535,38399
+2964,Conjunto Vieira,170149,28234
+2965,Via Brito, 248,409986,4271
+2966,Loteamento Luara da Luz, 2,45269,1109
+2967,Chácara Almeida, 3,8988,714
+2968,Pátio Otto Teixeira, 15,141081,43163
+2969,Condomínio de Peixoto, 64,271340,39190
+2970,Aeroporto Guerra, 68,341579,1430
+2971,Distrito Jade da Luz, 82,387569,38899
+2972,Estação Brenda Rocha, 16,487676,23477
+2973,Praia de Teixeira, 54,289224,19542
+2974,Recanto Leão, 83,260358,25701
+2975,Praça Vicente Aparecida,351949,15178
+2976,Chácara Ribeiro,296492,36067
+2977,Distrito de da Cunha, 74,304590,13904
+2978,Trevo de Barbosa, 44,133787,25889
+2979,Favela Yan Moraes,5998,19114
+2980,Praia de Souza,150719,45729
+2981,Morro Isis Pacheco, 81,9259,13099
+2982,Área Maria Vitória Mendonça, 93,213194,31672
+2983,Trecho Leandro Cavalcante, 635,30368,39504
+2984,Recanto Camargo, 786,233616,12432
+2985,Setor de Melo,195058,7268
+2986,Rua Costa,344380,11094
+2987,Distrito de Alves,468544,5879
+2988,Vereda de Cunha,320757,47250
+2989,Ladeira de Santos,240777,3665
+2990,Sítio de Martins, 793,122669,30319
+2991,Colônia Henry Gabriel Castro, 33,59895,48018
+2992,Área Aurora Camargo, 54,300399,2411
+2993,Vereda Gomes, 50,263019,32291
+2994,Loteamento Peixoto, 128,80434,29739
+2995,Largo Joana Lima, 25,189140,35647
+2996,Estação Silveira, 9,454361,35475
+2997,Passarela de Cassiano, 55,168264,3954
+2998,Viaduto de Fonseca, 59,410215,41034
+2999,Via Marques, 237,136337,50258
+3000,Estrada Ana Carolina Almeida, 5,423130,13108
+3001,Praia Siqueira,99516,11193
+3002,Ladeira Brito, 2,224663,25789
+3003,Praça Brito, 1,159847,5979
+3004,Setor Cardoso,133521,14380
+3005,Residencial Mendonça, 87,370055,36612
+3006,Trecho Gomes, 100,81724,45862
+3007,Condomínio Leão, 85,429501,25196
+3008,Viaduto Paulo Oliveira, 158,463873,14777
+3009,Feira de da Conceição, 3,113397,28830
+3010,Conjunto Stephany Rocha, 6,15835,22522
+3011,Praia Brito, 44,480120,43433
+3012,Conjunto de Pereira, 50,95766,4594
+3013,Condomínio Moraes, 227,458548,12578
+3014,Vale Teixeira, 69,223872,32785
+3015,Chácara da Conceição,392828,34478
+3016,Colônia Agatha Caldeira, 2,260876,19936
+3017,Jardim Maria Eduarda Araújo,67054,20058
+3018,Área Rafaela da Costa, 73,395195,45652
+3019,Vereda de da Cruz, 9,152880,27141
+3020,Distrito de da Rocha, 672,254520,4038
+3021,Vale Cunha, 78,101848,24550
+3022,Sítio Olivia Pinto, 55,242692,11428
+3023,Esplanada de Pimenta,135652,16003
+3024,Lago Lucas Gabriel Novaes, 7,247847,44360
+3025,Campo de Gonçalves, 4,383192,6276
+3026,Campo Eduardo Macedo, 9,48670,47311
+3027,Rua Cavalcanti, 2,418592,48717
+3028,Avenida de Lima, 67,373382,39818
+3029,Praça Mendes, 57,18644,13076
+3030,Vila de Marques,291715,32413
+3031,Quadra Alana Costa,148363,14096
+3032,Morro Rios, 8,433396,32748
+3033,Aeroporto Farias, 991,18594,45421
+3034,Vereda de Câmara, 9,364752,28789
+3035,Campo Vicente Viana,371221,33120
+3036,Morro Sabrina Alves, 5,225178,32804
+3037,Condomínio Rebeca Moreira,299892,12674
+3038,Campo de Machado, 44,8642,27630
+3039,Setor de Sousa, 83,181543,13342
+3040,Jardim Correia, 5,112462,14222
+3041,Área Nogueira, 10,395926,1320
+3042,Lagoa de Castro, 795,499804,29066
+3043,Vale de Correia, 9,379032,40294
+3044,Favela Nascimento, 20,245369,12231
+3045,Distrito de Pacheco, 30,294245,16892
+3046,Trevo de Jesus, 1,252856,14506
+3047,Lago Leão, 89,377136,34984
+3048,Conjunto Isabel Abreu, 15,232090,41124
+3049,Viela da Conceição, 2,349529,4622
+3050,Loteamento de Sales,270913,40317
+3051,Passarela de Siqueira, 717,496793,3746
+3052,Área de Leão,76099,28934
+3053,Viaduto de Pacheco, 77,47510,8223
+3054,Trecho de Aparecida,415858,4377
+3055,Distrito de Fonseca, 57,429935,7208
+3056,Jardim Valentim Aparecida, 68,496920,6237
+3057,Condomínio de Ribeiro,116936,16204
+3058,Área Andrade,335252,31711
+3059,Fazenda Casa Grande, 60,383026,32849
+3060,Jardim de Borges, 78,398888,2636
+3061,Travessa de Vasconcelos,122484,2316
+3062,Chácara Cecilia Cirino, 92,146525,39245
+3063,Recanto de da Mata, 44,10716,32160
+3064,Ladeira Monteiro, 2,96198,36159
+3065,Avenida Francisco Abreu, 16,117891,10584
+3066,Setor Melo, 85,176901,35557
+3067,Parque Siqueira, 57,404401,47463
+3068,Campo João Vitor da Mata, 2,59165,559
+3069,Rua da Cunha, 6,440198,35473
+3070,Trevo Porto, 60,326067,13505
+3071,Chácara de Machado, 50,105355,35338
+3072,Lagoa Santos, 501,471452,22011
+3073,Distrito Diogo Correia, 32,120454,25906
+3074,Colônia Santos, 546,204675,27759
+3075,Favela da Rocha, 65,173560,18719
+3076,Jardim Dom Costela, 60,475557,49233
+3077,Trevo Apollo Campos, 494,312687,37030
+3078,Pátio de Azevedo, 82,200546,37000
+3079,Ladeira Olívia Porto, 986,375430,22849
+3080,Viela de Vargas,320180,7402
+3081,Vereda Maria Flor Sales, 969,360172,19969
+3082,Praia Ana Laura Moraes, 27,7991,9189
+3083,Favela Juliana Camargo, 98,135923,40896
+3084,Vereda Carlos Eduardo Lopes, 87,289270,19037
+3085,Parque Gabriel Borges, 56,241147,16233
+3086,Colônia Enzo Melo, 88,461583,49711
+3087,Estação de Fernandes, 7,42673,35390
+3088,Núcleo de Monteiro, 6,162060,37692
+3089,Passarela Dom Teixeira,115834,41257
+3090,Ladeira Dias, 8,221447,21055
+3091,Distrito de Câmara, 93,6365,22172
+3092,Estação Melissa Martins, 30,311342,47038
+3093,Esplanada Freitas, 1,323345,12317
+3094,Quadra Sabrina Macedo, 50,272040,15111
+3095,Passarela Ana Cecília Santos, 61,324768,2301
+3096,Chácara de Cardoso, 68,216840,40282
+3097,Distrito de Cunha,3290,1823
+3098,Estrada de Rodrigues, 83,462519,43519
+3099,Alameda Vargas, 149,434353,5322
+3100,Distrito Sophia Aragão, 41,13505,21739
+3101,Chácara de Sousa, 6,13317,27481
+3102,Aeroporto Maria Vitória Viana,103578,31323
+3103,Lago Cunha, 40,485292,20323
+3104,Vale Oliveira, 23,9572,22475
+3105,Vila Marcos Vinicius Pacheco, 3,111075,20700
+3106,Conjunto Siqueira, 19,363768,33272
+3107,Travessa Casa Grande, 71,36709,11033
+3108,Campo de Duarte, 1,21832,21332
+3109,Recanto de Costela,368358,14712
+3110,Alameda Câmara, 91,493517,22254
+3111,Sítio Lavínia Monteiro, 92,161877,39051
+3112,Rua Nascimento, 75,2633,14365
+3113,Chácara Novaes, 159,75110,12812
+3114,Vale Diogo Silva, 80,429193,8374
+3115,Área Nicolas Pacheco, 6,258093,47427
+3116,Setor de Jesus, 11,492824,9988
+3117,Viela Albuquerque, 34,259204,8255
+3118,Setor Juliana Lima, 66,370270,23816
+3119,Viela de Ribeiro, 9,468621,44823
+3120,Pátio de Dias, 308,204953,9693
+3121,Jardim de Cassiano,290838,45455
+3122,Rodovia Olívia Borges, 22,127625,26528
+3123,Rodovia de Castro, 46,287625,3416
+3124,Praça de Pires,460335,9015
+3125,Trevo Leandro Silveira, 15,477554,48371
+3126,Fazenda Souza,40428,51047
+3127,Trevo de Aparecida, 4,268218,38133
+3128,Praia Igor Pastor, 861,8570,43636
+3129,Feira de Siqueira, 420,380767,9685
+3130,Alameda de Freitas, 46,78361,31124
+3131,Estação Carvalho, 73,267817,28403
+3132,Alameda Luiz Fernando Abreu,398204,39439
+3133,Chácara de Ramos, 5,455913,11364
+3134,Parque Sophie Pires, 72,170161,35339
+3135,Aeroporto de Silveira, 411,329315,35710
+3136,Lago Maria Luísa Silveira, 44,275623,36583
+3137,Praia Alícia Moraes, 40,488169,4256
+3138,Aeroporto Pimenta,95386,24358
+3139,Estrada de Fogaça, 765,356430,38764
+3140,Praça Maria Clara Leão, 53,477293,47721
+3141,Aeroporto Cavalcante, 841,253462,37960
+3142,Estação Peixoto, 31,43241,17647
+3143,Vale de Ramos, 47,382023,22451
+3144,Trevo Rocha, 1,353213,48436
+3145,Rodovia de Monteiro, 410,440674,34575
+3146,Pátio Luara Cardoso,447927,49451
+3147,Recanto de Fernandes,259919,34790
+3148,Esplanada de Gomes,64526,9699
+3149,Favela Porto,464356,22957
+3150,Trecho Thales Borges, 34,450346,32413
+3151,Lago da Cunha, 116,466858,36861
+3152,Vereda Montenegro, 799,119016,10811
+3153,Sítio de Alves, 92,396385,30122
+3154,Esplanada de Lima,383807,42791
+3155,Núcleo Benicio Pereira, 99,235713,6750
+3156,Colônia de Costela, 60,165061,50012
+3157,Favela de Dias, 49,53196,34610
+3158,Rodovia de da Paz, 8,155566,40366
+3159,Praia Cavalcante, 50,263927,17521
+3160,Campo Souza,308253,34255
+3161,Trecho de Alves,136320,48426
+3162,Estação de Caldeira, 6,193600,32113
+3163,Quadra de Rodrigues, 6,240316,914
+3164,Campo Caroline Rios, 8,455447,23673
+3165,Rua de Ferreira, 58,175722,9640
+3166,Ladeira Ester Carvalho, 57,153061,42482
+3167,Loteamento de Pacheco,144581,25609
+3168,Largo Raquel Pires, 76,426823,4340
+3169,Vereda Pimenta, 5,301467,5367
+3170,Distrito de Alves,499896,3428
+3171,Trecho Campos, 878,468719,29055
+3172,Praia de Mendes, 740,452144,43356
+3173,Conjunto Campos, 445,54858,16109
+3174,Alameda Rodrigo Duarte, 4,180886,28973
+3175,Avenida de Almeida,387331,12698
+3176,Pátio Câmara, 44,470532,46764
+3177,Jardim de Gonçalves, 268,196724,21389
+3178,Residencial Mariah Marques, 65,57760,16245
+3179,Alameda Olivia Rocha, 80,226780,19669
+3180,Loteamento Luiz Felipe da Cruz, 22,45422,30548
+3181,Lagoa Alexia Aparecida, 69,343497,4591
+3182,Distrito Campos, 8,195272,1328
+3183,Viaduto Calebe Sampaio, 20,168297,32341
+3184,Recanto Vasconcelos, 43,40071,7861
+3185,Avenida Sá, 7,178451,5278
+3186,Estação da Costa,286628,41507
+3187,Morro Alexia da Mata, 86,177144,44855
+3188,Pátio Aragão,166075,25916
+3189,Via Rodrigues, 3,465266,24109
+3190,Distrito Sales, 71,8211,15970
+3191,Ladeira Costela, 58,443999,12841
+3192,Setor Anna Liz Correia, 94,67436,21074
+3193,Lago de Viana, 21,416556,50760
+3194,Estrada Pinto, 43,340490,47219
+3195,Largo de Rodrigues, 18,385306,4839
+3196,Lagoa Rodrigues, 63,249894,22741
+3197,Pátio Murilo da Mata, 49,500101,14496
+3198,Quadra Viana, 19,352493,43974
+3199,Colônia Novais,293949,23292
+3200,Loteamento Cecilia Castro, 53,358206,26450
+3201,Morro Castro, 7,151329,27453
+3202,Campo Carvalho, 371,347621,3518
+3203,Vila Pires, 4,212057,41415
+3204,Parque Larissa Santos, 51,259960,27134
+3205,Fazenda de Guerra, 79,237846,35920
+3206,Chácara de Vargas, 289,379460,29639
+3207,Esplanada de Câmara, 775,449551,41222
+3208,Parque de Souza,460547,5427
+3209,Núcleo Aparecida,324798,26482
+3210,Passarela Davi Luiz da Luz, 80,176712,44660
+3211,Distrito Valentim Aparecida, 838,322189,23445
+3212,Praça Ana Liz Almeida, 4,297471,5582
+3213,Vale Clarice da Paz, 1,95272,29575
+3214,Trevo João Lucas Sales, 5,276800,39782
+3215,Estação Calebe Caldeira, 20,346553,24504
+3216,Praça Emanuel Montenegro, 69,150471,13643
+3217,Condomínio de Almeida, 39,381480,42805
+3218,Trecho de Ribeiro, 56,84638,6252
+3219,Sítio Nogueira, 48,387106,34318
+3220,Estrada Moraes, 391,367024,22893
+3221,Condomínio de Cavalcanti, 343,500874,5353
+3222,Aeroporto de Aragão, 11,33197,17465
+3223,Área Pires, 89,290619,31109
+3224,Esplanada Raul da Paz, 24,426724,13955
+3225,Esplanada Melissa Rodrigues,261610,3121
+3226,Estrada Maria Julia Alves,3564,50381
+3227,Viaduto Aragão, 57,488443,29569
+3228,Jardim Luana Leão, 90,185574,40839
+3229,Travessa Fernanda da Mota, 91,125612,15761
+3230,Alameda de Câmara, 7,397749,11955
+3231,Praça Vieira,30483,31054
+3232,Vereda de Nunes, 36,135995,29366
+3233,Ladeira de Nascimento, 64,474123,45033
+3234,Colônia Maitê Alves,470229,18160
+3235,Lagoa da Conceição, 23,430574,5500
+3236,Vale Maya Siqueira, 526,250224,10986
+3237,Rodovia Souza, 158,487355,8051
+3238,Viaduto Isabelly Rocha, 89,210226,814
+3239,Residencial Kaique Rios, 90,350013,28592
+3240,Lago Júlia Montenegro, 16,150470,20812
+3241,Praia Marina Dias, 3,43122,46090
+3242,Morro de Camargo, 11,349132,4805
+3243,Favela de Pacheco, 29,480126,29690
+3244,Passarela Anna Liz Freitas, 876,411233,8272
+3245,Fazenda Leonardo Moreira, 18,214382,12399
+3246,Ladeira Esther Marques, 95,206417,27799
+3247,Viaduto Pires, 42,278943,27739
+3248,Feira Gabriel Almeida, 84,340639,42536
+3249,Trecho Siqueira, 450,41043,3245
+3250,Morro João Vitor Almeida,341078,18053
+3251,Setor João Almeida,68336,8280
+3252,Conjunto Moreira, 87,391814,3155
+3253,Campo Anthony Viana,118016,29278
+3254,Fazenda de Dias, 925,447573,6764
+3255,Pátio de Casa Grande, 9,496475,39006
+3256,Loteamento Siqueira, 166,217884,5569
+3257,Residencial de Cirino, 28,302570,32524
+3258,Setor de Fogaça, 1,151770,30262
+3259,Praia de Marques, 488,115404,20458
+3260,Trevo de Monteiro, 76,409845,2031
+3261,Campo de Guerra, 41,429218,8454
+3262,Ladeira Antony da Cruz, 12,318311,42670
+3263,Quadra Brito, 52,425960,4184
+3264,Alameda Pinto, 99,138416,22249
+3265,Fazenda Vieira, 714,423161,44618
+3266,Lagoa Vieira, 75,22353,23428
+3267,Fazenda Diogo Cirino, 3,269220,6702
+3268,Fazenda Pires, 61,449316,45778
+3269,Núcleo Peixoto, 66,343168,37006
+3270,Ladeira Ravi Guerra, 6,42492,1802
+3271,Loteamento Daniela Ramos, 38,115462,9999
+3272,Núcleo Mendonça, 200,332353,11331
+3273,Setor Joaquim da Paz,219250,26369
+3274,Fazenda Abreu, 23,78141,31313
+3275,Fazenda de da Costa, 18,48011,40569
+3276,Praça Lorena das Neves, 108,343711,36958
+3277,Estrada Luiz Fernando Pacheco,103701,12852
+3278,Praça de Pastor, 5,45725,4674
+3279,Largo de Fernandes, 92,262466,21441
+3280,Avenida Rodrigues, 4,423493,47607
+3281,Viela da Rosa, 672,325097,16913
+3282,Esplanada Gustavo Brito, 731,416766,7545
+3283,Vereda Oliveira, 4,487954,1157
+3284,Vila da Conceição, 37,6176,34553
+3285,Lagoa Gustavo Vargas, 846,285561,19055
+3286,Aeroporto Mendonça, 41,35492,17213
+3287,Estação de Pinto, 89,88097,19060
+3288,Campo de Vargas, 5,171947,24655
+3289,Chácara Fogaça, 1,388405,27926
+3290,Pátio Maria Helena Alves,89113,501
+3291,Rua de Caldeira, 95,400086,36414
+3292,Conjunto Fogaça, 12,223057,17501
+3293,Ladeira de Sá, 36,102188,32972
+3294,Condomínio Helena Silva, 64,399367,49460
+3295,Condomínio Marcos Vinicius Sales, 82,282466,4298
+3296,Rua Anthony Gabriel Marques, 95,258146,37724
+3297,Vila de Rios, 813,376162,33330
+3298,Travessa Vasconcelos, 74,123033,4433
+3299,Setor Duarte, 30,187341,11985
+3300,Praça Danilo Pacheco, 70,252478,39789
+3301,Lagoa Felipe Vieira, 92,14785,41602
+3302,Trevo de da Conceição, 64,414350,28442
+3303,Vereda de Cirino, 4,378320,48115
+3304,Conjunto Sophia Caldeira, 5,30847,31392
+3305,Setor Enzo Gabriel Fonseca, 80,262146,45061
+3306,Trevo Moura, 40,463945,44031
+3307,Favela Emanuelly Santos, 41,310418,35306
+3308,Conjunto Renan Vieira, 1,77758,10903
+3309,Setor Olivia Pimenta, 36,224119,33365
+3310,Rodovia de Costa, 14,143535,284
+3311,Loteamento Brito, 392,387115,29336
+3312,Passarela de Pimenta, 4,98819,37835
+3313,Viela Isabela Barros, 1,298327,20828
+3314,Viaduto Olívia Fogaça, 77,344995,36858
+3315,Estação Correia, 55,219456,51100
+3316,Sítio de Nogueira, 79,171476,6483
+3317,Estação Costela, 81,204092,4485
+3318,Ladeira Teixeira, 83,103795,8403
+3319,Aeroporto das Neves, 623,272131,30505
+3320,Conjunto Ana Cecília Porto, 21,414654,34750
+3321,Viaduto Campos, 70,293842,5896
+3322,Vereda da Costa, 20,280404,32902
+3323,Recanto de Pastor,212502,35775
+3324,Sítio Costela, 24,478779,51115
+3325,Esplanada Nascimento, 99,439986,12260
+3326,Distrito de Fogaça, 5,53720,37893
+3327,Estação Cecília da Costa, 321,139546,1638
+3328,Morro de Farias, 8,271975,27959
+3329,Lagoa Melo, 696,275078,28766
+3330,Rodovia Luiz Gustavo Sousa, 99,455162,14682
+3331,Núcleo Rodrigues, 6,82849,35730
+3332,Estrada Nicole Sousa,174794,16635
+3333,Jardim Otto Nunes, 63,115682,8589
+3334,Favela da Paz, 92,229076,48981
+3335,Colônia Daniel da Mota, 32,393680,33365
+3336,Loteamento Matteo Pastor, 97,331860,26031
+3337,Jardim Cavalcante, 1,22916,21786
+3338,Parque de Novaes, 8,404847,25288
+3339,Fazenda Letícia Cassiano, 69,6224,12356
+3340,Rua Ana Vitória Cirino,404624,40121
+3341,Área de da Luz, 558,375471,40649
+3342,Avenida de Ferreira, 23,19496,39820
+3343,Recanto Pedro Miguel das Neves, 84,76315,46156
+3344,Parque das Neves, 39,6039,12580
+3345,Passarela Liam Borges, 40,453402,44557
+3346,Condomínio Souza, 5,303124,21073
+3347,Setor de da Cruz,181302,20811
+3348,Colônia Gonçalves, 51,283365,32126
+3349,Aeroporto de Pires, 29,483661,27391
+3350,Morro de Rezende, 1,368160,12358
+3351,Travessa Isaque Rodrigues, 1,43360,34018
+3352,Área de Novais, 43,344914,37729
+3353,Lago Lívia Martins, 63,140620,49970
+3354,Residencial Pedro Lucas Nogueira, 5,132882,33336
+3355,Estrada Barros, 82,461625,6373
+3356,Lago de Campos, 52,397427,29011
+3357,Lago Ian Souza, 49,99925,35632
+3358,Esplanada Almeida,319079,40758
+3359,Praia de Sampaio,81100,18436
+3360,Vila Casa Grande, 61,338199,10006
+3361,Condomínio Cunha, 15,252885,8113
+3362,Núcleo de Almeida, 62,197900,44574
+3363,Sítio de da Rocha,353253,32490
+3364,Estrada Ravi Lucca Rios, 19,166451,41226
+3365,Sítio Isaque Guerra, 18,193871,27288
+3366,Praia de Castro, 88,73669,25937
+3367,Recanto Pires, 39,398218,30022
+3368,Sítio Jesus,356812,29220
+3369,Conjunto Yan Casa Grande, 93,178180,41155
+3370,Vale Gonçalves, 6,92988,8761
+3371,Estação Asafe Carvalho, 33,423083,39272
+3372,Ladeira de Gonçalves, 31,125874,4723
+3373,Sítio de Santos, 94,298286,43107
+3374,Viaduto Castro, 951,184562,29746
+3375,Trevo Pedro da Paz, 3,427853,39398
+3376,Trevo de Abreu, 53,16222,47717
+3377,Rodovia Gabriela Sampaio, 20,129030,43727
+3378,Esplanada de Caldeira, 777,435518,29505
+3379,Condomínio de Souza, 130,309405,8524
+3380,Ladeira Pires, 39,6704,7300
+3381,Avenida Freitas, 736,211198,13145
+3382,Avenida Rodrigo Melo,415296,31200
+3383,Parque de Castro, 77,471704,4348
+3384,Condomínio de Marques, 76,222779,9023
+3385,Condomínio de da Paz, 22,155475,9930
+3386,Travessa de Rocha, 6,279924,41306
+3387,Vale Sophia da Mota, 978,486436,43608
+3388,Sítio Cardoso, 26,130271,31384
+3389,Estrada Dom da Costa, 35,260444,43177
+3390,Recanto Juan Leão, 2,345737,10676
+3391,Loteamento Nina da Cunha, 2,22465,21926
+3392,Alameda de das Neves, 5,375279,37559
+3393,Lago Moura, 395,185129,22467
+3394,Favela de Correia, 51,7747,49819
+3395,Estação Catarina Carvalho,36043,21172
+3396,Rodovia Henry Pimenta, 31,251632,48940
+3397,Distrito Teixeira, 57,61406,8660
+3398,Favela de Rezende, 50,293368,18847
+3399,Pátio Vitória Monteiro,493878,35582
+3400,Distrito de Freitas, 79,148400,27647
+3401,Morro Barbosa, 11,98197,26521
+3402,Núcleo Maria Vitória Abreu,226944,13564
+3403,Rodovia da Rosa, 964,146819,18684
+3404,Campo de Cirino, 67,218889,39497
+3405,Conjunto de Silva,300222,5795
+3406,Fazenda Eduarda Duarte,86847,47489
+3407,Rodovia de das Neves,82582,17668
+3408,Largo de Gomes, 83,98644,48474
+3409,Vale de Almeida,234138,23086
+3410,Pátio Lavínia Peixoto, 44,283502,33384
+3411,Via de Costela, 725,66199,20956
+3412,Lagoa Léo Mendes, 5,121752,2341
+3413,Trevo Sampaio, 85,331233,30524
+3414,Fazenda Ferreira, 68,365391,14356
+3415,Trevo Emanuella Monteiro, 5,459472,4608
+3416,Residencial de da Rosa, 36,278039,23164
+3417,Lago Maitê Guerra, 2,467248,19823
+3418,Residencial de Cassiano, 5,375620,48879
+3419,Avenida de Ribeiro, 84,169341,582
+3420,Distrito de Gonçalves, 74,340793,29888
+3421,Travessa Yuri Cavalcanti, 12,182289,10266
+3422,Pátio de Câmara,413526,22378
+3423,Vila de Moreira, 609,59296,26662
+3424,Quadra da Cunha, 467,429459,3990
+3425,Favela da Rosa, 669,380062,3274
+3426,Residencial das Neves, 94,12634,26859
+3427,Distrito Isadora Rios, 87,282618,10742
+3428,Chácara Gomes, 59,458990,236
+3429,Via de Souza, 40,276889,26943
+3430,Chácara de Albuquerque, 75,4961,36615
+3431,Vila Emilly Guerra, 204,45688,46527
+3432,Área de Pimenta,120159,19530
+3433,Avenida de Casa Grande, 62,397079,9596
+3434,Alameda Luara Melo, 61,127530,39883
+3435,Rua Araújo, 58,377977,24986
+3436,Praia Maria Clara Alves,491994,47597
+3437,Alameda Lavínia Alves, 14,27674,2431
+3438,Morro Guerra, 3,380629,13523
+3439,Esplanada Maria Liz das Neves, 35,340946,36036
+3440,Quadra de da Mota, 27,465397,34409
+3441,Chácara Maria Luiza Lopes, 45,213292,4745
+3442,Parque Diego Mendes, 22,484182,23206
+3443,Setor Fogaça, 83,288734,15471
+3444,Área Juan Correia, 17,96278,33007
+3445,Parque Guilherme da Rocha,2757,6795
+3446,Vila de da Costa, 54,314107,1116
+3447,Jardim Martins, 38,302255,14611
+3448,Condomínio Barbosa, 23,237370,29073
+3449,Trecho Asafe Vieira, 7,136508,17024
+3450,Chácara de Dias, 52,22624,12291
+3451,Condomínio Machado, 115,61041,19017
+3452,Alameda João Guilherme Borges,405355,29240
+3453,Área Isabelly Peixoto, 29,335132,49667
+3454,Condomínio de Pacheco, 6,129018,43945
+3455,Núcleo de Lima, 91,139726,12967
+3456,Trevo Ian Leão, 31,54993,42328
+3457,Recanto Davi Montenegro, 555,101035,15492
+3458,Aeroporto de Ramos, 371,59764,25221
+3459,Esplanada Kamilly Rezende, 38,79182,10880
+3460,Ladeira de Almeida,207278,28635
+3461,Chácara Aylla Macedo, 1,151742,42889
+3462,Jardim Jesus, 48,494710,10132
+3463,Setor de Cardoso, 7,361857,43478
+3464,Distrito Ana Carolina Garcia, 295,81178,50290
+3465,Vale Guilherme da Luz,241360,50641
+3466,Vereda Mendes, 40,414583,18153
+3467,Rodovia Santos,231138,51031
+3468,Recanto Alice Monteiro, 1,458946,2281
+3469,Distrito Rocha, 23,184712,44325
+3470,Rua Costela, 9,236543,32609
+3471,Favela de Abreu, 1,350478,7991
+3472,Largo Vinicius Montenegro, 810,362394,27955
+3473,Parque Arthur Andrade, 116,333814,4556
+3474,Conjunto de Moura, 67,172995,33488
+3475,Avenida de Rezende, 51,35308,9847
+3476,Parque Cassiano, 499,464046,11919
+3477,Parque de Leão, 6,301217,24311
+3478,Feira Carlos Eduardo da Paz, 72,471389,46731
+3479,Esplanada Pires, 12,133730,45398
+3480,Morro Sá, 79,137618,33922
+3481,Campo Cavalcanti,10996,46737
+3482,Aeroporto de Mendonça,485460,28635
+3483,Residencial de Silveira, 653,67132,17278
+3484,Loteamento Francisco Mendes, 52,66487,7260
+3485,Fazenda Ana Carolina Abreu,4509,35680
+3486,Praça Clara Rodrigues,104926,6645
+3487,Parque Isabella Andrade, 900,167463,3533
+3488,Praia Elisa Garcia, 64,386493,45869
+3489,Passarela da Cruz, 2,494032,44146
+3490,Ladeira Fonseca, 83,384304,23157
+3491,Residencial Carvalho, 13,416002,22930
+3492,Trevo Luna Fernandes, 670,467850,48640
+3493,Favela Eduarda da Paz, 78,171127,11175
+3494,Loteamento Almeida, 587,227746,16555
+3495,Setor Porto, 57,318581,22754
+3496,Conjunto Vieira, 49,471135,47934
+3497,Viaduto Cavalcante, 65,361062,20762
+3498,Chácara Mateus Oliveira, 90,411975,46432
+3499,Praia Aparecida, 12,291436,18761
+3500,Viela de Cardoso, 47,432757,48017
+3501,Jardim Augusto Moura, 33,447140,28386
+3502,Estação de Peixoto, 8,75697,39582
+3503,Trecho Casa Grande, 243,2192,25179
+3504,Rodovia Gomes, 8,259637,12965
+3505,Área Borges, 54,469901,5752
+3506,Residencial Helena Ribeiro,108739,17583
+3507,Alameda de Gomes, 86,198795,34599
+3508,Vereda Luiz Fernando da Rocha, 58,11943,16470
+3509,Parque Júlia Fernandes,112738,7271
+3510,Praça Ágatha Sá, 1,462607,35429
+3511,Parque de Lopes, 76,415675,24093
+3512,Quadra Alice Sousa, 31,343743,44447
+3513,Condomínio de Barros, 86,430428,29809
+3514,Núcleo da Cruz, 9,174857,48610
+3515,Rua de Cardoso, 11,192496,48023
+3516,Distrito de Cassiano, 86,137644,10930
+3517,Passarela Diego Teixeira,145120,23375
+3518,Sítio Ferreira, 979,162960,42791
+3519,Área Campos, 559,468043,37906
+3520,Morro Vargas, 824,73517,10106
+3521,Jardim Melo, 40,312764,17937
+3522,Esplanada de Cassiano, 97,145402,30163
+3523,Praça Breno da Cunha, 65,170148,838
+3524,Lagoa de Albuquerque, 41,475633,18018
+3525,Rua Oliver das Neves, 906,401131,43517
+3526,Estrada de da Cruz, 629,162804,19293
+3527,Lagoa Caio Silva, 8,223672,22720
+3528,Parque Cauã Albuquerque, 7,478138,51011
+3529,Passarela de Andrade, 51,82182,8793
+3530,Avenida Ana Sophia Sampaio, 360,306397,41611
+3531,Travessa de Sampaio, 26,290576,23440
+3532,Viaduto de Melo,230763,5512
+3533,Conjunto Stephany Mendes, 72,470640,9576
+3534,Lago Theodoro Rodrigues, 757,498675,30974
+3535,Estrada Laís Cavalcante,470808,36349
+3536,Vale Dante Macedo, 34,484867,25613
+3537,Esplanada de Aragão, 4,204919,48195
+3538,Ladeira de da Paz, 58,255030,41857
+3539,Parque Lunna da Mota, 26,62392,4857
+3540,Chácara Vinicius Cassiano, 7,154022,4677
+3541,Recanto de Moraes, 97,278386,40809
+3542,Viaduto Lunna da Mota, 28,296442,35721
+3543,Ladeira Helena da Mota, 13,453437,11182
+3544,Lagoa de da Luz, 16,58572,40686
+3545,Via Theodoro Rezende, 22,325020,400
+3546,Morro Raul da Mata, 29,203361,43686
+3547,Trecho José Pedro Albuquerque, 80,390828,40280
+3548,Rodovia de Souza, 86,400295,34323
+3549,Lago Moreira, 61,201534,17194
+3550,Colônia Pacheco, 64,393139,48029
+3551,Área Esther Pereira, 907,220015,18712
+3552,Favela das Neves, 76,417333,12572
+3553,Via da Mota,97095,38048
+3554,Conjunto Ágatha Pereira, 13,178035,25341
+3555,Passarela de Pimenta,416106,12144
+3556,Viaduto Lara Barbosa, 217,126125,6778
+3557,Vereda Rodrigues, 64,164946,40300
+3558,Travessa Milena Gomes, 22,259206,17937
+3559,Viela Rocha, 527,343095,28659
+3560,Área Azevedo, 73,300283,16278
+3561,Setor Esther Pacheco, 2,276345,45325
+3562,Ladeira Paulo Abreu, 84,451936,50830
+3563,Rodovia Sarah Costela, 53,395481,34669
+3564,Campo de da Paz, 7,478610,33724
+3565,Trevo Mariah da Luz, 18,442657,48855
+3566,Fazenda de Aragão, 25,177477,13280
+3567,Viela Sousa, 15,113698,16948
+3568,Setor de Ribeiro, 56,196315,14525
+3569,Estação Viana, 35,278701,47080
+3570,Largo de Campos, 48,305185,28613
+3571,Quadra Monteiro, 54,187973,50101
+3572,Campo Costa, 70,424622,36460
+3573,Viela Casa Grande, 2,374585,1763
+3574,Ladeira Ana Cassiano, 26,359004,9947
+3575,Condomínio Theodoro da Rosa, 67,452551,35152
+3576,Área de Pinto, 31,405769,34422
+3577,Viela Azevedo, 689,114186,42603
+3578,Residencial Silva, 81,417866,33078
+3579,Via Dom Novais,183312,28882
+3580,Fazenda Araújo, 9,456606,9869
+3581,Jardim Maria Julia Castro, 71,197813,42380
+3582,Vale de Sampaio, 939,470526,50994
+3583,Praça da Paz, 2,18219,8266
+3584,Morro de Cavalcanti, 5,61551,18050
+3585,Área de Montenegro, 848,28997,47679
+3586,Praça Campos, 52,419001,26744
+3587,Pátio de Nogueira, 676,333301,17762
+3588,Vila Fogaça, 75,199939,27036
+3589,Viaduto Castro, 52,313858,7890
+3590,Setor Nathan das Neves, 64,241740,27580
+3591,Quadra Pereira, 14,95648,25381
+3592,Avenida Clara Azevedo, 4,158774,22306
+3593,Parque de Montenegro, 1,159101,28999
+3594,Residencial de da Mota, 89,32886,26491
+3595,Via Andrade, 11,463240,48565
+3596,Distrito Pedro Miguel Carvalho, 29,42674,32258
+3597,Esplanada de Fogaça,395088,25356
+3598,Fazenda Brenda Silveira, 90,62540,24568
+3599,Avenida Porto, 7,321940,35507
+3600,Travessa Emilly Barros, 8,308694,47657
+3601,Condomínio Brito, 83,255661,36754
+3602,Quadra de Camargo, 12,176839,24189
+3603,Vale Guerra, 36,202495,10610
+3604,Ladeira Fogaça, 8,43878,38808
+3605,Feira Maria Pastor, 60,261163,29096
+3606,Passarela Murilo Souza, 11,354330,46470
+3607,Trevo Pinto, 12,454195,5575
+3608,Viela de Brito, 8,154892,39538
+3609,Quadra Fonseca, 60,242098,26925
+3610,Loteamento Nicole Nogueira, 24,71719,48135
+3611,Recanto Pinto, 8,290245,34321
+3612,Passarela Andrade, 81,214906,19957
+3613,Núcleo Moraes, 1,322365,47685
+3614,Via da Mota, 5,91443,38768
+3615,Distrito de da Cruz, 78,318575,23707
+3616,Esplanada Pires, 97,83839,47257
+3617,Parque de Machado,279885,38511
+3618,Ladeira Enzo Moura, 630,488431,24240
+3619,Vale de da Rocha, 4,326448,34271
+3620,Avenida Vasconcelos, 46,110177,25937
+3621,Condomínio Eduarda Sousa, 48,71414,48871
+3622,Núcleo Zoe da Rocha,11972,19063
+3623,Núcleo de Mendes, 812,445890,12484
+3624,Residencial João Felipe Monteiro, 7,301423,16090
+3625,Praça de Pastor, 188,387993,25595
+3626,Recanto Ana Júlia da Rocha, 30,97277,18998
+3627,Vereda Caldeira, 50,395416,25616
+3628,Esplanada da Mata, 83,67743,35087
+3629,Residencial Sampaio,330142,40156
+3630,Conjunto de da Mota, 54,429717,19259
+3631,Lagoa Yuri Novais, 3,390366,13419
+3632,Jardim Nogueira, 859,368331,1692
+3633,Rua Macedo, 544,82205,19526
+3634,Estrada de Fogaça, 74,147862,42461
+3635,Praça Barros, 68,249727,36910
+3636,Lagoa João Vitor Alves, 38,113838,7286
+3637,Vereda Agatha Rios, 4,213762,10182
+3638,Recanto Liz Moraes, 1,88741,26871
+3639,Campo Rodrigues,301943,33818
+3640,Largo Gael Henrique Marques, 615,243675,33850
+3641,Setor de Aragão, 87,279149,29215
+3642,Quadra João Lucas Cirino, 7,366599,12949
+3643,Colônia de da Luz, 483,96180,49892
+3644,Feira Alves, 963,87341,12922
+3645,Chácara Santos, 34,389517,19970
+3646,Estrada Carolina Borges, 37,341059,31621
+3647,Trecho Carvalho, 79,192168,20035
+3648,Trecho de Barros, 25,494501,49565
+3649,Conjunto Emanuelly Câmara, 61,434143,35999
+3650,Colônia de Duarte, 86,100264,10458
+3651,Sítio Martins, 35,2684,49467
+3652,Aeroporto de Peixoto, 7,176481,30432
+3653,Estrada Silva, 20,477278,38994
+3654,Lago Pinto, 464,418491,17733
+3655,Passarela Aparecida, 1,236192,42006
+3656,Vila Macedo, 882,186833,28565
+3657,Lagoa de Alves, 3,367610,14763
+3658,Quadra Renan Duarte, 810,433883,36278
+3659,Conjunto Igor da Paz, 5,441629,13310
+3660,Rua Ana Carolina Oliveira, 2,64935,32918
+3661,Morro Vicente Leão, 33,55715,39418
+3662,Morro Pastor, 4,253055,49933
+3663,Recanto Ana Sophia Nascimento, 2,27714,5581
+3664,Conjunto Enrico Gomes, 5,361332,49441
+3665,Esplanada de Cunha, 9,457695,41837
+3666,Condomínio Jesus, 21,444681,12394
+3667,Recanto Jesus, 22,191866,43840
+3668,Vila Helena Azevedo, 3,204625,49949
+3669,Travessa Vinícius Casa Grande, 202,6569,21450
+3670,Fazenda Borges, 845,249840,8782
+3671,Rua Moraes, 748,185801,37877
+3672,Loteamento Eloah Correia, 387,40899,14112
+3673,Praça Luan Pacheco, 26,297965,34321
+3674,Praça de Ribeiro, 97,452892,12927
+3675,Lagoa das Neves, 89,293620,46661
+3676,Setor Milena Costela, 60,88623,24485
+3677,Praça Liam Ferreira,374781,28243
+3678,Loteamento de Alves, 4,464445,48987
+3679,Viela Guerra, 56,139198,39676
+3680,Sítio de da Mota, 67,122966,48547
+3681,Trecho Alícia Peixoto, 8,404384,3617
+3682,Largo de Dias,387849,37361
+3683,Lagoa de Mendonça,362180,23621
+3684,Pátio Camargo, 3,447222,7956
+3685,Largo Rocha,214068,31291
+3686,Residencial Beatriz Rodrigues, 66,136020,50603
+3687,Praça Ribeiro, 36,105087,5712
+3688,Residencial Isabela Rodrigues, 20,461205,32711
+3689,Avenida Cassiano,452753,48635
+3690,Vereda Nicolas Brito, 1,471879,15809
+3691,Vereda Júlia Monteiro,158452,33937
+3692,Sítio de Caldeira,489249,47530
+3693,Sítio Pacheco, 30,345287,39860
+3694,Avenida de Pereira, 279,13281,48547
+3695,Viaduto Machado, 36,84792,42781
+3696,Loteamento Almeida,255965,44311
+3697,Vila de Nogueira, 29,42324,31976
+3698,Alameda Pacheco, 8,314613,50080
+3699,Passarela Danilo Machado, 72,289104,36516
+3700,Rua de Azevedo,224656,49948
+3701,Morro de Fogaça, 50,85999,44763
+3702,Pátio Pimenta, 3,26961,16606
+3703,Alameda Fonseca, 62,414897,50048
+3704,Travessa de Rios, 23,86858,43933
+3705,Praia Gonçalves, 2,25268,1520
+3706,Recanto de Mendonça, 20,412745,35983
+3707,Rua Raul da Cunha, 4,19000,46816
+3708,Rodovia de Pastor, 71,341475,25590
+3709,Rodovia Otávio Aragão, 2,27844,756
+3710,Vila Juliana da Conceição, 47,362623,32291
+3711,Viela Levi Sampaio, 16,295408,41223
+3712,Estrada Mariana Cassiano, 26,194104,22357
+3713,Viela Correia, 53,46597,36611
+3714,Praça Rodrigo Farias, 58,76139,16950
+3715,Praça Garcia, 82,339972,38219
+3716,Setor Olivia Cavalcanti,449765,50921
+3717,Lagoa Vicente Moura,8055,40293
+3718,Feira Costela, 15,443240,41537
+3719,Loteamento Ayla Casa Grande, 26,364396,32095
+3720,Praia Theo Fogaça, 28,114047,27331
+3721,Sítio Ferreira, 20,183259,14434
+3722,Largo da Cruz,87713,39603
+3723,Avenida de Rocha, 9,385056,44172
+3724,Ladeira Casa Grande, 8,227120,39692
+3725,Área Brito, 639,162031,48104
+3726,Conjunto Correia, 21,271426,42423
+3727,Colônia de Borges, 80,97759,11341
+3728,Setor de Silveira, 238,688,33781
+3729,Estrada Machado, 42,111074,15581
+3730,Vereda Albuquerque, 6,125965,16505
+3731,Praia Aylla Costela, 98,209648,17731
+3732,Largo de Mendes,156101,48821
+3733,Vereda da Paz, 48,127053,15216
+3734,Quadra Ana Luiza Cavalcante, 4,195812,27607
+3735,Feira de Dias,32466,37467
+3736,Estação Guerra, 7,452786,20436
+3737,Praia de Araújo, 78,185628,11447
+3738,Área João Guilherme Sales, 872,38318,34058
+3739,Avenida Sabrina Cardoso, 12,177004,42036
+3740,Área Cavalcante, 7,55509,10620
+3741,Recanto de Casa Grande,286650,45571
+3742,Largo Ana Clara Nogueira,206913,22581
+3743,Praça Matheus Fonseca, 258,64562,30597
+3744,Viela de Guerra, 74,375006,29539
+3745,Praça Vasconcelos, 911,333459,44493
+3746,Fazenda de Farias, 72,353847,39470
+3747,Loteamento Sales,65136,21427
+3748,Largo de Costa,145077,21037
+3749,Residencial de das Neves, 90,206081,12226
+3750,Ladeira Maria Cecília Sampaio, 23,188051,33840
+3751,Viaduto de Moura, 28,202364,21787
+3752,Trevo Benicio Barros, 64,365756,40323
+3753,Viaduto de Mendes,159283,2965
+3754,Conjunto Gonçalves, 98,256456,36674
+3755,Pátio Sophia Carvalho, 44,173243,47737
+3756,Distrito Porto, 45,292492,11028
+3757,Fazenda de Rezende, 44,380173,35345
+3758,Pátio Luan Camargo, 11,108626,20528
+3759,Alameda Alexia Macedo, 23,81519,37422
+3760,Residencial Nogueira, 7,429008,38751
+3761,Vila Bárbara Novais, 15,160172,36766
+3762,Aeroporto Guerra, 8,246858,44255
+3763,Praça de Guerra, 710,323596,34152
+3764,Aeroporto Maria Sophia Costa, 801,158545,27533
+3765,Estrada de Nunes, 27,134379,36271
+3766,Sítio Oliveira, 95,195643,9550
+3767,Estação Ferreira, 46,49683,5808
+3768,Avenida Melina Sampaio, 92,229627,9346
+3769,Morro de Jesus,53507,30364
+3770,Vereda Araújo, 3,294810,38099
+3771,Fazenda Ramos, 500,72879,6299
+3772,Setor Olivia Andrade, 57,298689,45039
+3773,Distrito Novaes, 42,384404,4157
+3774,Viela de Ribeiro, 22,201329,13837
+3775,Aeroporto de Sales, 80,366782,14002
+3776,Núcleo de Caldeira, 78,414276,39171
+3777,Largo Ryan Andrade, 604,279492,39866
+3778,Fazenda de Ferreira, 6,108507,25477
+3779,Jardim Vitor Gabriel Caldeira, 50,70380,16195
+3780,Praia Benicio Ribeiro, 42,413305,13320
+3781,Estação de Viana, 4,289632,6659
+3782,Favela de Cavalcanti, 226,300089,5295
+3783,Núcleo de Rodrigues,456626,31529
+3784,Via Camargo, 483,238540,20363
+3785,Núcleo de Albuquerque, 24,428115,42204
+3786,Setor de Aparecida, 52,472696,41553
+3787,Estação da Cruz,418130,10034
+3788,Estrada de da Cruz,20266,28613
+3789,Distrito Nina Nunes, 10,59125,18757
+3790,Rodovia Siqueira, 92,370774,45187
+3791,Lagoa Davi Câmara,1439,27836
+3792,Praia Maria Luiza Pires, 91,293870,38093
+3793,Aeroporto Pastor, 454,9661,32051
+3794,Colônia de Barros, 54,477331,4
+3795,Fazenda Nascimento, 3,125460,31376
+3796,Avenida Sá,454853,15519
+3797,Conjunto de Souza, 538,324841,49538
+3798,Morro Clara Novais, 80,137508,2623
+3799,Núcleo João Gomes, 28,361647,36407
+3800,Lago de Silva, 252,11808,18973
+3801,Área Dante Montenegro, 601,397433,11297
+3802,Vereda Luiz Henrique Lopes, 24,100286,49582
+3803,Área de Aparecida, 49,27335,50851
+3804,Distrito Anthony Costela, 34,126706,17939
+3805,Favela de da Cruz, 8,438877,12513
+3806,Parque Campos,360012,4415
+3807,Praia Mendes,272734,32010
+3808,Praia de Fogaça, 52,328143,14696
+3809,Lagoa Arthur Gabriel Guerra, 415,315628,1927
+3810,Estrada de Ramos, 77,28409,7014
+3811,Praia Silva, 72,126339,42124
+3812,Via de da Paz, 44,404009,15626
+3813,Travessa de Nascimento, 364,317356,48359
+3814,Quadra de Pereira, 99,302869,2222
+3815,Largo Castro, 94,312110,3895
+3816,Fazenda Gonçalves, 1,475593,19559
+3817,Vereda de Oliveira,89654,35911
+3818,Pátio Arthur Santos, 46,106674,4022
+3819,Pátio Andrade,440309,8983
+3820,Distrito de Pires, 77,141058,40780
+3821,Ladeira Ana Júlia Costa, 48,391613,23828
+3822,Lagoa de Barros, 80,407898,10565
+3823,Setor Ana Vitória Andrade, 9,331216,45642
+3824,Avenida Pires, 55,325335,38906
+3825,Parque de Abreu,324183,44074
+3826,Alameda de da Luz, 61,254050,3764
+3827,Área de Caldeira,224393,36808
+3828,Setor Liam Sousa,419540,44862
+3829,Fazenda de Nunes, 993,279094,13961
+3830,Rodovia Aparecida, 624,113000,24396
+3831,Favela Caldeira, 44,242069,49302
+3832,Viaduto de Duarte, 68,442547,3466
+3833,Conjunto Lara Ribeiro, 6,317880,25336
+3834,Lagoa Luara Andrade, 76,276780,49041
+3835,Vereda de Marques,325263,50230
+3836,Vereda de Borges, 2,171499,32220
+3837,Pátio de Guerra,110977,16302
+3838,Aeroporto de Nogueira, 31,240734,545
+3839,Favela de Pastor, 35,213143,23320
+3840,Praia Martins, 94,170558,40867
+3841,Parque Luan Freitas, 70,6097,14977
+3842,Estrada Siqueira, 76,388267,40716
+3843,Alameda Caldeira, 13,267258,22862
+3844,Estação Mariah Gomes, 572,450690,30785
+3845,Avenida de Pacheco, 434,173934,13299
+3846,Vereda de Rodrigues, 67,39627,50697
+3847,Viaduto de da Cunha, 13,410938,40452
+3848,Vila da Cunha,37726,15249
+3849,Núcleo Josué Aragão, 21,398793,31479
+3850,Recanto Davi Luiz Correia, 71,222132,28927
+3851,Jardim de Pacheco, 71,149348,24921
+3852,Trevo das Neves, 782,64435,13627
+3853,Morro de Guerra, 1,107715,24520
+3854,Viaduto de da Rosa,469232,50803
+3855,Favela de Cardoso, 62,308552,18561
+3856,Recanto Lavínia Melo,369996,47959
+3857,Vila Aragão, 35,185911,7307
+3858,Área de Teixeira, 86,173600,14893
+3859,Pátio Azevedo, 22,45425,2206
+3860,Trecho Melissa Almeida, 79,387096,40985
+3861,Quadra de Andrade, 66,269553,21362
+3862,Lago de Ferreira,359889,21720
+3863,Conjunto de Pereira, 884,252520,45418
+3864,Quadra de Casa Grande, 62,186227,18512
+3865,Ladeira de Martins, 1,157438,50793
+3866,Passarela Léo Pacheco, 6,125755,21011
+3867,Morro Marcelo Vasconcelos, 52,418558,561
+3868,Chácara João Miguel Castro, 15,85239,33178
+3869,Praça Dias,482387,12580
+3870,Praça Evelyn Cardoso, 97,393451,29163
+3871,Esplanada Liz Ramos, 8,205718,35413
+3872,Aeroporto de Silva, 12,253212,43704
+3873,Travessa de Freitas, 664,54291,2901
+3874,Morro Marcos Vinicius Rodrigues, 60,189627,6730
+3875,Favela Aylla Peixoto,466968,48996
+3876,Travessa Porto, 77,331045,3014
+3877,Sítio Albuquerque, 68,311201,39337
+3878,Viela da Rocha, 79,58939,5671
+3879,Alameda Cauê Guerra, 196,109342,39482
+3880,Praia de Almeida, 26,162355,26909
+3881,Campo Melina Carvalho, 465,325997,26422
+3882,Rua Silveira, 52,143699,20758
+3883,Viaduto de da Cunha, 7,376132,2932
+3884,Passarela Giovanna Siqueira, 532,379127,13559
+3885,Estação de Pires, 28,487517,34848
+3886,Colônia de Teixeira, 392,43832,38736
+3887,Alameda de Rezende, 429,391668,34868
+3888,Colônia de Lopes, 1,195347,24602
+3889,Morro Novaes, 42,204066,47488
+3890,Praia Souza, 430,206140,45398
+3891,Rodovia de Pinto, 49,172165,20535
+3892,Travessa Rafaela Moraes,391361,33310
+3893,Rua Mendes, 81,495840,34667
+3894,Distrito de Abreu, 51,55228,5934
+3895,Chácara Lara da Rosa,217474,12588
+3896,Núcleo de Fogaça,71054,9303
+3897,Distrito Sabrina Aparecida, 2,170301,2912
+3898,Alameda Pastor, 40,52401,30645
+3899,Viaduto Brenda Câmara,136953,36875
+3900,Feira Pastor, 445,458263,10154
+3901,Núcleo da Paz, 7,19996,6523
+3902,Residencial de Rodrigues, 3,64753,11678
+3903,Feira Marques, 70,287164,19081
+3904,Residencial Pires, 4,356764,15317
+3905,Avenida Leão, 6,411978,25935
+3906,Jardim Kevin Silva, 21,260681,50565
+3907,Chácara de Ribeiro, 5,151195,1654
+3908,Pátio Maria Sophia Nascimento, 8,341312,44344
+3909,Estrada Montenegro, 42,125960,7403
+3910,Conjunto Lavínia da Cunha, 55,260068,47423
+3911,Colônia Evelyn Barros, 1,210701,44770
+3912,Favela de Campos, 92,160363,30746
+3913,Vale Nogueira, 16,72591,2590
+3914,Setor André Dias, 68,460811,9138
+3915,Travessa de Machado, 99,258463,26842
+3916,Condomínio Yasmin Dias,257914,30982
+3917,Setor João Miguel Correia, 34,230149,25688
+3918,Residencial Lorena Abreu, 9,487216,31118
+3919,Passarela Câmara, 358,328613,18727
+3920,Condomínio Oliveira, 739,162368,35095
+3921,Avenida Pinto, 436,118035,3398
+3922,Setor Francisco Leão, 95,252536,35357
+3923,Loteamento de Monteiro, 25,345080,12271
+3924,Praça de Santos, 409,300248,3455
+3925,Lagoa Cardoso, 3,139193,41567
+3926,Pátio Guilherme Câmara,66274,6104
+3927,Distrito Cirino, 82,465977,42432
+3928,Sítio Luara Sampaio, 6,140493,50021
+3929,Estação Rezende,222373,44803
+3930,Travessa de Teixeira, 25,460111,35087
+3931,Conjunto Silveira, 78,436989,13934
+3932,Recanto Stephany Rezende, 92,253977,7103
+3933,Loteamento Gomes, 30,368463,13102
+3934,Vale de Machado, 8,174324,21105
+3935,Fazenda de Fogaça, 677,172199,51113
+3936,Trevo Maysa Vasconcelos, 8,69457,41060
+3937,Pátio de Sousa, 891,343187,19034
+3938,Estação Correia, 7,245780,50326
+3939,Loteamento Mendes, 4,438496,13798
+3940,Rodovia de Pinto, 42,25434,10655
+3941,Avenida Benicio Fogaça, 80,482300,25341
+3942,Rodovia Noah da Rocha, 19,444444,14203
+3943,Trecho Theodoro Barbosa, 35,345595,41966
+3944,Favela Porto, 71,367432,3066
+3945,Feira Oliveira, 33,88496,10135
+3946,Loteamento Pimenta, 67,254242,43766
+3947,Viaduto Pinto, 77,209539,2909
+3948,Alameda Câmara,10760,6994
+3949,Lagoa de da Mota,315505,7601
+3950,Rua Henry da Rosa, 97,101837,20687
+3951,Setor Barros,380480,50711
+3952,Esplanada de Moraes, 3,271447,31123
+3953,Passarela de Vasconcelos, 53,158675,21329
+3954,Rodovia Heloisa Vasconcelos, 54,372241,22260
+3955,Praia Alves, 9,67633,3099
+3956,Estação de Moura, 8,436629,10939
+3957,Residencial de Albuquerque, 58,393477,40877
+3958,Esplanada de Carvalho,92768,6796
+3959,Parque de Farias, 39,244593,20295
+3960,Viaduto Casa Grande, 265,371634,9815
+3961,Largo Apollo Nogueira, 7,33211,12334
+3962,Largo de Farias, 6,253910,22490
+3963,Sítio Ravi Ribeiro, 32,240237,34456
+3964,Núcleo Costa, 80,70706,1020
+3965,Largo de Siqueira, 5,136034,23923
+3966,Vereda de da Cruz,354261,43972
+3967,Favela de Peixoto, 79,311537,36486
+3968,Feira Almeida, 4,10694,35332
+3969,Rua Cassiano, 18,55078,29140
+3970,Recanto Nicole Lopes, 4,209346,38848
+3971,Ladeira de Cunha, 2,98443,33969
+3972,Distrito de da Rocha, 319,484839,50912
+3973,Rua Hadassa da Cruz, 4,108756,2865
+3974,Aeroporto Aragão, 3,81384,45250
+3975,Travessa Ferreira, 867,59072,19564
+3976,Lago Isaque Siqueira, 71,321273,46513
+3977,Avenida Fogaça, 7,316861,23947
+3978,Conjunto Lucas Sousa, 92,48851,25246
+3979,Núcleo de Alves, 9,500303,21867
+3980,Pátio Luiz Otávio Fonseca, 73,376777,21955
+3981,Núcleo Letícia Rocha, 53,283540,45990
+3982,Rua de Dias, 86,386584,44807
+3983,Vila Fonseca,170674,22286
+3984,Praia Maitê Silveira, 769,210751,34860
+3985,Loteamento Viana, 1,271181,50531
+3986,Distrito da Conceição, 2,325636,44826
+3987,Chácara Ana Júlia Cavalcante, 972,196634,16331
+3988,Recanto Leão, 26,91551,39972
+3989,Jardim Aragão, 94,142198,9074
+3990,Favela Duarte, 6,167894,17488
+3991,Campo Anthony Gabriel Cassiano,466358,6503
+3992,Fazenda de Gomes, 96,238774,22714
+3993,Colônia Cardoso, 683,172351,44504
+3994,Jardim Siqueira, 87,293783,12107
+3995,Ladeira Ferreira, 9,41039,1895
+3996,Chácara Rios, 56,493734,22186
+3997,Favela de Pastor, 34,407091,18522
+3998,Viaduto Porto, 95,393362,11921
+3999,Núcleo de da Cunha,472707,17493
+4000,Condomínio Nicolas Silveira, 19,303609,22846
+4001,Largo Rhavi Marques, 576,164795,28881
+4002,Passarela Pietra Cirino, 52,416749,12897
+4003,Loteamento de Cavalcante, 37,282311,37764
+4004,Área de Aparecida,229955,39509
+4005,Núcleo Duarte, 65,218934,22984
+4006,Campo de Sales, 77,181721,33836
+4007,Esplanada Mendes, 74,267504,19309
+4008,Feira Enzo Gabriel da Cruz, 57,416822,32626
+4009,Aeroporto Moraes, 920,131041,29836
+4010,Viela de Ramos,481959,28053
+4011,Favela Daniela Farias, 90,66972,44924
+4012,Conjunto de Aparecida, 1,238751,34486
+4013,Estação Leandro Castro, 46,38350,12453
+4014,Colônia de da Luz, 15,343759,20940
+4015,Favela de Rios,422428,40873
+4016,Lagoa de Fogaça,224212,3898
+4017,Lagoa Cunha, 97,208301,13224
+4018,Largo Luiz Felipe da Luz,420395,41882
+4019,Favela Mendes, 30,269640,13941
+4020,Jardim Bento Campos, 660,146135,43315
+4021,Lagoa de Costela, 3,500176,49124
+4022,Travessa Eduardo Brito, 68,21997,45234
+4023,Loteamento de Almeida,207149,28884
+4024,Rua Enrico Cavalcante, 68,383953,22284
+4025,Lagoa Siqueira, 342,167153,13110
+4026,Favela de Caldeira, 76,261304,17832
+4027,Alameda de Novais, 76,208666,784
+4028,Trevo Cavalcante, 5,320192,33301
+4029,Vale de Pimenta, 53,343234,34450
+4030,Colônia Montenegro, 5,319670,33987
+4031,Rua Novais, 44,108786,48984
+4032,Recanto Santos, 858,33682,3462
+4033,Rodovia Vargas, 57,131867,33395
+4034,Quadra Davi Luiz Câmara, 50,217715,19991
+4035,Morro Gael Henrique Câmara, 1,56078,48217
+4036,Recanto de da Mota, 3,70904,32232
+4037,Condomínio de Pereira, 8,250884,5478
+4038,Estação Cavalcante, 23,485583,45622
+4039,Alameda Thomas Leão,126762,1171
+4040,Esplanada Nogueira,71607,4787
+4041,Sítio Maysa Andrade, 87,206676,43173
+4042,Residencial Lucas Lima, 4,191060,48387
+4043,Fazenda de Cardoso, 1,498929,45709
+4044,Pátio Alexandre Costela, 7,454851,48624
+4045,Loteamento Juan Pacheco, 6,447131,36904
+4046,Trecho Lucca Montenegro, 7,330778,24418
+4047,Vale de Costa, 774,335484,14598
+4048,Conjunto Ian Silveira, 93,347066,36839
+4049,Vereda Apollo Macedo, 61,136017,8195
+4050,Praia Silveira, 17,34839,15968
+4051,Via de Cardoso, 17,278186,33835
+4052,Campo de da Luz, 51,424806,25292
+4053,Residencial Viana, 27,117942,30924
+4054,Residencial Cavalcante, 84,199803,14626
+4055,Estrada Machado, 75,358101,16581
+4056,Vila de Monteiro,25900,12568
+4057,Recanto Pires, 103,204240,43251
+4058,Lagoa Joaquim Pinto, 84,366722,19527
+4059,Estrada Juan Guerra, 78,223739,48545
+4060,Esplanada de Carvalho,318367,711
+4061,Viela Vieira, 2,57826,33301
+4062,Loteamento Laís Borges,445537,23580
+4063,Lagoa de Barbosa, 43,184721,4194
+4064,Viela Lucas Gabriel Lopes, 43,76759,7593
+4065,Vale de Camargo, 49,431319,14954
+4066,Largo Raquel Porto,297085,49338
+4067,Lagoa de Guerra, 10,395082,26640
+4068,Campo Dias, 28,418846,5852
+4069,Fazenda da Cunha, 2,223710,34132
+4070,Morro de Vargas, 92,81342,12375
+4071,Pátio de Fogaça, 75,465987,41195
+4072,Sítio Breno Caldeira, 563,144808,15656
+4073,Condomínio de Pires, 5,487354,25306
+4074,Praia Ana Júlia Vieira, 279,128659,23661
+4075,Conjunto Rios, 776,358459,41480
+4076,Conjunto Benjamin Pinto, 81,362943,20388
+4077,Travessa de Moreira,348805,29482
+4078,Jardim Vargas, 65,227739,8108
+4079,Loteamento Freitas,159225,6906
+4080,Estrada Enzo Sá, 41,265097,1047
+4081,Parque Isadora Pacheco,75970,37144
+4082,Lagoa Santos, 77,348736,44950
+4083,Estação de Moreira,264474,26536
+4084,Vereda Camargo, 10,229514,18295
+4085,Distrito de Barros, 6,323951,38576
+4086,Rodovia Guerra, 35,197109,35246
+4087,Jardim Ramos, 17,417168,15265
+4088,Estação da Costa,218415,32989
+4089,Condomínio Alana Freitas, 13,243199,29126
+4090,Conjunto Thiago Caldeira, 674,225683,47700
+4091,Vale de Pimenta, 49,305955,17845
+4092,Vereda de da Conceição, 61,292420,22079
+4093,Setor Teixeira, 6,240376,15550
+4094,Feira Pietra da Paz, 50,330596,11536
+4095,Conjunto de Siqueira, 8,121682,14956
+4096,Vereda Duarte, 668,191522,8021
+4097,Trecho de Fogaça,100585,43624
+4098,Viaduto de da Mata, 6,222524,50599
+4099,Pátio Camargo,182455,38148
+4100,Estrada Emilly Montenegro,151028,37262
+4101,Avenida Moraes, 67,313979,15911
+4102,Jardim Danilo Farias, 11,370035,50287
+4103,Feira Campos, 21,353725,44581
+4104,Setor Pinto, 79,438295,48954
+4105,Loteamento Siqueira,99258,26773
+4106,Núcleo de Santos, 423,59524,9540
+4107,Praça de Castro, 7,133118,4718
+4108,Avenida das Neves, 450,296487,23429
+4109,Aeroporto Anna Liz da Mata, 85,185175,23567
+4110,Rua Maria Farias, 99,3637,39267
+4111,Aeroporto Marques, 655,256085,28972
+4112,Estação Costa, 8,250916,31594
+4113,Vereda de Nogueira, 7,148224,48142
+4114,Favela de Monteiro,172605,49088
+4115,Vila de Ramos,350502,36336
+4116,Parque Stella Sales, 86,467877,35127
+4117,Estação Hellena Aparecida, 86,128310,41738
+4118,Alameda de Pires, 7,462201,29110
+4119,Estação Brenda Aragão, 2,320952,542
+4120,Residencial Raquel Araújo, 22,12923,41708

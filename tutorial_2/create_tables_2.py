@@ -4,6 +4,15 @@ conn = connect_to_db("tutorial2_db")
 if conn:
     cur = conn.cursor()
     cur.execute("""
+                
+    CREATE TABLE IF NOT EXISTS people (
+        id SERIAL PRIMARY KEY,
+        first_name VARCHAR(50),
+        last_name VARCHAR(50),
+        age INTEGER,
+        city_id INTEGER
+    );
+                
    CREATE TABLE IF NOT EXISTS countries (
     id SERIAL PRIMARY KEY,
     name TEXT NOT NULL
