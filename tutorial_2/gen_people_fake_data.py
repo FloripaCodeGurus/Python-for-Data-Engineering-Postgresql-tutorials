@@ -11,7 +11,7 @@ def create_fake_people(num_people, role=None, start_id=1):
             "id": start_id + i,
             "first_name": fake.first_name(),
             "last_name": fake.last_name(),
-            "age": role,
+            "age": fake.random_int(min=18, max=80),
             "city_id": random.randint(1, 512),  
         }
         people.append(person)
@@ -28,15 +28,15 @@ def create_countries(num_cities):
         countries.append(countrie)
     return countries
 
-def create_states(num_cities):
+def create_states(num_states):
     fake = Faker('pt_BR') # Brazilian Portuguese locale
     states = []
-    for i in range(num_cities):
+    for i in range(num_states):
         state = {
             "id": i + 1,
             "name": fake.city(),
             "uf": fake.state_abbr(),
-            "country_id": random.randint(1, 424),
+            "country_id": random.randint(1,7),
         }
         states.append(state)
     return states
@@ -48,31 +48,21 @@ def create_cities(num_cities):
         city = {
             "id": i + 1,
             "city_name": fake.city(),
-            "state_id": random.randint(1, 51212),
+            "state_id": random.randint(1, 28),
         }
         cities.append(city)
     return cities
 
-def create_addresses(num_cities):
+def create_addresses(num_addresses):
     fake = Faker('pt_BR') # Brazilian Portuguese locale
     cities = []
-    for i in range(num_cities):
+    for i in range(num_addresses):
         city = {
             "id": i + 1,
             "street": fake.street_address(),
             "number": random.randint(112, 501200),
-            "city_id": random.randint(1, 51212),
+            "city_id": random.randint(1, 112),  # Assuming we have 112 cities on cities.csv
         }
         cities.append(city)
     return cities
 
-if __name__ == "__main__":
-    # Example usage
-    # Generate fake data for 10 people
-    fake_people = create_fake_people(10)
-    for person in fake_people:
-        print(person)
-    print("--------------------------------------------------")
-    create_cities = create_cities(10)
-    for city in create_cities:
-        print(city)

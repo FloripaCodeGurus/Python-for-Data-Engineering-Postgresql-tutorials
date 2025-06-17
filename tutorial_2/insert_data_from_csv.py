@@ -33,63 +33,98 @@ states_ids = list(range(1, 29))
 cities_ids = list(range(1, 113))
 
 
-def insert_states_data(): # use country_id from coutries.csv or coutries table
-    dataset = 'states'
-    csv_file_path = f"tutorial_2/files/{dataset}.csv"
-    data = read_csv_file(csv_file_path)
-    if data:
-        query = f"INSERT INTO {dataset} (id, state_name, coutry_id) VALUES (%s, %s, %s)"
-        for row in data:
-            values = (int(row["id"]), row["state_name"])
-            insert_data_from_csv("tutorial2_db", query, values)
-        logging.info(f"Data inserted successfully into table {dataset}.")
-    else:
-        logging.info("No data to insert.")
-
-def insert_cities_data():  # use states_ids from states.csv or states table
-    dataset = 'cities'
-    csv_file_path = f"tutorial_2/files/{dataset}.csv"
-    data = read_csv_file(csv_file_path)
-    if data:
-        query = f"INSERT INTO {dataset} (id, city_name, state_id) VALUES (%s, %s, %s)"
-        for row in data:
-            values = (int(row["id"]), row["city_name"], int(row["state_id"]))
-            insert_data_from_csv("tutorial2_db", query, values)
-        logging.info(f"Data inserted successfully into table {dataset}.")
-    else:
-        logging.info("No data to insert.")
-
-def insert_address_data(): #  # use cities_ids from cities.csv or cities table
-    dataset = 'addresses'
-    csv_file_path = f"tutorial_2/files/{dataset}.csv"
-    data = read_csv_file(csv_file_path)
-    if data:
-        existing_city_ids = get_existing_state_ids("tutorial2_db", "cities")
-        used_city_ids = set()
-        valid_rows = []
-        for row in data:
-            original_city_id = int(row["city_id"])
-            city_id = original_city_id
-            # Increment city_id until it's unique in this batch and exists in cities table
-            while city_id in used_city_ids or city_id not in existing_city_ids:
-                city_id += 1
-            used_city_ids.add(city_id)
-            # Update the row with the new city_id
-            row["city_id"] = city_id
-            valid_rows.append(row)
-        if valid_rows:
-            query = f"INSERT INTO {dataset} (id,street,number,city_id) VALUES (%s, %s, %s, %s)"
-            for row in valid_rows:
-                values = (int(row["id"]), row["street"], int(row["number"]), int(row["city_id"]))
+def insert_people_data():
+    try:
+        dataset = 'people_1'
+        table_name = 'people'
+        csv_file_path = f"tutorial_2/files/{dataset}.csv"
+        data = read_csv_file(csv_file_path)
+        if data:
+            query = f"INSERT INTO {table_name} (id,first_name,last_name,age,city_id) VALUES (%s, %s, %s, %s, %s)"
+            for row in data:
+                values = (int(row["id"]), row["first_name"], row["last_name"], row["age"], row["city_id"] )
                 insert_data_from_csv("tutorial2_db", query, values)
-            logging.info(f"Inserted {len(valid_rows)} addresses with unique city_id(s).")
+            logging.info(f"Data inserted successfully into table {dataset}.")
         else:
-            logging.info("No valid addresses to insert.")
-    else:
-        logging.info("No data to insert.")
+            logging.info("No data to insert.")
+    except Exception as e:
+        logging.error(f"Error inserting people data: {e}")
+
+
+def insert_country_data():
+    try:
+        dataset = 'countries'
+        table_name = 'countries'
+        csv_file_path = f"tutorial_2/files/{dataset}.csv"
+        data = read_csv_file(csv_file_path)
+        if data:
+            query = f"INSERT INTO {table_name} (id,name) VALUES (%s, %s)"
+            for row in data:
+                values = (int(row["id"]), row["name"])
+                insert_data_from_csv("tutorial2_db", query, values)
+            logging.info(f"Data inserted successfully into table {dataset}.")
+        else:
+            logging.info("No data to insert.")
+    except Exception as e:
+        logging.error(f"Error inserting people data: {e}")
+
+
+def insert_states_data():
+    try:
+        dataset = 'states'
+        table_name = 'states'
+        csv_file_path = f"tutorial_2/files/{dataset}.csv"
+        data = read_csv_file(csv_file_path)
+        if data:
+            query = f"INSERT INTO {table_name} (id, name, uf, country_id) VALUES (%s, %s, %s,%s)"
+            for row in data:
+                values = (int(row["id"]), row["name"], row["uf"], 1) # fixed country_id for Brazil (1)
+                insert_data_from_csv("tutorial2_db", query, values)
+            logging.info(f"Data inserted successfully into table {dataset}.")
+        else:
+            logging.info("No data to insert.")
+    except Exception as e:
+        logging.error(f"Error inserting people data: {e}")
+
+def insert_cities_data():
+    try:
+        dataset = 'cities'
+        table_name = 'cities'
+        csv_file_path = f"tutorial_2/files/{dataset}.csv"
+        data = read_csv_file(csv_file_path)
+        if data:
+            query = f"INSERT INTO {table_name} (id, city_name, state_id) VALUES (%s, %s,%s)"
+            for row in data:
+                values = (int(row["id"]), row["city_name"], row["state_id"])
+                insert_data_from_csv("tutorial2_db", query, values)
+            logging.info(f"Data inserted successfully into table {dataset}.")
+        else:
+            logging.info("No data to insert.")
+    except Exception as e:
+        logging.error(f"Error inserting people data: {e}")
+
+def insert_addresses_data():
+    try:
+        dataset = 'addresses'
+        table_name = 'addresses'
+        csv_file_path = f"tutorial_2/files/{dataset}.csv"
+        data = read_csv_file(csv_file_path)
+        if data:
+            query = f"INSERT INTO {table_name} (id, street, number, city_id) VALUES (%s, %s,%s, %s)"
+            for row in data:
+                values = (int(row["id"]), row["street"], row["number"], row["city_id"])
+                insert_data_from_csv("tutorial2_db", query, values)
+            logging.info(f"Data inserted successfully into table {dataset}.")
+        else:
+            logging.info("No data to insert.")
+    except Exception as e:
+        logging.error(f"Error inserting people data: {e}")
+
 
 if __name__ == "__main__":
-    # insert_missing_states(missing_states_ids)
+    # insert_people_data()
+    # insert_country_data()
+    # insert_states_data()
     # insert_cities_data()
-    insert_address_data()
+    insert_addresses_data()
 

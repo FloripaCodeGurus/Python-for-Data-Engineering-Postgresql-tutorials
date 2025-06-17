@@ -1,251 +1,251 @@
 id,first_name,last_name,age,city_id
-1001,Ana,Aparecida,None,4
-1002,Bruna,Ribeiro,None,165
-1003,Emilly,Duarte,None,6
-1004,Marcelo,Abreu,None,467
-1005,Juan,Cardoso,None,280
-1006,Yuri,Pereira,None,356
-1007,Nathan,Nascimento,None,11
-1008,Antônio,Cavalcanti,None,444
-1009,Rafael,Barbosa,None,491
-1010,Isabelly,Fogaça,None,188
-1011,Lívia,Pereira,None,250
-1012,Amanda,Gomes,None,384
-1013,Sofia,Andrade,None,1
-1014,Matteo,Carvalho,None,200
-1015,Laura,Souza,None,104
-1016,Ana Sophia,Moura,None,339
-1017,Vitória,Barros,None,108
-1018,Maria Eduarda,Cardoso,None,258
-1019,Maitê,Rodrigues,None,203
-1020,Anthony Gabriel,da Costa,None,52
-1021,Ísis,Mendonça,None,377
-1022,Dante,Leão,None,435
-1023,Matteo,Peixoto,None,410
-1024,Ana Cecília,Rodrigues,None,395
-1025,Lara,Santos,None,460
-1026,Felipe,Ramos,None,376
-1027,Marcela,Moreira,None,484
-1028,João Pedro,Lima,None,173
-1029,Manuella,Moura,None,421
-1030,João Lucas,Rios,None,108
-1031,Beatriz,Albuquerque,None,460
-1032,Ravi Lucca,Borges,None,504
-1033,Noah,Fernandes,None,220
-1034,João Vitor,Moura,None,171
-1035,Matheus,Marques,None,460
-1036,Alícia,Cassiano,None,158
-1037,João Guilherme,Novais,None,227
-1038,Davi Luiz,Carvalho,None,180
-1039,Raquel,da Rocha,None,116
-1040,Luna,Costela,None,205
-1041,Leonardo,Rezende,None,367
-1042,Helena,Marques,None,351
-1043,Aurora,Andrade,None,184
-1044,Davi Lucca,Monteiro,None,271
-1045,Emilly,Cassiano,None,434
-1046,Felipe,Campos,None,59
-1047,Valentim,Cassiano,None,46
-1048,Heloisa,Mendes,None,111
-1049,Gael Henrique,Camargo,None,409
-1050,Luna,Moura,None,109
-1051,Emanuelly,Monteiro,None,509
-1052,Rebeca,Rocha,None,286
-1053,Raquel,Casa Grande,None,182
-1054,Joaquim,Ramos,None,459
-1055,Pietra,Novaes,None,29
-1056,Joaquim,Sá,None,408
-1057,Maria Sophia,Araújo,None,304
-1058,Ian,Aragão,None,134
-1059,Cauã,Novaes,None,122
-1060,Murilo,Dias,None,190
-1061,Pedro Henrique,Castro,None,75
-1062,Lucca,Rezende,None,145
-1063,Camila,Caldeira,None,151
-1064,Antonella,Souza,None,326
-1065,Léo,Borges,None,406
-1066,Marcela,Nogueira,None,244
-1067,Antony,Vargas,None,333
-1068,Carolina,Mendes,None,143
-1069,Luigi,Rodrigues,None,265
-1070,Mariane,Ramos,None,187
-1071,Dante,Cavalcante,None,171
-1072,Alícia,Vieira,None,315
-1073,Pedro Henrique,Pires,None,225
-1074,Raquel,Cirino,None,395
-1075,Sarah,Moura,None,509
-1076,Emanuella,Araújo,None,475
-1077,Emanuel,Cavalcante,None,277
-1078,Vinícius,Novais,None,166
-1079,Luiza,Viana,None,197
-1080,Emilly,Almeida,None,461
-1081,Maria Flor,da Costa,None,277
-1082,Lucas,Ramos,None,301
-1083,Davi,Campos,None,396
-1084,Igor,Peixoto,None,381
-1085,Maria Luiza,Pastor,None,217
-1086,Pedro Miguel,Lima,None,107
-1087,Davi Miguel,Moraes,None,180
-1088,Manuella,Nascimento,None,280
-1089,Davi Lucas,Alves,None,78
-1090,Sara,Câmara,None,342
-1091,Thales,Freitas,None,87
-1092,Eloah,Guerra,None,501
-1093,Thales,Sá,None,233
-1094,Maria Flor,Cardoso,None,16
-1095,Anthony,Gonçalves,None,291
-1096,Lara,Sampaio,None,354
-1097,Jade,Araújo,None,47
-1098,Gael,da Costa,None,399
-1099,Ana Luiza,Marques,None,377
-1100,Ryan,Pinto,None,292
-1101,Stephany,da Cunha,None,449
-1102,Luna,Jesus,None,418
-1103,Natália,Sampaio,None,221
-1104,Matheus,Ramos,None,238
-1105,Manuela,Nascimento,None,58
-1106,Olivia,da Costa,None,4
-1107,Cecilia,Barros,None,151
-1108,Maria Luiza,Correia,None,74
-1109,Ana Lívia,Santos,None,380
-1110,Luísa,Freitas,None,106
-1111,Brenda,Brito,None,55
-1112,Agatha,Freitas,None,12
-1113,Lucas Gabriel,da Rocha,None,426
-1114,Bárbara,Gomes,None,51
-1115,Eloah,das Neves,None,330
-1116,Luiz Miguel,Camargo,None,268
-1117,Matheus,Costela,None,268
-1118,Josué,Camargo,None,39
-1119,Isis,Nunes,None,311
-1120,Olívia,Machado,None,488
-1121,Isabel,Moreira,None,215
-1122,Milena,Melo,None,492
-1123,Luana,Machado,None,289
-1124,Giovanna,Sá,None,354
-1125,Caleb,da Conceição,None,371
-1126,Ana Laura,Andrade,None,86
-1127,Murilo,Sampaio,None,509
-1128,Caroline,Câmara,None,485
-1129,Alícia,Rocha,None,482
-1130,Davi Luiz,Pastor,None,240
-1131,Ayla,Fernandes,None,49
-1132,Fernando,Monteiro,None,263
-1133,Ravi,Dias,None,120
-1134,Maria Luísa,Ferreira,None,322
-1135,Arthur Miguel,Santos,None,78
-1136,Mariana,Nunes,None,317
-1137,Fernanda,Garcia,None,125
-1138,Isaac,Silva,None,146
-1139,João,Pires,None,253
-1140,Isabela,Gomes,None,317
-1141,Samuel,Silva,None,214
-1142,Ryan,Vargas,None,88
-1143,Pedro Lucas,Leão,None,368
-1144,Isis,Rios,None,85
-1145,Danilo,Camargo,None,51
-1146,Amanda,Abreu,None,86
-1147,Lucas,Peixoto,None,207
-1148,Lucca,Alves,None,87
-1149,Maysa,Azevedo,None,25
-1150,João Pedro,Montenegro,None,160
-1151,Noah,Sales,None,273
-1152,Thomas,Dias,None,317
-1153,Maria Luísa,Duarte,None,178
-1154,Gustavo,Araújo,None,103
-1155,Sabrina,Rezende,None,460
-1156,Camila,Dias,None,241
-1157,Sarah,das Neves,None,59
-1158,Igor,Andrade,None,446
-1159,Pedro Henrique,Lima,None,355
-1160,Arthur,Jesus,None,322
-1161,Lunna,Brito,None,208
-1162,Ryan,Melo,None,279
-1163,Dante,Sousa,None,492
-1164,Vitor Hugo,Pacheco,None,156
-1165,Stella,Pimenta,None,209
-1166,Maria Luiza,Brito,None,186
-1167,Milena,Cardoso,None,125
-1168,Yasmin,Moura,None,188
-1169,Helena,Moraes,None,155
-1170,Oliver,Oliveira,None,128
-1171,Bernardo,Araújo,None,211
-1172,Joaquim,Gonçalves,None,424
-1173,Isis,Abreu,None,98
-1174,Mathias,Pereira,None,99
-1175,João Gabriel,Sousa,None,408
-1176,Erick,Jesus,None,38
-1177,Lorenzo,Nogueira,None,252
-1178,Nicole,Peixoto,None,11
-1179,Luiz Gustavo,Castro,None,491
-1180,Bruna,Alves,None,219
-1181,Gabriel,Nogueira,None,94
-1182,Nina,Brito,None,377
-1183,Sophie,Silveira,None,493
-1184,Ágatha,Brito,None,70
-1185,Davi Miguel,Mendes,None,17
-1186,Breno,Nogueira,None,469
-1187,Eloah,Jesus,None,268
-1188,Dante,Almeida,None,384
-1189,Milena,Lima,None,172
-1190,Helena,Machado,None,118
-1191,Matteo,Barbosa,None,388
-1192,Nicole,Garcia,None,431
-1193,Henry Gabriel,Sá,None,330
-1194,Ana Sophia,Alves,None,24
-1195,Marcos Vinicius,Cardoso,None,210
-1196,Maria Vitória,Fernandes,None,179
-1197,Anthony,Alves,None,245
-1198,Yasmin,da Costa,None,169
-1199,Maria,Santos,None,175
-1200,João Vitor,Brito,None,176
-1201,Laura,da Conceição,None,86
-1202,Bárbara,Pastor,None,409
-1203,Thomas,Barbosa,None,374
-1204,José Miguel,Cardoso,None,385
-1205,Clara,Pimenta,None,389
-1206,Marcos Vinicius,Macedo,None,122
-1207,Lorena,Freitas,None,300
-1208,Beatriz,da Conceição,None,97
-1209,Brenda,Albuquerque,None,468
-1210,Bruno,Leão,None,234
-1211,Bernardo,Mendes,None,173
-1212,Caroline,Castro,None,274
-1213,Alexia,Pires,None,396
-1214,Maria Luísa,Peixoto,None,495
-1215,Isabel,Sousa,None,233
-1216,Olívia,Pimenta,None,281
-1217,Yuri,da Luz,None,379
-1218,Maria Sophia,Duarte,None,486
-1219,Isabella,Sampaio,None,348
-1220,Cauê,Andrade,None,70
-1221,Agatha,Guerra,None,191
-1222,Murilo,Marques,None,470
-1223,Calebe,Moraes,None,494
-1224,Bella,Ferreira,None,289
-1225,Renan,Almeida,None,468
-1226,Júlia,da Costa,None,480
-1227,Davi Lucas,da Mata,None,116
-1228,Rebeca,Teixeira,None,502
-1229,Stephany,Garcia,None,81
-1230,Maria Fernanda,Caldeira,None,213
-1231,Ian,Barros,None,151
-1232,Júlia,Melo,None,402
-1233,Gustavo Henrique,Cirino,None,162
-1234,Rebeca,Câmara,None,426
-1235,Antony,Albuquerque,None,202
-1236,Pedro Miguel,da Paz,None,116
-1237,Pietro,Siqueira,None,450
-1238,Danilo,Porto,None,112
-1239,Ana Lívia,Marques,None,429
-1240,Lucca,Duarte,None,236
-1241,Júlia,Jesus,None,450
-1242,João Pedro,Mendes,None,115
-1243,Gabrielly,Gonçalves,None,134
-1244,Emanuel,Ribeiro,None,10
-1245,Caio,da Rocha,None,305
-1246,Davi Lucca,Andrade,None,36
-1247,Sofia,da Mota,None,304
-1248,Gael Henrique,Farias,None,284
-1249,Yasmin,Mendonça,None,70
-1250,Heloisa,da Rocha,None,434
+1001,Amanda,Oliveira,31,128
+1002,Benicio,Macedo,76,293
+1003,Maria Liz,Guerra,76,121
+1004,Antonella,da Mata,62,369
+1005,Igor,Cavalcanti,27,275
+1006,Luiz Felipe,Castro,66,459
+1007,João Gabriel,Peixoto,18,487
+1008,Calebe,Carvalho,36,151
+1009,Rafael,Ramos,30,421
+1010,Amanda,Leão,65,3
+1011,José,Melo,30,246
+1012,Guilherme,Siqueira,64,283
+1013,Alexandre,Nogueira,60,257
+1014,Manuela,Andrade,34,80
+1015,Anna Liz,Araújo,80,229
+1016,Renan,Moura,29,328
+1017,Daniel,Ribeiro,29,385
+1018,Levi,Costela,45,110
+1019,Caleb,Borges,69,96
+1020,Ágatha,Silva,64,81
+1021,Yasmin,Farias,59,455
+1022,Davi Lucas,Abreu,73,304
+1023,Luana,Carvalho,37,382
+1024,Julia,Rezende,34,317
+1025,Enrico,Farias,40,271
+1026,Arthur,Jesus,21,284
+1027,Juliana,Montenegro,36,501
+1028,Lara,Novaes,36,56
+1029,Gael,Rodrigues,48,502
+1030,Juan,Rodrigues,41,205
+1031,Léo,Andrade,27,338
+1032,Mathias,Mendes,73,337
+1033,Maria Fernanda,Leão,19,430
+1034,Mirella,Melo,25,134
+1035,Samuel,Nascimento,28,129
+1036,Isabel,Costa,68,157
+1037,Bernardo,da Conceição,76,477
+1038,Larissa,da Cunha,66,231
+1039,Ana Cecília,Montenegro,64,340
+1040,Ágatha,Pinto,30,503
+1041,Lucca,da Rocha,38,15
+1042,Isabella,da Costa,62,389
+1043,Catarina,Gomes,32,207
+1044,Júlia,Aragão,24,146
+1045,Laís,Aragão,54,382
+1046,Alexia,Brito,39,242
+1047,Sara,Cavalcante,41,477
+1048,Ravi,Silva,52,447
+1049,Carlos Eduardo,Pastor,79,272
+1050,Sofia,da Conceição,58,111
+1051,Theodoro,Silva,73,62
+1052,Dante,Costela,76,16
+1053,Emanuel,Nogueira,31,271
+1054,Melissa,Costela,42,475
+1055,Davi,Barbosa,28,84
+1056,Maria Júlia,Duarte,18,192
+1057,Maria Flor,Nogueira,69,51
+1058,Apollo,Cunha,25,450
+1059,Maria Vitória,Viana,42,134
+1060,Arthur,Silveira,25,379
+1061,Sophia,da Cunha,37,128
+1062,Luiz Henrique,Montenegro,51,194
+1063,Maria Clara,Santos,61,183
+1064,Leonardo,Casa Grande,62,201
+1065,Isabela,Fogaça,46,271
+1066,Agatha,Andrade,60,63
+1067,Maria Julia,Machado,55,34
+1068,Nathan,Barbosa,79,307
+1069,Caio,Alves,23,204
+1070,Juliana,Nunes,23,114
+1071,Carlos Eduardo,Barbosa,68,40
+1072,Vinicius,Lima,76,263
+1073,Maria Alice,Sousa,69,4
+1074,Ravi,Souza,63,227
+1075,João Gabriel,Duarte,36,22
+1076,Rafael,Cunha,51,49
+1077,Mariana,Azevedo,34,133
+1078,Brayan,Camargo,23,380
+1079,Sabrina,Peixoto,49,485
+1080,Léo,Pereira,46,479
+1081,Camila,Correia,25,177
+1082,Pedro Lucas,Caldeira,40,196
+1083,Ryan,Silveira,35,255
+1084,Ravy,Martins,34,23
+1085,Luna,Pereira,72,458
+1086,Pedro Lucas,Pereira,48,113
+1087,Laura,Montenegro,74,413
+1088,Antony,Melo,65,56
+1089,Isaque,Araújo,59,311
+1090,Benício,Silveira,34,146
+1091,Maria Helena,Pacheco,27,252
+1092,Luigi,Fonseca,66,264
+1093,Ana Luiza,Moura,42,309
+1094,Liz,Castro,49,180
+1095,Luana,Freitas,65,333
+1096,Isabela,Fernandes,29,270
+1097,Stephany,Pinto,50,354
+1098,Rael,Ramos,31,438
+1099,Eduarda,Aparecida,21,281
+1100,Danilo,Gonçalves,51,4
+1101,Liz,Duarte,55,230
+1102,Maria Fernanda,Nunes,51,351
+1103,Carlos Eduardo,Lopes,26,242
+1104,Bento,Santos,26,235
+1105,João Lucas,Brito,41,456
+1106,Natália,Abreu,29,280
+1107,Gabriela,Castro,41,309
+1108,Gustavo Henrique,Costela,49,76
+1109,Mateus,Peixoto,34,499
+1110,Bianca,Monteiro,24,120
+1111,Nathan,da Rocha,62,490
+1112,Isabel,Castro,44,453
+1113,Davi Miguel,Casa Grande,30,456
+1114,Thomas,Correia,49,74
+1115,Letícia,Leão,54,155
+1116,João Gabriel,Montenegro,50,199
+1117,Julia,da Rosa,59,453
+1118,Cauê,Vargas,72,116
+1119,Maitê,Brito,22,200
+1120,João Pedro,da Conceição,20,323
+1121,Heloísa,Costela,54,148
+1122,João Felipe,Pimenta,59,227
+1123,Camila,Dias,51,466
+1124,Josué,Pires,62,12
+1125,Francisco,Leão,58,47
+1126,Enzo Gabriel,Machado,69,317
+1127,Gustavo,Barros,28,156
+1128,Ravi,Pimenta,66,339
+1129,Manuela,Sá,61,300
+1130,Felipe,Sales,46,204
+1131,Francisco,Borges,77,78
+1132,Ravy,Câmara,19,77
+1133,Diego,Azevedo,25,136
+1134,Maitê,Almeida,40,311
+1135,Maria Vitória,Alves,68,437
+1136,Aylla,das Neves,21,381
+1137,Enrico,Silveira,24,400
+1138,Emanuella,Monteiro,27,467
+1139,Mariana,Cavalcanti,19,11
+1140,Camila,da Cunha,71,185
+1141,Enrico,Barbosa,59,431
+1142,Isabella,Souza,73,7
+1143,Guilherme,Santos,48,16
+1144,Sabrina,Ribeiro,20,233
+1145,Heloísa,Cavalcanti,63,111
+1146,Caroline,da Cruz,26,428
+1147,Luiz Gustavo,da Cunha,49,225
+1148,Luigi,Fogaça,33,53
+1149,André,da Paz,45,479
+1150,Breno,da Mota,42,301
+1151,José Miguel,Rocha,49,248
+1152,Nicolas,Jesus,59,392
+1153,Isadora,Camargo,39,373
+1154,Ana Beatriz,Cunha,72,172
+1155,Felipe,da Conceição,32,367
+1156,Gustavo,Cassiano,33,423
+1157,Vinicius,Barros,67,88
+1158,Nathan,Porto,66,349
+1159,Luiz Miguel,Aparecida,46,15
+1160,Theo,Freitas,53,151
+1161,Henry,da Mota,60,213
+1162,Otávio,Cunha,24,257
+1163,Rhavi,da Conceição,76,187
+1164,Arthur Gabriel,Cassiano,67,453
+1165,Lavínia,Barbosa,65,121
+1166,Pedro Lucas,Vasconcelos,56,47
+1167,João Guilherme,Carvalho,37,24
+1168,Luiz Fernando,Albuquerque,35,1
+1169,Caio,Vargas,20,271
+1170,Benjamin,Martins,22,231
+1171,Luara,Cirino,42,163
+1172,Isabelly,da Rocha,52,203
+1173,Vinícius,Pires,73,510
+1174,Yan,da Costa,37,137
+1175,Luiz Henrique,da Mota,65,152
+1176,Luna,Correia,34,456
+1177,Clarice,Macedo,50,24
+1178,Ana Sophia,Nogueira,78,488
+1179,João Vitor,Alves,60,367
+1180,Lorenzo,Câmara,79,475
+1181,Maria Luísa,Porto,51,212
+1182,Heloísa,Rodrigues,18,12
+1183,Lorenzo,Mendes,59,374
+1184,Mariana,Câmara,38,342
+1185,Luiz Felipe,da Rocha,30,207
+1186,Gabrielly,da Costa,75,403
+1187,João,Gonçalves,35,426
+1188,Benjamim,Rocha,72,139
+1189,Ana Lívia,Costa,59,495
+1190,Renan,da Rocha,79,93
+1191,Maria Luiza,Rodrigues,39,363
+1192,Manuela,Cavalcante,39,367
+1193,Benício,Rodrigues,22,400
+1194,Vitor Hugo,Pastor,31,395
+1195,Lucca,Lima,74,64
+1196,Maria Sophia,Abreu,69,24
+1197,Luigi,Silveira,56,231
+1198,Guilherme,Pastor,70,286
+1199,Heitor,Porto,53,315
+1200,Nicole,Lima,25,327
+1201,João Vitor,Novais,62,196
+1202,Ana Julia,Rocha,63,201
+1203,Kevin,Peixoto,30,389
+1204,Brenda,Ramos,56,350
+1205,Isabella,Vargas,67,135
+1206,Enzo,Novaes,62,243
+1207,Isadora,Vieira,21,325
+1208,Laura,Oliveira,29,257
+1209,Marcos Vinicius,Ramos,20,285
+1210,Gabriela,Sampaio,69,117
+1211,Bella,Camargo,55,378
+1212,Laura,Pereira,26,293
+1213,Mathias,Cassiano,42,160
+1214,Luan,Pacheco,64,163
+1215,Breno,Vasconcelos,18,263
+1216,Bento,da Mota,60,95
+1217,Ravy,da Conceição,73,348
+1218,Maria Eduarda,Nogueira,47,139
+1219,Pedro Lucas,Sales,63,375
+1220,Benjamin,Sá,40,121
+1221,João Pedro,Almeida,47,490
+1222,Rhavi,da Mata,64,363
+1223,Danilo,da Luz,56,392
+1224,Luna,Melo,79,37
+1225,Maria Clara,Pires,72,426
+1226,Maria Eduarda,Fonseca,79,10
+1227,Vinícius,Moura,48,385
+1228,Davi Lucca,Martins,32,121
+1229,Alana,Costela,49,174
+1230,Clara,Gomes,62,428
+1231,Benício,Rodrigues,55,435
+1232,Alexandre,Novais,50,25
+1233,Arthur Gabriel,Carvalho,18,186
+1234,Yuri,Cavalcante,74,366
+1235,Helena,Cavalcanti,51,263
+1236,Leandro,Cunha,55,442
+1237,Luiz Miguel,Andrade,74,502
+1238,Lucas Gabriel,Ramos,45,288
+1239,Mateus,Aparecida,22,423
+1240,Yasmin,Gomes,43,425
+1241,Pietro,Rezende,23,208
+1242,Guilherme,Freitas,63,155
+1243,Marcelo,Cunha,58,115
+1244,Matteo,Azevedo,68,218
+1245,Bruno,Pastor,68,368
+1246,Natália,Gomes,59,303
+1247,Enzo Gabriel,Barbosa,60,512
+1248,Gael Henrique,Barros,38,431
+1249,Bruna,Macedo,52,263
+1250,Igor,Pacheco,37,103

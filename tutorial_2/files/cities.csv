@@ -1,113 +1,113 @@
 id,city_name,state_id
-1,Santos,34283
-2,Sá da Serra,34546
-3,Barbosa,35610
-4,Cavalcante do Campo,1890
-5,Câmara de Duarte,31962
-6,Cardoso da Praia,50967
-7,Alves,46486
-8,Mendes,8720
-9,da Costa,5344
-10,Brito,6509
-11,Mendonça,48746
-12,Leão,11024
-13,Abreu,22913
-14,Vieira,48911
-15,da Luz do Oeste,34610
-16,da Costa Grande,213
-17,Peixoto,35898
-18,Brito de Pacheco,2902
-19,Camargo,5978
-20,Costela do Norte,7401
-21,Costela Paulista,7765
-22,Camargo,15182
-23,Moraes de Aparecida,34582
-24,Rocha,24156
-25,Câmara Verde,35386
-26,Cunha das Flores,9248
-27,Farias,42582
-28,Rezende,32588
-29,Pires,3248
-30,Vasconcelos,2121
-31,Santos,45577
-32,Ribeiro,1736
-33,Fernandes,19386
-34,Garcia de Novaes,46583
-35,Melo,18292
-36,da Conceição do Amparo,3097
-37,Monteiro,27280
-38,Lopes,14575
-39,Cavalcanti das Flores,50257
-40,Duarte,43899
-41,Sampaio da Prata,33345
-42,Ramos,26599
-43,Pinto,28826
-44,Casa Grande das Flores,21280
-45,Correia de Minas,8082
-46,Rezende,12805
-47,da Mata de Goiás,25462
-48,Dias,48645
-49,Araújo de Borges,25202
-50,Leão de Fernandes,44610
-51,das Neves,317
-52,Almeida das Flores,31067
-53,Sales,34106
-54,Mendonça de Vieira,18551
-55,Cavalcante,18832
-56,Pires,4422
-57,Rezende de da Costa,47536
-58,Moraes do Galho,39104
-59,Guerra,46250
-60,Gonçalves de Goiás,21186
-61,Abreu,6959
-62,Cunha de Minas,36129
-63,Marques de Rios,40992
-64,Viana da Mata,15093
-65,Pires,9845
-66,da Conceição de Carvalho,33606
-67,Fogaça,10389
-68,Lima,30995
-69,Caldeira Paulista,29530
-70,Santos,5606
-71,da Cunha,5788
-72,Andrade do Galho,9649
-73,Martins,21789
-74,Nogueira do Campo,41302
-75,Cunha,20488
-76,Araújo Verde,20732
-77,Leão da Serra,50749
-78,Freitas,20902
-79,Farias,36548
-80,Oliveira,27608
-81,da Rosa,46353
-82,Rezende,36782
-83,Sales,43449
-84,Costela do Amparo,21052
-85,Nunes,25696
-86,Fernandes dos Dourados,14107
-87,Pinto das Flores,36249
-88,Barros,29994
-89,Sousa Paulista,2291
-90,Lima Alegre,2962
-91,Rodrigues,33337
-92,Sampaio,35313
-93,Monteiro,16111
-94,Novais Alegre,30164
-95,Guerra de Goiás,46597
-96,Santos,39299
-97,Machado Grande,22304
-98,Fernandes,15132
-99,Teixeira das Flores,1928
-100,Almeida,14021
-101,Siqueira,32073
-102,das Neves,31669
-103,Correia,46291
-104,das Neves,32893
-105,Alves da Prata,6725
-106,Montenegro de Cunha,9524
-107,Cardoso,34974
-108,Casa Grande da Mata,28645
-109,Mendes,36614
-110,Fernandes da Mata,20940
-111,Sousa,44087
-112,Silveira da Praia,46248
+1,Casa Grande da Prata,5
+2,Pires,8
+3,Fogaça,19
+4,Pereira do Oeste,3
+5,Pastor Grande,26
+6,Moreira Paulista,1
+7,Albuquerque do Galho,17
+8,Duarte da Serra,22
+9,Cirino de Minas,21
+10,Fonseca,23
+11,Aragão do Galho,6
+12,Garcia,20
+13,Cavalcanti de Novais,24
+14,Andrade da Mata,17
+15,Melo,2
+16,das Neves das Flores,13
+17,Pimenta de Goiás,19
+18,Costa da Serra,10
+19,Camargo,16
+20,Caldeira,18
+21,Teixeira,12
+22,Peixoto,12
+23,Pires,13
+24,da Paz do Norte,10
+25,Camargo Verde,3
+26,Peixoto do Amparo,14
+27,Carvalho,18
+28,Cardoso,20
+29,Sampaio,18
+30,Ribeiro,9
+31,Fonseca do Oeste,27
+32,Monteiro de Minas,20
+33,Garcia,9
+34,Leão de Sales,26
+35,Leão,1
+36,Gomes,28
+37,Caldeira Verde,12
+38,Gomes,23
+39,Pereira da Praia,15
+40,Sampaio do Oeste,17
+41,Azevedo de das Neves,16
+42,Macedo de Goiás,22
+43,Cavalcanti,9
+44,Moraes do Oeste,25
+45,Albuquerque de Goiás,8
+46,da Cunha Verde,19
+47,Rocha,1
+48,Barbosa da Mata,22
+49,Duarte Verde,2
+50,Marques do Galho,15
+51,Barros do Sul,7
+52,da Cruz de Minas,14
+53,Sousa do Amparo,11
+54,da Mota Alegre,8
+55,Aragão de Pastor,22
+56,Novaes do Norte,26
+57,Teixeira,6
+58,Cavalcante do Sul,16
+59,Silveira da Mata,19
+60,Moura Alegre,8
+61,Moura,28
+62,Aparecida,14
+63,Azevedo das Pedras,5
+64,Carvalho,23
+65,Nunes de Casa Grande,20
+66,Santos Verde,16
+67,Ramos,10
+68,Porto,27
+69,Monteiro,28
+70,Caldeira,2
+71,Andrade do Amparo,4
+72,Duarte do Campo,5
+73,Correia Alegre,15
+74,Sales,23
+75,Cunha Verde,10
+76,Borges do Sul,1
+77,Santos de da Cunha,13
+78,da Costa,23
+79,Ribeiro,4
+80,Moura de Goiás,10
+81,Cirino,20
+82,Mendes da Prata,17
+83,Casa Grande das Pedras,4
+84,Ribeiro,17
+85,Nunes de Minas,8
+86,Leão,13
+87,da Rocha Paulista,21
+88,Casa Grande,28
+89,Mendonça Verde,14
+90,Camargo do Norte,22
+91,Santos da Serra,5
+92,Sampaio de Goiás,7
+93,Aparecida de Minas,10
+94,da Mota da Serra,16
+95,Abreu do Sul,4
+96,Macedo Alegre,7
+97,Ferreira Alegre,28
+98,da Mata,11
+99,da Mata da Prata,3
+100,Nogueira Grande,9
+101,Camargo do Amparo,18
+102,Sampaio dos Dourados,20
+103,Fonseca,19
+104,Araújo,16
+105,Siqueira do Norte,22
+106,Campos,19
+107,Duarte de Minas,28
+108,Campos,2
+109,Mendes das Pedras,7
+110,Castro da Praia,9
+111,Alves,25
+112,Carvalho da Serra,11
