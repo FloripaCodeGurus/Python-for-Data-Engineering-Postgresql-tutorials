@@ -9,72 +9,82 @@ def create_tables():
             cur = conn.cursor()
             cur.execute("""
         CREATE TABLE IF NOT EXISTS people (
-                id SERIAL PRIMARY KEY,
-                first_name VARCHAR(50),
-                last_name VARCHAR(50),
-                age INTEGER,
-                city_id INTEGER
-        );  
-        CREATE TABLE IF NOT EXISTS people_for_union (
-                id SERIAL PRIMARY KEY,
-                first_name VARCHAR(50),
-                last_name VARCHAR(50),
-                age INTEGER,
-                city_id INTEGER
+            id SERIAL PRIMARY KEY,
+            first_name VARCHAR(50),
+            last_name VARCHAR(50),
+            age INTEGER,
+            address_id INTEGER REFERENCES addresses(id)
         );
+                        
+        CREATE TABLE IF NOT EXISTS people_for_union (
+            id SERIAL PRIMARY KEY,
+            first_name VARCHAR(50),
+            last_name VARCHAR(50),
+            age INTEGER,
+            city_id INTEGER
+        );
+
+        CREATE TABLE IF NOT EXISTS people_contatcs (
+            id SERIAL PRIMARY KEY,
+            mobile_phone_number TEXT NOT NULL,
+            professional_phone_number TEXT NULL,
+            email VARCHAR(100) NOT NULL,
+            type VARCHAR(20),
+            person_id INT NOT NULL REFERENCES people(id)
+        );
+                                
         CREATE TABLE IF NOT EXISTS countries (
             id SERIAL PRIMARY KEY,
             name TEXT NOT NULL
-            );
+        );
+
         CREATE TABLE IF NOT EXISTS states (
             id SERIAL PRIMARY KEY,
             name TEXT NOT NULL,
             uf CHAR(2) NOT NULL,
             country_id INT NOT NULL REFERENCES countries(id)
-            );
+        );
+
         CREATE TABLE IF NOT EXISTS cities (
             id SERIAL PRIMARY KEY,
             city_name TEXT NOT NULL,
             state_id INT NOT NULL REFERENCES states(id)
         );
+
         CREATE TABLE IF NOT EXISTS addresses (
             id SERIAL PRIMARY KEY,
             street TEXT NOT NULL,
             number TEXT NOT NULL,
             city_id INT NOT NULL REFERENCES cities(id)
         );
-        CREATE TABLE IF NOT EXISTS phones (
-            id SERIAL PRIMARY KEY,
-            phone_number TEXT NOT NULL,
-            person_id INT NOT NULL REFERENCES people(id)
-        );
         CREATE TABLE IF NOT EXISTS stores (
             id SERIAL PRIMARY KEY,
             name TEXT NOT NULL,
-            country_id INT NOT NULL REFERENCES countries(id),
-            state_id INT NOT NULL REFERENCES states(id),     
-            city_id INT NOT NULL REFERENCES cities(id),
             address_id INT NOT NULL REFERENCES addresses(id)
         );
+
         CREATE TABLE IF NOT EXISTS products (
             id SERIAL PRIMARY KEY,
             name TEXT NOT NULL,
             price NUMERIC(10, 2) NOT NULL,
             stock INTEGER NOT NULL,
             store_id INT NOT NULL REFERENCES stores(id)
-        );             
+        );
+
         CREATE TABLE IF NOT EXISTS orders (
             id SERIAL PRIMARY KEY,
             order_date TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP,
             person_id INT NOT NULL REFERENCES people(id),
+            store_id INT REFERENCES stores(id),
             total_amount NUMERIC(10, 2) NOT NULL
         );
+
         CREATE TABLE IF NOT EXISTS order_items (
             id SERIAL PRIMARY KEY,
             order_id INT NOT NULL REFERENCES orders(id),
             product_id INT NOT NULL REFERENCES products(id),
             quantity INTEGER NOT NULL,
-            price NUMERIC(10, 2) NOT NULL
+            unit_price NUMERIC(10, 2) NOT NULL
         );
         """)
             cur.close()

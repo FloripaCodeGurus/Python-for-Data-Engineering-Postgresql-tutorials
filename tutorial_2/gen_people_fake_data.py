@@ -1,6 +1,11 @@
 from faker import Faker
 import random
 
+import faker_commerce
+
+fake = Faker()
+fake.add_provider(faker_commerce.Provider)
+
 
 # Generate fake data for people
 def create_fake_people(num_people, role=None, start_id=1):
@@ -66,14 +71,54 @@ def create_addresses(num_addresses):
         cities.append(city)
     return cities
 
-def create_stores(num_cities):
+def create_stores(num_stores):
     fake = Faker('pt_BR') # Brazilian Portuguese locale
-    cities = []
-    for i in range(num_cities):
-        city = {
+    stores = []
+    for i in range(num_stores):
+        store = {
             "id": i + 1,
-            "city_name": fake.city(),
-            "state_id": random.randint(1, 28),
+            "name": fake.Provider.ecommerce_name(), # company name as store name
+            "address_id": random.randint(1, num_stores),  # Assuming we have 112 addresses on addresses.csv
         }
-        cities.append(city)
-    return cities
+        stores.append(store)
+    return stores
+
+
+def create_prducts(num_products):
+    fake = Faker('pt_BR') # Brazilian Portuguese locale
+    products = []
+    for i in range(num_products):
+        product = {
+            "id": i + 1,
+            "name": fake.city(),
+            "price": fake.Provider.ecommerce_price(),
+            "stock":random.random("True", "False"),
+            "store_id": random.randint(1, 112),  # Assuming we have 112 addresses on addresses.csv
+            }
+        products.append(product)
+    return products
+
+def create_orders(num_orders):
+    fake = Faker('pt_BR') # Brazilian Portuguese locale
+    orders = []
+    for i in range(num_orders):
+        order = {
+            "id": random.randint(1, 1000),  # Random ID for the order item
+            "order_date": fake.date_time(),
+            "person_id": random.randint(1, 1000),
+            "store_id":random.randint(1, 112), # Assuming we have 112 stores on stores.csv
+            "total_amount": float(random.random(10.99, 20112.99))
+        }
+        orders.append(order)
+    return orders
+
+def create_order_item():
+    fake = Faker('pt_BR') # Brazilian Portuguese locale
+    item = {
+        "id": random.randint(1, 1000),  # Random ID for the order item
+        "order_id": fake.city(),
+        "product_id": fake.items(),
+        "quantity":random.random("True", "False"),
+        "unit_price": fake.Provider.ecommerce_price()
+        }
+    return item
