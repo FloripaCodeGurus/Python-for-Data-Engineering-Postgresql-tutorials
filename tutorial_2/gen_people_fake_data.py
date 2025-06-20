@@ -66,3 +66,14 @@ def create_addresses(num_addresses):
         cities.append(city)
     return cities
 
+def create_stores(num_cities):
+    fake = Faker('pt_BR') # Brazilian Portuguese locale
+    cities = []
+    for i in range(num_cities):
+        city = {
+            "id": i + 1,
+            "city_name": fake.city(),
+            "state_id": random.randint(1, 28),
+        }
+        cities.append(city)
+    return cities
