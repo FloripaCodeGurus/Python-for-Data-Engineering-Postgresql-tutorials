@@ -124,7 +124,7 @@ def insert_addresses_data():
 if __name__ == "__main__":
     # insert_people_data()
     # insert_country_data()
-    # insert_states_data()
+    insert_states_data()
     # insert_cities_data()
-    insert_addresses_data()
+    # insert_addresses_data()
 
