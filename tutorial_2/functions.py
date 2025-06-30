@@ -5,6 +5,13 @@ from mydb_connection import connect_to_db
 logging.basicConfig(level=logging.INFO)
 
 def Functions(sql_query, sql_query_2, database_name="tutorial2_db"):
+    """"
+        Explicação:
+             - Parâmetro de entrada: Recebe o nome de um país (ex.: "Brasil").
+             - Processamento: Agrupa pessoas em faixas etárias (Jovem, Adulto, Idoso).
+             - Retorna: Uma tabela de resumo com a contagem de pessoas em cada faixa etária para o país especificado.
+             - Esta função demonstra o uso prático da agregação em uma estrutura de função clara e reutilizável.
+    """
     try:
         conn = connect_to_db(database_name)
         if conn:
@@ -51,7 +58,7 @@ query = f"""
             ORDER BY age_group_internal;
         END;
         $$;
-        
+
         SELECT * FROM count_people_by_age_group('Brazil');
         """
 

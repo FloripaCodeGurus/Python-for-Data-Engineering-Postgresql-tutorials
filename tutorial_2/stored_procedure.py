@@ -5,6 +5,16 @@ from mydb_connection import connect_to_db
 logging.basicConfig(level=logging.INFO)
 
 def StoredProcedure(sql_query, sql_query_2, database_name="tutorial2_db"):
+    """"
+        -- Exemplo: Stored Procedure para Recuperar Pessoas por País e Faixa Etária
+        -- Este procedimento armazenado recupera todas as pessoas pertencentes a um país específico e dentro de uma 
+        determinada faixa etária (Jovem, Adulto, Idoso).
+
+        -- Parâmetros: country_name (ex.: "Brasil") e age_group ("Jovem", "Adulto" ou "Idoso").
+        -- Lógica de Procedimento Armazenado: Filtra pessoas com base no país especificado e as categoriza por faixa etária.    
+        -- Retorna: Conjunto de resultados estruturado com nomes completos, idades, locais e suas respectivas faixas etárias.
+        -- Este procedimento demonstra encapsulamento eficaz, reutilização e clareza no tratamento de consultas complexas
+    """
     try:
         conn = connect_to_db(database_name)
         if conn:
@@ -63,18 +73,10 @@ query = f"""
         SELECT * FROM get_people_by_country_and_agegroup('Brazil', 'Adult');
         """
 
-# -- Exemplo: Stored Procedure para Recuperar Pessoas por País e Faixa Etária
-# -- Este procedimento armazenado recupera todas as pessoas pertencentes a um país específico e dentro de uma 
-# -- determinada faixa etária (Jovem, Adulto, Idoso).
-
 # SELECT * FROM get_people_by_country_and_agegroup('Brazil', 'Adult');
 # SELECT * FROM get_people_by_country_and_agegroup('USA', 'Senior');
 # SELECT * FROM get_people_by_country_and_agegroup('Canada', 'Young');
 
-# -- Explicação:
-# -- Parâmetros: country_name (ex.: "Brasil") e age_group ("Jovem", "Adulto" ou "Idoso").
-# -- Lógica de Procedimento Armazenado: Filtra pessoas com base no país especificado e as categoriza por faixa etária.
-# -- Retorna: Conjunto de resultados estruturado com nomes completos, idades, locais e suas respectivas faixas etárias.
-# -- Este procedimento demonstra encapsulamento eficaz, reutilização e clareza no tratamento de consultas complexas.
+
 
 StoredProcedure(query, "tutorial2_db")

@@ -31,3 +31,13 @@ $$;
 
 
 SELECT * FROM count_people_by_age_group('Brazil');
+
+
+-- Explicação:
+-- Parâmetro de entrada: Recebe o nome de um país (ex.: "Brasil").
+
+-- Processamento: Agrupa pessoas em faixas etárias (Jovem, Adulto, Idoso).
+
+-- Retorna: Uma tabela de resumo com a contagem de pessoas em cada faixa etária para o país especificado.
+
+-- Esta função demonstra o uso prático da agregação em uma estrutura de função clara e reutilizável.
